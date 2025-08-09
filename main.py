@@ -21,19 +21,23 @@ def scrape_and_generate_feed():
     each post, then generates an RSS feed.
     """
     try:
+        print("--- Starting Scrape ---")
         print(f"Fetching content from {URL}...")
         response = requests.get(URL, headers={'User-Agent': 'Mozilla/5.0'})
         response.raise_for_status()
-        print("Content fetched successfully.")
-
-        # --- ADD THIS BLOCK TO SAVE THE HTML FOR DEBUGGING ---
-        with open("page_content.html", "w", encoding="utf-8") as f:
-            f.write(response.text)
-        # ---------------------------------------------------
+        
+        # We don't need to save the HTML for this test
+        # with open("page_content.html", "w", encoding="utf-8") as f:
+        #     f.write(response.text)
 
         soup = BeautifulSoup(response.content, "lxml")
+        posts = soup.select(POST_SELECTOR)
         
-        # ... the rest of your function remains the same ...
+        # --- NEW LOGGING ---
+        print(f"Found {len(posts)} posts using selector '{POST_SELECTOR}'. Processing up to {MAX_ITEMS}.")
+        if not posts:
+            print("-> WARNING: No posts found. The POST_SELECTOR may be broken.")
+            return # Exit if no posts are found
 
         fg = FeedGenerator()
         fg.title('NBC Sports Fantasy Football News')
@@ -41,32 +45,35 @@ def scrape_and_generate_feed():
         fg.description('Latest player news and analysis for fantasy football from NBC Sports.')
         fg.language('en')
 
-        posts = soup.select(POST_SELECTOR)
-        print(f"Found {len(posts)} posts. Processing up to {MAX_ITEMS}.")
-        
-        for post in reversed(posts[:MAX_ITEMS]):
+        for i, post in enumerate(reversed(posts[:MAX_ITEMS])):
+            print(f"\n--- Processing Post {i+1} ---")
             title_element = post.select_one(TITLE_SELECTOR)
             body_element = post.select_one(BODY_SELECTOR)
             link_element = post.select_one(LINK_SELECTOR)
 
-            if title_element and body_element and link_element:
-                post_title = title_element.get_text(strip=True)
-                post_body = body_element.get_text(strip=True)
-                post_url = link_element['data-share-url']
+            post_title = title_element.get_text(strip=True) if title_element else None
+            post_body = body_element.get_text(strip=True) if body_element else None
+            post_url = link_element['data-share-url'] if link_element else None
 
+            # --- NEW LOGGING ---
+            print(f"  Title: {post_title}")
+            print(f"  Body: {post_body}")
+            print(f"  URL: {post_url}")
+            
+            if post_title and post_body and post_url:
                 fe = fg.add_entry()
                 fe.title(post_title)
                 fe.link(href=post_url)
                 fe.guid(post_url, permalink=True)
                 fe.description(post_body)
+            else:
+                # --- NEW LOGGING ---
+                print("  -> WARNING: Missing data for this post, skipping.")
 
         fg.rss_file('feed.xml', pretty=True)
-        print("RSS feed 'feed.xml' generated successfully.")
+        print("\n--- RSS feed 'feed.xml' generated successfully. ---")
 
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching the URL: {e}")
     except Exception as e:
         print(f"An error occurred: {e}")
-
 if __name__ == "__main__":
     scrape_and_generate_feed()
