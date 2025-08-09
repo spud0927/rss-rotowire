@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>NBC Sports Fantasy Football News</title>
+    <link>https://www.nbcsports.com/fantasy/football/player-news</link>
+    <description>Latest player news and analysis for fantasy football from NBC Sports.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Aug 2025 01:50:01 +0000</lastBuildDate>
+    <item>
+      <title>Adam Thielen caught 1-of-1 targets for 10 yards in the Panthers’ preseason Week 1 game against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c3b-d45c-a7fc-8e3b85110000</link>
+      <description>Thielen is a shaky flex option entering his age-34 season. While he could return value early in the year, it is likely that Tetairoa McMillan operates as the top target earner. Jalen Coker could also sneak ahead of him in the pecking order before long.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c3b-d45c-a7fc-8e3b85110000</guid>
+    </item>
+    <item>
+      <title>Chuba Hubbard rushed three times for 10 yards and caught 0-of-1 targets in the Panthers’ preseason Week 1 game against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c44-d90d-a5bd-ae5fe56b0000</link>
+      <description>Both Hubbard and Rico Dowdle played on the Panthers’ first two drives, quarterbacked by Bryce Young. Hubbard was on the field for the Panthers’ second third-down but surrendered both the first and third to Dowdle. This is, perhaps, where Hubbard will see his touch count reduced following a high-volume role in 2024.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c44-d90d-a5bd-ae5fe56b0000</guid>
+    </item>
+    <item>
+      <title>Rico Dowdle rushed three times for seven yards and caught 1-of-1 targets for 20 yards in the Panthers’ preseason Week 1 game against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c41-d45c-a7fc-8e5be7580000</link>
+      <description>Dowdle could have a fantasy-relevant role this year. He played behind Chuba Hubbard but did split first-team reps with him. Dowdle also notably out-snapped Hubbard two-to-one on third down, taking the first and third qualifying snap.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c41-d45c-a7fc-8e5be7580000</guid>
+    </item>
+    <item>
+      <title>Drake Maye complete 3-of-5 passes for 12 yards and rushed two times for 16 yards and one touchdown in the Patriots’ preseason Week 1 game against the Commanders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c49-d90d-a5bd-ae5bb2380000</link>
+      <description>Maye’s day was marred by a sack-fumble that ended the Patriots’ first drive but he made up for it by running for a score. Maye made it look easy on his touchdown scramble, briefly standing tall in the pocket before out-jogging Commanders defenders. He’s a locked-in QB1.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c49-d90d-a5bd-ae5bb2380000</guid>
+    </item>
+    <item>
+      <title>Kyle Williams caught 0-of-3 targets in the Patriots’ preseason Week 1 game against the Commanders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c4e-d05a-adda-aecec9070000</link>
+      <description>Williams took first-team reps along with Mack Hollins, DeMario Douglas and Kayshon Boutte. Among the bunch, Williams is the only one who earned a target, though he did so with Joshua Dobbs at quarterback. Williams shook his defender at the Commanders’ five-yard line but Dobbs’ throw was late. Williams, Hollins and Boutte are still jockeying for position on the Patriots’ depth chart.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c4e-d05a-adda-aecec9070000</guid>
+    </item>
+    <item>
+      <title>TreVeyon Henderson rushed once for 18 yards, caught 3-of-3 targets for 12 yards and returned the opening kickoff for a 100-yard touchdown in the Patriots’ preseason Week 1 game against the Commanders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c59-d90d-a5bd-ae5b7c030000</link>
+      <description>Henderson established himself as the Patriots’ most explosive player on the very first play, weaving through traffic en route to the 100-yard return touchdown. Rhamondre Stevenson will remain involved in the Patriots’ offense as a north-south rusher but Henderson looks the part of a featured dual-threat weapon. He took four first-team reps to Stevenson’s five.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c59-d90d-a5bd-ae5b7c030000</guid>
+    </item>
+    <item>
+      <title>Rhamondre Stevenson rushed seven times for 36 yards in the Patriots’ preseason Week 1 game against the Commanders.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c53-d05a-adda-aed36f2f0000</link>
+      <description>Stevenson ran efficiently with the first team, averaging 5.0 yards per carry. He was outplayed by TreVeyon Henderson, however, who also played with the first-team offense. Stevenson is looking more like an upside-stash than a weekly fantasy contributor.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c53-d05a-adda-aed36f2f0000</guid>
+    </item>
+    <item>
+      <title>Jacory Croskey-Merritt rushed seven times for 24 yards and caught 1-of-1 targets for eight yards in the Commanders’ preseason Week 1 game against the Patriots.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c69-d05a-adda-aeeb5a360000</link>
+      <description>The Commanders rested their first-team offense but Croskey-Merritt was on the field as a member of today’s starting group. His performance did not disappoint. “Bill” churned through arm tackles on inside runs and left a would-be tackler diving for air on his cross-field catch-and-run. It’s a good start for the promising rookie.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c69-d05a-adda-aeeb5a360000</guid>
+    </item>
+    <item>
+      <title>Isaac TeSlaa caught 2-of-3 targets for 18 yards and one touchdown in the Lions’ preseason Week 1 game against the Falcons.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c77-d90d-a5bd-ae7fcbd00000</link>
+      <description>TeSlaa continued his in-game acrobatics but this time, he produced a highlight-reel touchdown grab against a team-listed starter. Teslaa snuck past slot CB Dee Alford in the red zone, beautifully high-pointed a pass from QB Easton Stick and retained control of the football as Alford hit him in the air. The athletic rookie is earning more opportunities.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-8c77-d90d-a5bd-ae7fcbd00000</guid>
+    </item>
+  </channel>
+</rss>
