@@ -36,3 +36,9 @@ jobs:
           git config --global user.email "actions@github.com"
           git add feed.xml
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
+      - name: Upload HTML for debugging
+        uses: actions/upload-artifact@v4
+        if: always() # This ensures the artifact is uploaded even if other steps fail
+        with:
+          name: scraped-html
+          path: page_content.html
