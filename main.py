@@ -26,7 +26,14 @@ def scrape_and_generate_feed():
         response.raise_for_status()
         print("Content fetched successfully.")
 
+        # --- ADD THIS BLOCK TO SAVE THE HTML FOR DEBUGGING ---
+        with open("page_content.html", "w", encoding="utf-8") as f:
+            f.write(response.text)
+        # ---------------------------------------------------
+
         soup = BeautifulSoup(response.content, "lxml")
+        
+        # ... the rest of your function remains the same ...
 
         fg = FeedGenerator()
         fg.title('NBC Sports Fantasy Football News')
@@ -36,8 +43,7 @@ def scrape_and_generate_feed():
 
         posts = soup.select(POST_SELECTOR)
         print(f"Found {len(posts)} posts. Processing up to {MAX_ITEMS}.")
-
-        # Add the reversed() function to process the list from last to first
+        
         for post in reversed(posts[:MAX_ITEMS]):
             title_element = post.select_one(TITLE_SELECTOR)
             body_element = post.select_one(BODY_SELECTOR)
