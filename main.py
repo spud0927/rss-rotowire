@@ -4,14 +4,14 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
 # --- CONFIGURATION ---
-# Based on your screenshot, these are the correct selectors found directly on the page.
 URL = "https://www.nbcsports.com/fantasy/football/player-news"
+MAX_ITEMS = 15  # <-- This line was missing from the last update
 
-# The selectors for the different parts of each post
-POST_SELECTOR = "div.PlayerNewsPost-content"    # The main container for each news item
-TITLE_SELECTOR = "div.PlayerNewsPost-headline"  # The element with the headline text
-BODY_SELECTOR = "div.PlayerNewsPost-analysis"   # The element with the analysis text
-LINK_SELECTOR = "button[data-share-url]"        # The button with the permanent link
+# Selectors for the different parts of each post on the page
+POST_SELECTOR = "div.PlayerNewsPost-content"
+TITLE_SELECTOR = "div.PlayerNewsPost-headline"
+BODY_SELECTOR = "div.PlayerNewsPost-analysis"
+LINK_SELECTOR = "button[data-share-url]"
 # --- END CONFIGURATION ---
 
 
@@ -25,19 +25,18 @@ def scrape_and_generate_feed():
         print(f"Fetching content from {URL}...")
         response = requests.get(URL, headers={'User-Agent': 'Mozilla/5.0'})
         response.raise_for_status()
-        
-        # We don't need to save the HTML for this test
-        # with open("page_content.html", "w", encoding="utf-8") as f:
-        #     f.write(response.text)
+
+        # Save the HTML so the artifact can be uploaded
+        with open("page_content.html", "w", encoding="utf-8") as f:
+            f.write(response.text)
 
         soup = BeautifulSoup(response.content, "lxml")
         posts = soup.select(POST_SELECTOR)
         
-        # --- NEW LOGGING ---
         print(f"Found {len(posts)} posts using selector '{POST_SELECTOR}'. Processing up to {MAX_ITEMS}.")
         if not posts:
             print("-> WARNING: No posts found. The POST_SELECTOR may be broken.")
-            return # Exit if no posts are found
+            return
 
         fg = FeedGenerator()
         fg.title('NBC Sports Fantasy Football News')
@@ -55,7 +54,6 @@ def scrape_and_generate_feed():
             post_body = body_element.get_text(strip=True) if body_element else None
             post_url = link_element['data-share-url'] if link_element else None
 
-            # --- NEW LOGGING ---
             print(f"  Title: {post_title}")
             print(f"  Body: {post_body}")
             print(f"  URL: {post_url}")
@@ -67,7 +65,6 @@ def scrape_and_generate_feed():
                 fe.guid(post_url, permalink=True)
                 fe.description(post_body)
             else:
-                # --- NEW LOGGING ---
                 print("  -> WARNING: Missing data for this post, skipping.")
 
         fg.rss_file('feed.xml', pretty=True)
@@ -75,5 +72,7 @@ def scrape_and_generate_feed():
 
     except Exception as e:
         print(f"An error occurred: {e}")
+
+
 if __name__ == "__main__":
     scrape_and_generate_feed()
