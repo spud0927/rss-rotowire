@@ -2,7 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
-from datetime import datetime, timezone # Import datetime modules
+from datetime import datetime, timezone
 
 # --- CONFIGURATION ---
 URL = "https://www.nbcsports.com/fantasy/football/player-news"
@@ -13,7 +13,7 @@ POST_SELECTOR = "div.PlayerNewsPost-content"
 TITLE_SELECTOR = "div.PlayerNewsPost-headline"
 BODY_SELECTOR = "div.PlayerNewsPost-analysis"
 LINK_SELECTOR = "button[data-share-url]"
-DATE_SELECTOR = "div.PlayerNewsPost-date" # <-- NEW: Selector for the date element
+DATE_SELECTOR = "div.PlayerNewsPost-date"
 # --- END CONFIGURATION ---
 
 
@@ -37,32 +37,40 @@ def scrape_and_generate_feed():
         fg.description('Latest player news and analysis for fantasy football from NBC Sports.')
         fg.language('en')
 
-        # REMOVED reversed() to process posts in their natural (newest first) order
         for post in posts[:MAX_ITEMS]:
             title_element = post.select_one(TITLE_SELECTOR)
             body_element = post.select_one(BODY_SELECTOR)
             link_element = post.select_one(LINK_SELECTOR)
-            date_element = post.select_one(DATE_SELECTOR) # <-- NEW: Find the date element
+            date_element = post.select_one(DATE_SELECTOR)
+            
+            post_datetime = None
 
-            # Ensure all four parts were found
-            if title_element and body_element and link_element and date_element:
+            # --- NEW TIMESTAMP PARSING LOGIC ---
+            if date_element and date_element.get('data-timestamp'):
+                timestamp_str = date_element.get('data-timestamp')
+                try:
+                    # The 'Z' at the end stands for Zulu time (UTC).
+                    # We replace it with a standard UTC offset that Python can read.
+                    post_datetime = datetime.fromisoformat(timestamp_str.replace('Z', '+00:00'))
+                except (ValueError, TypeError):
+                    print(f"  -> WARNING: Could not parse timestamp string '{timestamp_str}', skipping date.")
+            # -----------------------------------
+
+            if title_element and body_element and link_element:
                 post_title = title_element.get_text(strip=True)
                 post_body = body_element.get_text(strip=True)
                 post_url = link_element['data-share-url']
-
-                # --- NEW: Process the timestamp ---
-                # Get the timestamp (in milliseconds) from the 'data-timestamp' attribute
-                timestamp_ms = int(date_element['data-timestamp'])
-                # Convert it to a timezone-aware datetime object (in UTC)
-                post_datetime = datetime.fromtimestamp(timestamp_ms / 1000, tz=timezone.utc)
-                # -----------------------------------
 
                 fe = fg.add_entry()
                 fe.title(post_title)
                 fe.link(href=post_url)
                 fe.guid(post_url, permalink=True)
                 fe.description(post_body)
-                fe.pubDate(post_datetime) # <-- NEW: Add the specific post date to the feed
+
+                if post_datetime:
+                    fe.pubDate(post_datetime)
+            else:
+                print("  -> WARNING: Missing essential data (title, body, or link), skipping post.")
 
         fg.rss_file('feed.xml', pretty=True)
         print("\n--- RSS feed 'feed.xml' generated successfully. ---")
