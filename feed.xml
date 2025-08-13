@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Aug 2025 20:01:46 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Kris Rhim reports Chargers RB Najee Harris (eye) participated in football drills Tuesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a0af-d90d-a5bd-a2ffd4f30000</link>
-      <description>It was Harris’ first time participating in football drills this training camp. Rhim reports the 27-year-old did drills with a football off to the side with an athletic trainer. He is slowly progressing back to full football activities between jogging and individual drills on Tuesday, but remains on the PUP list for now. Omarion Hampton is the Chargers’ starter, while the third-string spot still remains open for competition. Harris may not be ready for Week 1, but working with a football is an optimistic sign that he is on his way back.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a0af-d90d-a5bd-a2ffd4f30000</guid>
-    </item>
+    <lastBuildDate>Wed, 13 Aug 2025 21:01:38 +0000</lastBuildDate>
     <item>
       <title>Bills signed James Cook to a four-year, $48 million contract extension.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a337-d05a-adda-abb75f200000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a4f3-d05a-adda-aef35b4f0000</link>
       <description>The Vikings took Asamoah in the third round of the 2022 NFL Draft but failed to find a role for him on defenese. He did, however, develop into a high-volume contributor on special teams. Asamoah was active for all 17 games last year and logged 321 special teams snaps. That will likely be his path to sticking on the Titans’ roster.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a4f3-d05a-adda-aef35b4f0000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports Browns QB Shedeur Sanders (oblique) will not practice on Thursday and is unlikely to play in the Browns’ second preseason game against the Eagles.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a505-df63-a199-fd2fd1490000</link>
+      <description>Sanders injured his oblique early in Wednesday’s practice and did not return. He could return for Friday’s practice before suiting up versus the Eagles on Saturday, but that looks like an extremely unlikely outcome at this point. Dillon Gabriel is dealing with a hamstring issue but participated in 11-on-11 drills today, putting him on track to play in Cleveland’s second preseason game. Kenny Pickett is also dealing with a hamstring issue and looks unlikely to suit up. If healthy, Gabriel should get plenty of reps over the weekend. As the only healthy quarterback contending for a starting job in Cleveland, Joe Flacco remains on pace to start in Week 1.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a505-df63-a199-fd2fd1490000</guid>
     </item>
   </channel>
 </rss>
