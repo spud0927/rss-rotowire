@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Aug 2025 15:01:46 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports Browns QB Shedeur Sanders (oblique) will not practice on Thursday and is unlikely to play in the Browns’ second preseason game against the Eagles.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a505-df63-a199-fd2fd1490000</link>
-      <description>Sanders injured his oblique early in Wednesday’s practice and did not return. He could return for Friday’s practice before suiting up versus the Eagles on Saturday, but that looks like an extremely unlikely outcome at this point. Dillon Gabriel is dealing with a hamstring issue but participated in 11-on-11 drills today, putting him on track to play in Cleveland’s second preseason game. Kenny Pickett is also dealing with a hamstring issue and looks unlikely to suit up. If healthy, Gabriel should get plenty of reps over the weekend. As the only healthy quarterback contending for a starting job in Cleveland, Joe Flacco remains on pace to start in Week 1.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a505-df63-a199-fd2fd1490000</guid>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 16:01:50 +0000</lastBuildDate>
     <item>
       <title>Saints placed WR Bub Means (leg) on injured reserve.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a53f-d90d-a5bd-a77f86250000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a90f-d90d-a5bd-ab5f4b2e0000</link>
       <description>Rice was sentenced to five years of probation and 30 days in jail for his involvement in a multi-car crash in Dallas over a year ago. The ruling allowed the NFL to move forward with its disciplinary process, which will now take place after Week 4. Rice is expected to be given a multi-game suspension, though estimates for how long that will be range from two to eight games. No matter the length, it’s unlikely the suspension prevents him from playing in the fantasy playoffs. Fantasy managers should still expect to be without him for roughly four games.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a90f-d90d-a5bd-ab5f4b2e0000</guid>
+    </item>
+    <item>
+      <title>49ers placed OT Andre Dillard on season-ending injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a918-d05a-adda-ab9ad60f0000</link>
+      <description>San Francisco placed Dillard on the PUP list ahead of training camp. Dillard underwent offseason ankle surgery and was still recovering from the procedure. He came off the PUP list earlier this week. It’s unclear if he suffered a setback or if this is a new issue. Either way, the 49ers are down a potential swing tackle as the season approaches.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-a918-d05a-adda-ab9ad60f0000</guid>
     </item>
   </channel>
 </rss>
