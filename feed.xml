@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Aug 2025 15:01:33 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Tom Pelissero reports that “there is still a possibility” for the NFL and Rashee Rice to “agree to a settlement on a suspension, that would allow Rice to be suspended at the start of the season.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-afe2-d05a-adda-afe2a0950000</link>
-      <description>Per Pelissero, the NFL initially proposed a suspension lasting 10-plus games. Rice’s representatives argued for a far shorter suspension, in part because “there is no precedent for suspending someone for over half of the season.” With the two sides reaching an impasse, it was determined Rice’s case would be presented before Judge Sue L. Robinson, which could put Rice’s late-season availability at risk. Losing Rice early in the year would sting as well, with high-profile opponents like the Chargers, Eagles and Ravens on tap in Weeks 1-4. Both the team and the league are incentivized to get this issue sorted out as quickly as possible.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-afe2-d05a-adda-afe2a0950000</guid>
-    </item>
+    <lastBuildDate>Sat, 16 Aug 2025 16:01:56 +0000</lastBuildDate>
     <item>
       <title>The Browns are “cautiously optimistic” that Shedeur Sanders (oblique) can return to practice next week and play in the team’s preseason Week 3 game against the Rams.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b01b-df63-a199-f93b0a5f0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b35b-df63-a199-fb7b9bea0000</link>
       <description>Smith only had five touches, but showed he has some juice against the Seahawks. The 22-year-old running back made a defender miss in the backfield before bouncing the run outside and gaining 10 yards. Smith also caught both of his targets for 16 yards. He certainly looked better than Elijah Mitchell, who had just nine yards on four carries. Smith figures to mix in as one of a few backs behind Isiah Pacheco this season.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b35b-df63-a199-fb7b9bea0000</guid>
+    </item>
+    <item>
+      <title>Dillon Gabriel (hamstring) is expected to start against the Eagles in Week 2 of the preseason on Saturday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b366-d45c-a7fc-b37efa1b0000</link>
+      <description>Gabriel is dealing with a hamstring injury, but is well enough to play against the Eagles on Saturday. Shedeur Sanders (oblique) and Kenny Pickett (hamstring) won’t play while also dealing with injuries while Joe Flacco will be held out as the likely starter for Week 1. Tyler Huntley figures to come off the bench for Gabriel and play a good amount of reps in reserve.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b366-d45c-a7fc-b37efa1b0000</guid>
     </item>
   </channel>
 </rss>
