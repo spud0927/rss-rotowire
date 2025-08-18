@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Aug 2025 00:05:00 +0000</lastBuildDate>
-    <item>
-      <title>Broncos signed FB Adam Prentice, formerly of the Saints, to a contract.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b9ca-d90d-a5bd-bbdb654f0000</link>
-      <description>Prentice’s signing makes sense, at least in the short term. The Broncos’ starting FB Michael Burton is dealing with a hamstring injury. It’s unlikely the team will keep two fullbacks on the active roster, though. The Broncos correspondingly placed OG Nick Gargiulo on injured reserve.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b9ca-d90d-a5bd-bbdb654f0000</guid>
-    </item>
-    <item>
-      <title>ESPN’s Daniel Oyefusi reports that the Browns are expected to announce their starting quarterback for Week 1 soon.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b9b7-d90d-a5bd-bbff0acc0000</link>
-      <description>Joe Flacco, now 40 years old, is somehow the only healthy quarterback on the Browns roster. Both Kenny Pickett and Dillon Gabriel are nursing hamstring injuries, though Gabriel played in preseason Week 2 and suffered no setbacks. Shedeur Sanders, meanwhile, is dealing with an oblique injury. Flacco has also reportedly been the steadiest performer in practice. It is likely his job to lose. He is not fantasy-relevant in re-draft formats.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b9b7-d90d-a5bd-bbff0acc0000</guid>
-    </item>
-    <item>
-      <title>Tank Bigsby rushed two times for six yards and caught 1-of-1 targets for 19 yards in the Jaguars’ preseason Week 2 game against the Saints.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b9fd-d05a-adda-bbff96480000</link>
-      <description>Bigsby returned the opening kickoff for 36 yards before handling the first play from scrimmage, a two-yard run up the middle. Last week, Travis Etienne started and played nearly the entire first drive. This week, Bigsby got the start and stayed on-field for 7-of-9 first-drive snaps. He clocked two snaps on the second drive but after that, his day was done. His best play came via a 2nd-and-8 screen pass, which he took across the field while forcing two missed tackles and setting up his blocks well. It was a good showing for Bigsby, as he and Etienne jockey for the Week 1 starting role. Bhashul Tuten should not be discounted, though.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-b9fd-d05a-adda-bbff96480000</guid>
-    </item>
+    <lastBuildDate>Mon, 18 Aug 2025 01:29:40 +0000</lastBuildDate>
     <item>
       <title>Travis Etienne Jr. rushed three times for 24 yards and caught 1-of-1 targets for eight yards in the Jaguars’ preseason Week 2 game against the Saints.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-ba0b-d90d-a5bd-ba5b705a0000</link>
@@ -67,6 +49,18 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-ba67-d05a-adda-bae798c80000</link>
       <description>Rattler looked better than Tyler Shough did, though Rattler had the benefit of facing backups. The Saints are in an unenviable situation. Their rookie quarterback is failing to outplay their preferred backup. Fortunately, fantasy managers need not draft either player in re-draft formats.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-ba67-d05a-adda-bae798c80000</guid>
+    </item>
+    <item>
+      <title>Kendre Miller rushed six times for 21 yards in the Saints’ preseason Week 2 game against the Jaguars.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-ba67-d05a-adda-bae75efa0000</link>
+      <description>Miller played 5-of-5 snaps on the first drive, critically remaining on-field for third down. Ultimately, he and Cam Akers split first-team snaps 14-to-7, with Akers playing the remaining four third downs. Miller is astonishingly credited with five missed tackles forced. Akers rushed twice for two yards and caught 3-of-3 targets for 11 yards.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-ba67-d05a-adda-bae75efa0000</guid>
+    </item>
+    <item>
+      <title>Caleb Williams completed 6-of-10 passes for 107 yards and one touchdown in the Bears’ preseason Week 2 game against the Bills.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-baab-d45c-a7fc-babb3aab0000</link>
+      <description>Williams stood tall in the pocket and efficiently distributed the ball across his pass-catching corps. The Bills’ defense was mostly comprised of backups and rotational players, but it was a promising showing for a Bears offense that has received up-and-down reviews thus far.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-baab-d45c-a7fc-babb3aab0000</guid>
     </item>
   </channel>
 </rss>
