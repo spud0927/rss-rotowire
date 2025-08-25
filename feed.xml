@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Aug 2025 23:01:22 +0000</lastBuildDate>
-    <item>
-      <title>Bears placed CB Terell Smith on injured reserve with a knee injury.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-dd94-de13-afdc-dfdf6b2e0000</link>
-      <description>We already knew Smith would miss the 2025 season, but this move makes it official. It’s a terribly unfortunate development for the talented former fifth-round pick. The Bears waived LB Swayze Bozeman, OL Chris Glaser, TE Thomas Gordon, S Mark Perry and DB Jeremiah Walker.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-dd94-de13-afdc-dfdf6b2e0000</guid>
-    </item>
-    <item>
-      <title>Eagles waived QB Dorian Thompson-Robinson.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-ddbb-de13-afdc-dffbbe710000</link>
-      <description>Even with the injury to Tanner McKee (thumb), the Eagles feel confident enough in their depth at quarterback to let Thompson-Robinson hit the waiver wire. It’s certainly feasible that the team could bring back DTR on the practice squad, but it’s just as likely that he’ll be looking for a new organization.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-ddbb-de13-afdc-dffbbe710000</guid>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 00:04:24 +0000</lastBuildDate>
     <item>
       <title>Jets waived QB Adrian Martinez.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-ddbe-dbe3-a9bb-fdff1f8b0000</link>
@@ -67,6 +55,18 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-de17-d332-a1fd-de37c7200000</link>
       <description>Bootle, 27, was signed in the middle of July, and didn’t stick around past the summer. The speedy corner will now be free to sign with another team, but is likely just roster-fodder at this point.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-de17-d332-a1fd-de37c7200000</guid>
+    </item>
+    <item>
+      <title>Broncos waived CB Micah Abraham.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-de44-dbe3-a9bb-fe57c8830000</link>
+      <description>Abraham suited up for two Broncos preseason games this year, allowing one catch for nine yards on two targets. He recorded zero tackles. The 2024 sixth-round pick will now look to make a final roster elsewhere.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-de44-dbe3-a9bb-fe57c8830000</guid>
+    </item>
+    <item>
+      <title>Jaguars traded T Fred Johnson to the Eagles in exchange for for a 2026 seventh-round pick.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-de5b-d332-a1fd-de7ff04b0000</link>
+      <description>Johnson returns to the Eagles after signing with the Jaguars in March. The 28-year-old will likely be a backup bookend for Philadelphia; a role that he served for the majority of the 2024 season with the club.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000198-de5b-d332-a1fd-de7ff04b0000</guid>
     </item>
   </channel>
 </rss>
