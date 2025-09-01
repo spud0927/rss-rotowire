@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Sep 2025 16:01:57 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Nate Taylor reports Trent McDuffie “is not expected to agree on a multiyear contract extension” with the Chiefs before the start of the season.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-0540-de13-afdd-47cb9fa20000</link>
-      <description>McDuffie had his fifth-year option picked up by the team earlier this offseason and is now under contract through the 2026 season. McDuffie earned first-team All-Pro honors in 2023 and was a second-team All-Pro in 2024 after tallying two interceptions and 13 pass breakups while earning a PFF coverage grade of 80.6. McDuffie will earn a base salary just north of $2.613 million this season, with that number jumping to $13.632 million next season. It wouldn’t be surprising if a new deal was reached before the start of the 2026 campaign if McDuffie continues to perform at the high level we’ve seen over the last two seasons.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-0540-de13-afdd-47cb9fa20000</guid>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Trevon Diggs’ status for Week 1 is “up in the air.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-0553-d332-a1fd-97770cab0000</link>
-      <description>Diggs is still working his way back from a season-ending knee injury, and while he avoided the PUP list to start the season, Rapoport said after speaking to team reporters that some have suggested his return will be “no later than Week 4.” It’s an odd way to phrase things, but it doesn’t sound like there’s much optimism that Diggs will be ready in time for Thursday night when the Cowboys visit the Eagles to kick off the season. That said, a return before Week 4 would make some sense, given that Diggs would have been forced to miss the first four weeks had he opened the season on the PUP list. With official practice reports set to be released this week, we’ll gain a better sense of Diggs’ availability once we see how the team lists his participation.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-0553-d332-a1fd-97770cab0000</guid>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 17:01:17 +0000</lastBuildDate>
     <item>
       <title>Browns beat writer Mary Kay Cabot reports Quinshon Judkins could return to the team as early as this week.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-0575-db7b-a5dd-a575055d0000</link>
@@ -65,8 +53,20 @@
     <item>
       <title>Patriots HC Mike Vrabel said Christian Gonzalez (hamstring) won’t practice on Monday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-05f5-de13-afdd-47ff214a0000</link>
-      <description>This news comes just days after the team declined to specify a return date for the star corner, who first suffered the injury on July 28th. There will still be time for Gonzalez to take the practice field before the team has to decide on his availability heading into the weekend, but an early absence isn’t a great start. If Gonzalez is unable to go, second-year corner Charles Woods is listed behind him on the depth chart and would presumably draw the start.</description>
+      <description>This news comes just days after the team declined to specify a return date for the star corner, who first suffered the injury on July 28. There will still be time for Gonzalez to take the practice field before the team has to decide on his availability heading into the weekend, but an early absence isn’t a great start. If Gonzalez is unable to go, second-year corner Charles Woods is listed behind him on the depth chart and would presumably draw the start.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-05f5-de13-afdd-47ff214a0000</guid>
+    </item>
+    <item>
+      <title>Panthers HC Dave Canales said Jalen Coker has a “significant quad strain.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-0606-dbe3-a9bb-36575fce0000</link>
+      <description>Coker has already been placed on injured reserve and will miss at least the first four games of the season. However, Canales’ most recent comments suggest the second-year receiver could be looking at an absence that extends beyond the four-game minimum. The Panthers re-signed Hunter Renfrow late last week, giving them an easy replacement for Coker in the slot, but we wouldn’t expect Renfrow to have much fantasy upside at this time. We will provide any additional updates on Coker as they come available.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-0606-dbe3-a9bb-36575fce0000</guid>
+    </item>
+    <item>
+      <title>Browns CB Greg Newsome said his shoulder “feels amazing” after being limited due to the injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-0616-db7b-a5dd-a61631cc0000</link>
+      <description>Newsome was limited throughout most of training camp due to his shoulder injury, but the veteran corner says the shoulder “will not be a factor” as he prepares for Week 1’s game against the Bengals. Newsome was once thought to be a cap casualty by the Browns this offseason, but remains on the roster and is expected to play a key role as the team’s second corner opposite Denzel Ward. Newsome, 25, totaled 27 tackles and one interception in 13 games for the Browns last season.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-0616-db7b-a5dd-a61631cc0000</guid>
     </item>
   </channel>
 </rss>
