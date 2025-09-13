@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Sep 2025 22:01:24 +0000</lastBuildDate>
-    <item>
-      <title>Colts placed CB Jaylon Jones on injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-4409-dc44-a9d9-476fecd10000</link>
-      <description>Johnson missed the first game of the season for the Colts while tending to a hamstring injury sustained in camp. His placement on injured reserve means he will miss the next four games, at minimum. The Colts suddenly find themselves lacking depth in the secondary with Charvarius Ward dealing with a concussion.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-4409-dc44-a9d9-476fecd10000</guid>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 23:01:32 +0000</lastBuildDate>
     <item>
       <title>Browns activated RB Quinshon Judkins.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-440c-d86f-abdd-45bd110b0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-44c9-dc44-a9d9-47efd4260000</link>
       <description>Roberts reportedly suffered a sprained elbow in the team’s Week 1 win over the Patriots. He missed practice Thursday but managed to increase his participation each subsequent day, getting in a limited session Friday before upgrading to a full practice Saturday.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-44c9-dc44-a9d9-47efd4260000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports the Giants have “no sense of urgency” with regards to their quarterback situation.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-4529-d86f-abdd-45bdcf260000</link>
+      <description>Specifically, there is no sense of urgency to “to bench Russell Wilson and start rookie Jaxson Dart.” The report only exists, of course, because there is already very much a sense of urgency in the public discourse. Per Schefter, the team is leaving itself wiggle room. “It doesn’t mean a change can’t come soon at the quarterback position, but the Giants would prefer that it not happen anytime soon, according to sources.” That, we believe, but it will come sooner rather than later if Wilson continues to play like he did in the Giants’ opener against the Commanders.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-4529-d86f-abdd-45bdcf260000</guid>
     </item>
   </channel>
 </rss>
