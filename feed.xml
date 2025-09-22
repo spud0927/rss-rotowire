@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Sep 2025 19:01:32 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports Bears TE Colston Loveland (hip) “is expected to have a chance” to play in Week 4 against the Raiders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-726f-d6a5-adff-f6ef3cbe0000</link>
-      <description>According to Schefter, Loveland’s injury “is not believed to be serious.” The rookie tight end caught one pass for 31 yards in Week 3’s win over the Cowboys before exiting Sunday’s contest, and has caught three passes for 31 yards on six targets. Loveland can’t be trusted by fantasy managers in Week 4 even if he is active.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-726f-d6a5-adff-f6ef3cbe0000</guid>
-    </item>
-    <item>
-      <title>Speaking on 105.3 the Fan, Cowboys executive vice president Stephen Jones declined to commit to CeeDee Lamb (ankle) playing in Week 4 against the Packers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-727a-d1b3-a5dd-737b59470000</link>
-      <description>Lamb is dealing with a high-ankle sprain. He expressed optimism after Sunday’s loss to the Bears, saying he “absolutely” feels like he can play in Week 4 against the Packers, but Jones is opting to take a more measured approach. Jones said the Cowboys will wait and see how the week goes for Lamb before deciding whether or not he’ll have a chance to suit up on Sunday night. This will be something to watch throughout the week. Dallas Morning News’ Calvin Watkins reports the Cowboys are thinking that Lamb will miss “2-4 weeks.”</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-727a-d1b3-a5dd-737b59470000</guid>
-    </item>
-    <item>
-      <title>Commanders signed S Darnell Savage.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7286-dfde-a1bd-7e8fff940000</link>
-      <description>He’ll take Will Harris’ place in the rotation. Savage had an underwhelming couple of years in Jacksonville but should be a potential starter for the Commanders. The 28-year-old had one tackle in two games with the Jaguars before being released.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7286-dfde-a1bd-7e8fff940000</guid>
-    </item>
-    <item>
-      <title>Titans HC Brian Callahan said “everything is under evaluation and consideration” when asked if he could give up offensive play-calling.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7284-d93f-ad9d-7ac7e37a0000</link>
-      <description>The 0-3 Titans are open to anything to secure that much-needed first win of the season. Currently ranking 31st in both EPA per play and offensive success rate (36.8 percent), Callahan’s offense is in need of a spark, which could come from a change in play-calling. The former OC, who was once praised for the elite offenses he oversaw during his time in Cincinnati, has struggled to live up to the hype in his brief tenure as head coach of the Titans. The Titans are riding a nine-game losing streak that dates back to last season and were a bottom-tier offense in 2024, which ultimately led them to the No. 1 overall pick and QB Cam Ward this offseason. Offensive coordinator Nick Holz, who last served as OC in 2022 while at UNLV, would presumably take over at play-calling if a change were to be made. He joined Callahan’s staff during the 2024 offseason and has never held a play-calling role in the NFL.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7284-d93f-ad9d-7ac7e37a0000</guid>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Samaje Perine (thumb) is not ruled out for Week 4.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7288-dfde-a1bd-7e8da3de0000</link>
-      <description>He had an MRI after leaving Week 3’s game that did not reveal significant damage, per a source. Perine is not startable, even with Chase Brown’s abysmal stat line in front of him, but it sounds like he’s got a chance to provide more league-average third-down back work in Week 4.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7288-dfde-a1bd-7e8da3de0000</guid>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports CeeDee Lamb (ankle) is “unlikely to play” in Week 4 against the Packers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7292-d93f-ad9d-7ad738b10000</link>
-      <description>This report comes about an hour after Cowboys EVP Stephen Jones declined to commit to Lamb’s Week 4 availability. It goes without saying that Lamb is trending toward missing at least one week of action, but Schefter also points out that “the Cowboys want to see how Lamb is doing in the next 10-14 days before making further determinations about his status.” Lamb undoubtedly wants to beat whatever projected return date the Cowboys will have set for him, but it’s hard to imagine him not missing at least one game with the injury.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7292-d93f-ad9d-7ad738b10000</guid>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 20:01:27 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Adam Schefter reports Nick Bosa (knee) suffered a season-ending torn ACL in Week 3.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72ac-d1b3-a5dd-73fdbd8a0000</link>
@@ -67,6 +31,42 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72c5-d6a5-adff-f6c5cb910000</link>
       <description>Numerous reports continue to come in on Lamb’s ankle. In less than 24 hours, we have gone from Lamb saying he could “absolutely” play in Week 4 to the team now expecting him to miss 3-4 weeks, which always felt like the most likely outcome regardless of Lamb’s optimism. NFL Network’s Ian Rapoport later reported that the Cowboys don’t plan to place Lamb on injured reserve in case he can return inside the four games players on IR are required to miss, but it sounds like this is trending toward being a multi-week absence. George Pickens and Jake Ferguson stand to benefit the most from Lamb’s absence, with Pickens profiling as a WR2 and Ferguson a fringe TE1 in fantasy.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72c5-d6a5-adff-f6c5cb910000</guid>
+    </item>
+    <item>
+      <title>Panthers TE Ja’Tavion Sanders (foot) was spotted in a walking boot after Sunday’s win.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72d7-d1b3-a5dd-73f78d9f0000</link>
+      <description>He was still wearing it as of Monday, despite saying that X-Rays were fine on Sunday. This will be a situation to monitor. The Panthers have been run-heavy, but Sanders hauled in 7-of-9 targets in Week 2 when they threw 55 times and would figure to be one of the team’s main pass-catchers at this point. The Panthers should update his status at some point in the next few days.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72d7-d1b3-a5dd-73f78d9f0000</guid>
+    </item>
+    <item>
+      <title>Packers RT Zach Tom (oblique) left Week 3’s game against the Browns and did not return.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72e7-d93f-ad9d-7ae707a10000</link>
+      <description>He played just one snap in what was an aggravation of a previous injury that held him out of Week 2. Both Anthony Belton and Darian Kinnard got work against the Browns in what was a disappointing loss. The fact that this was a re-aggravation does make it sound like Tom may be sidelined for more than just a week.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72e7-d93f-ad9d-7ae707a10000</guid>
+    </item>
+    <item>
+      <title>Packers LG Aaron Banks (groin) left Green Bay’s Week 3 game against the Browns and did not return.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72e9-dfde-a1bd-7eedea300000</link>
+      <description>He played 31 snaps before leaving at halftime, which kicked Jordan Morgan inside and got Green Bay’s other right tackles on the field to replace the similarly-departed Tom. We wouldn’t be surprised if Banks spent some time on the injury report this week at the very least. Green Bay’s offensive line injuries helped contribute to a disappointing loss against the Browns.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72e9-dfde-a1bd-7eedea300000</guid>
+    </item>
+    <item>
+      <title>Commanders HC Dan Quinn said Jayden Daniels (knee) is still day-to-day.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72ef-d1b3-a5dd-73ff31980000</link>
+      <description>Quinn will provide another update on Wednesday when the Commanders take the field for their first practice of the week. The team has played Daniels’ availability somewhat close to the vest, calling him “truly day-to-day” last week, only to eventually rule him out before the weekend after he failed to practice all week. We don’t fully know the severity of Daniels’ injury, leaving us to trust what the team tells us while we monitor injury reports from afar. Daniels’ practice status will be one to watch when the first report is released on Wednesday.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72ef-d1b3-a5dd-73ff31980000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Kris Rhim believes the Chargers may be forced to “lean on” Omarion Hampton in a way they “didn’t anticipate in 2025.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72ee-d6a5-adff-f6ef52840000</link>
+      <description>With Najee Harris seemingly done for the season with an Achilles tear, the Chargers did not rotate Hampton out of the game often in Week 3. Backup Hassan Haskins played just seven offensive snaps, and did not receive a carry on any of them, while Hampton played 68 of 86 snaps. The Chargers may sign a third back off their practice squad this week, but it stands to reason that they may not be rotating Hampton out very often despite Greg Roman’s insistence that they’d do so in Week 1. The story quotes Jim Harbaugh as saying that Hampton has “picked it up and taken it on his shoulders. We’re really lucky to have him.” Bottom line: Fantasy managers who dealt with Hampton’s ugly first two weeks may be in for a dream runout if he can stay healthy.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72ee-d6a5-adff-f6ef52840000</guid>
+    </item>
+    <item>
+      <title>Commanders placed S Will Harris (fibula) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72f4-d6a5-adff-f6f5eb050000</link>
+      <description>We don’t know how much time Harris is expected to miss, but the stint on injured reserve will require him to miss a minimum of four games. The Commanders already signed veteran safety Darnell Savage to provide added depth to the secondary.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72f4-d6a5-adff-f6f5eb050000</guid>
     </item>
   </channel>
 </rss>
