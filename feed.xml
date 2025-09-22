@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Sep 2025 20:01:27 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports Nick Bosa (knee) suffered a season-ending torn ACL in Week 3.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72ac-d1b3-a5dd-73fdbd8a0000</link>
-      <description>The 49ers had optimism last night, but this is a devastating blow. It is the same knee he initially tore the ACL in during the 2020 season. San Francisco was getting by with Bosa and some blitz packages, but now has no obvious source of pressure on the roster. Bryce Huff could be elevated beyond his situational role as the 49ers try to pick up the pieces on defense. It’s a major downgrade for their D/ST and will make their playoff climb a little steeper, even at 3-0.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72ac-d1b3-a5dd-73fdbd8a0000</guid>
-    </item>
-    <item>
-      <title>Giants coach Brian Daboll said they’re “evaluating everything” when asked about who will be the starting quarterback on Sunday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72b4-dfde-a1bd-7ebd6d840000</link>
-      <description>It is the second time in three weeks that Daboll hasn’t really offered much of an endorsement for Russell Wilson, although he did manage a 400-yard effort against the Cowboys in Week 2. It seems like Jaxson Dart will get his chance sooner rather than later regardless of what happens this week, with the team clearly spiraling at 0-3 and Daboll needing some way to manufacture some job security. Whenever he’s elevated, Dart will need to blow the NFL away for Daboll and Joe Schoen to have any shot of keeping their jobs. The Athletic’s Dan Duggan believes that “after listening to Daboll’s entire presser, they have to be making a QB change and he’s just not ready to announce it.”</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72b4-dfde-a1bd-7ebd6d840000</guid>
-    </item>
-    <item>
-      <title>Colts WR Alec Pierce has entered concussion protocol.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72bd-d1b3-a5dd-73fdc0000000</link>
-      <description>This was to be expected after Pierce left Week 3’s win over the Titans with a concussion. The veteran receiver will now need to clear protocol if he hopes to play in Week 4 against the Rams, but his recent concussion history suggests he’ll miss at least one game.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72bd-d1b3-a5dd-73fdc0000000</guid>
-    </item>
-    <item>
-      <title>ESPN’s Todd Archer reports CeeDee Lamb “could miss 3-4 weeks with a high left ankle sprain.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72c5-d6a5-adff-f6c5cb910000</link>
-      <description>Numerous reports continue to come in on Lamb’s ankle. In less than 24 hours, we have gone from Lamb saying he could “absolutely” play in Week 4 to the team now expecting him to miss 3-4 weeks, which always felt like the most likely outcome regardless of Lamb’s optimism. NFL Network’s Ian Rapoport later reported that the Cowboys don’t plan to place Lamb on injured reserve in case he can return inside the four games players on IR are required to miss, but it sounds like this is trending toward being a multi-week absence. George Pickens and Jake Ferguson stand to benefit the most from Lamb’s absence, with Pickens profiling as a WR2 and Ferguson a fringe TE1 in fantasy.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72c5-d6a5-adff-f6c5cb910000</guid>
-    </item>
-    <item>
-      <title>Panthers TE Ja’Tavion Sanders (foot) was spotted in a walking boot after Sunday’s win.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72d7-d1b3-a5dd-73f78d9f0000</link>
-      <description>He was still wearing it as of Monday, despite saying that X-Rays were fine on Sunday. This will be a situation to monitor. The Panthers have been run-heavy, but Sanders hauled in 7-of-9 targets in Week 2 when they threw 55 times and would figure to be one of the team’s main pass-catchers at this point. The Panthers should update his status at some point in the next few days.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72d7-d1b3-a5dd-73f78d9f0000</guid>
-    </item>
-    <item>
-      <title>Packers RT Zach Tom (oblique) left Week 3’s game against the Browns and did not return.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72e7-d93f-ad9d-7ae707a10000</link>
-      <description>He played just one snap in what was an aggravation of a previous injury that held him out of Week 2. Both Anthony Belton and Darian Kinnard got work against the Browns in what was a disappointing loss. The fact that this was a re-aggravation does make it sound like Tom may be sidelined for more than just a week.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72e7-d93f-ad9d-7ae707a10000</guid>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 21:01:42 +0000</lastBuildDate>
     <item>
       <title>Packers LG Aaron Banks (groin) left Green Bay’s Week 3 game against the Browns and did not return.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72e9-dfde-a1bd-7eedea300000</link>
@@ -67,6 +31,42 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72f4-d6a5-adff-f6f5eb050000</link>
       <description>We don’t know how much time Harris is expected to miss, but the stint on injured reserve will require him to miss a minimum of four games. The Commanders already signed veteran safety Darnell Savage to provide added depth to the secondary.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72f4-d6a5-adff-f6f5eb050000</guid>
+    </item>
+    <item>
+      <title>Panthers TE Ja’Tavion Sanders (ankle) has a high-ankle sprain and will miss “multiple weeks.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7303-d93f-ad9d-7bc738080000</link>
+      <description>Replacement tight end Tommy Tremble will likely be a non-factor for fantasy purposes. This could funnel more targets towards Carolina’s wideouts, leaving the tree more condensed ahead of Week 4’s matchup with the Patriots. Perhaps it will turn into a smash spot for Hunter Renfrow, since the other non-Tetairoa McMillan targets have been wanting.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7303-d93f-ad9d-7bc738080000</guid>
+    </item>
+    <item>
+      <title>Lions placed EDGE Marcus Davenport (chest) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7306-dfde-a1bd-7f8fcf9b0000</link>
+      <description>Davenport reportedly couldn’t do much with his arm on Friday, up to and including working a lever on a recliner, so this is not a shock placement. The 29-year-old has been with the Lions in each of the last two seasons and the Vikings in 2023, and he has played just eight total games over that timespan. We often feel obligated to do the “he’ll miss at least the next four games” bit of the blurb, but that’s sort of just implied with Davenport.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7306-dfde-a1bd-7f8fcf9b0000</guid>
+    </item>
+    <item>
+      <title>Texans placed S Jimmie Ward on the reserve/PUP list.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72fd-d1b3-a5dd-73fd6c990000</link>
+      <description>According to NFL Network’s Tom Pelissero, Ward has been removed from the Commissioner Exempt List, but the league continues to review the allegations that led to Ward facing a $20 million civil lawsuit based on domestic abuse allegations. Ward has already missed the first three games of the season, and his placement on the reserve/PUP list will not change his roster status heading into Week 4.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-72fd-d1b3-a5dd-73fd6c990000</guid>
+    </item>
+    <item>
+      <title>49ers WR Demarcus Robinson has been reinstated to San Francisco’s active roster.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-730b-d6a5-adff-f7cf9f590000</link>
+      <description>The 49ers were so desperate for receiver help sans George Kittle and Brandon Aiyuk that Kendrick Bourne drew six targets in Week 3. We can’t quite say that Robinson has zero fantasy value in this situation, but we don’t think you’ll need a very high FAAB bid to secure his services for Week 4’s game against the Jaguars.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-730b-d6a5-adff-f7cf9f590000</guid>
+    </item>
+    <item>
+      <title>Bears HC Ben Johnson said Jaylon Johnson will undergo core muscle surgery.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-730b-d6a5-adff-f7cfc0d90000</link>
+      <description>Johnson didn’t rule out a possible return this season for his corner, but this surgery will likely land him on injured reserve for the foreseeable future. Johnson was injured in the Bears’ Week 1 loss to the Lions and hasn’t seen the field since, but his extended absence is bad news for a Bears secondary that has already struggled out of the gate.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-730b-d6a5-adff-f7cfc0d90000</guid>
+    </item>
+    <item>
+      <title>Chargers HC Jim Harbaugh confirmed Najee Harris suffered a torn Achilles in Week 3’s win over the Broncos.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7323-d1b3-a5dd-73735a0c0000</link>
+      <description>Harbaugh didn’t leave much to the imagination following Sunday’s game when he said preliminary tests indicated a torn Achilles for Harris, who went down on a non-contact play. It’s a season-ender for the 27-year-old running back whose 2025 challenges began with a fireworks accident on July 4th. Harris signed a one-year contract with the Chargers this offseason and sees his season come to an end with a 15-61-0 rushing line to go with three receptions for 25 scoreless yards. Harris will be a free agent this offseason and could be faced with having to sign a one-year prove-it deal wherever he lands next.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-7323-d1b3-a5dd-73735a0c0000</guid>
     </item>
   </channel>
 </rss>
