@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Oct 2025 14:01:22 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports Tyjae Spears (ankle) is expected to play in Week 5 against the Cardinals.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-b457-deb6-a7fd-f7df4ae50000</link>
-      <description>Spears went down with an ankle injury during training camp and was placed on injured reserve to start the year. He returned to practice this week and the Titans activated him on Sunday, but they still listed him as questionable for today’s game. It seems like that was largely a procedural matter, as Spears is good to go. Expect a small role for the shifty back in his first game of 2025. Playing for a dysfunctional Titans offense, Spears isn’t on the fantasy radar for Week 5.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-b457-deb6-a7fd-f7df4ae50000</guid>
-    </item>
+    <lastBuildDate>Sun, 05 Oct 2025 15:01:27 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Adam Schefter reports Malik Nabers is expected to undergo surgery this week for a torn ACL and a torn meniscus.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-b45b-deb6-a7fd-f7df078f0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-b485-d6e9-af9d-be95b8990000</link>
       <description>Decker didn’t practice once this week before being listed as questionable. That normally leads us to believe a player won’t suit up on Sunday, but Taylor previously played in Week 3 after missing all three practices. It’s possible Decker’s shoulder issue is getting worse, causing the team to give him a week off. Giovani Manu is likely to take his spot in the lineup versus Cincinnati.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-b485-d6e9-af9d-be95b8990000</guid>
+    </item>
+    <item>
+      <title>Carson Wentz (shoulder) is questionable to return in Week 5 against the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-b4d8-d6e9-af9d-bed8fec30000</link>
+      <description>Wentz tucked the ball and ran late in the second quarter. He tried to run over Browns linebacker Carson Schwesinger and it didn’t end well for him. Wentz went into the medical tent after failing to scramble for the first down and eventually left for the locker room. He was spotted stretching out his shoulder before exiting. UDFA rookie Max Brosmer will take his place in the lineup if he doesn’t return after halftime.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-b4d8-d6e9-af9d-bed8fec30000</guid>
     </item>
   </channel>
 </rss>
