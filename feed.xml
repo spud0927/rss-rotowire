@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Oct 2025 18:02:00 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Tom Pelissero reports Lions CB Terrion Arnold (shoulder) is likely to miss the remainder of the season.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-bf19-db72-a199-ff5be2fe0000</link>
-      <description>Head coach Dan Campbell already told reporters that Arnold is expected to be out for a long time. Now Pelissero is all but confirming that Arnold is done for the year. Pelissero notes that Arnold still has some testing to undergo, though we suspect they will affirm his shoulder injury as season-ending. Arnold was dealing with the shoulder injury heading into Week 5 and aggravated the issue versus Cincinnati. Much like last year, the injuries are piling up on the defensive side of the ball for Detroit.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-bf19-db72-a199-ff5be2fe0000</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Oct 2025 19:01:24 +0000</lastBuildDate>
     <item>
       <title>Texans GM Nick Caserio said Joe Mixon (foot) is “making progress” and the team will have a better idea of his availability for the year “in a few weeks.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-bf30-def2-abdb-bf71c6e30000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-bfc4-def2-abdb-bfe5b6a50000</link>
       <description>The Texans released Gardner-Johnson after Week 3 and much came out about him freelancing, blowing assignments, and complaining about his role. The Ravens defense is at a juncture where they’d probably take that if it came with some competent NFL-level play, too.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-bfc4-def2-abdb-bfe5b6a50000</guid>
+    </item>
+    <item>
+      <title>Colts signed K Michael Badgley.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-bfef-db72-a199-ffef9ef30000</link>
+      <description>Badgley suffered a torn hamstring and missed the entire 2024 season. He’ll be tasked with replacing Spencer Shrader as Indianapolis’ main kicker and will likely be a top-10 option the rest of the way given how well the Colts offense has played through five weeks.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-bfef-db72-a199-ffef9ef30000</guid>
     </item>
   </channel>
 </rss>
