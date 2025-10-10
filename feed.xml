@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Oct 2025 02:27:03 +0000</lastBuildDate>
-    <item>
-      <title>Eagles declared DT Jalen Carter (heel) inactive for Week 6 against the Giants.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-cb24-def2-abdb-df6579080000</link>
-      <description>Carter was added to the injury report yesterday, so his absence is hardly surprising. The Eagles’ defense is a talented unit overall, but losing one of the best defensive linemen in football is a big deal. The Giants will likely attack the Eagles’ interior defensive line via an aggressive rushing attack. The Eagles also declared LG Landon Dickerson, TE Grant Calcaterra, CB Mac McWilliams and WR Xavier Gipson inactive for Week 6 against the Giants. On the plus side, LB Nakobe Dean (knee) will make his 2025 debut tonight.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-cb24-def2-abdb-df6579080000</guid>
-    </item>
+    <lastBuildDate>Fri, 10 Oct 2025 03:14:09 +0000</lastBuildDate>
     <item>
       <title>The Giants declared WR Darius Slayton, LB Demetrius Flannigan-Fowles, LB Swayze Bozeman, OT James Hudson III, OL Evan Neal, DL Elijah Garcia and QB Jameis Winston inactive for Week 6 against the Eagles.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-cb2f-d94a-a79d-cb2f832f0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-bf84-dd4c-afb9-ffc5d4010000</link>
       <description>Shaken up in the second quarter, Mitchell returned to the Eagles’ sideline with a wool cap instead of a helmet. That is where he remained to begin the third frame. He was soon declared out. Mitchell’s loss further thins an already-undermanned position group for the Eagles, and is a huge boost for Giants CB Jaxson Dart in his third career start. Adoree’ Jackson has taken his place. The only good news is Mitchell has 10 days to try to heal up for a Week 7 matchup with the Vikings.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-bf84-dd4c-afb9-ffc5d4010000</guid>
+    </item>
+    <item>
+      <title>Giants C John Michael Schmitz was forced from New York’s Week 6 game against the Eagles with a concussion.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-cc08-db72-a199-fe4b9d690000</link>
+      <description>He will not return and should be considered week to week, though he has 10 days to get cleared for Week 7 against the Broncos. Schmitz also suffered a nose injury on the same really nasty shot that concussed him.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-cc08-db72-a199-fe4b9d690000</guid>
     </item>
   </channel>
 </rss>
