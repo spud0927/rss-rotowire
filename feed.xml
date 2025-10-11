@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Oct 2025 16:01:58 +0000</lastBuildDate>
-    <item>
-      <title>49ers ruled out QB Brock Purdy (toe) for Week 6 against the Buccaneers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-d008-dd4c-afb9-f7c9626d0000</link>
-      <description>Purdy remained sidelined all week, as did WR Ricky Pearsall, who is dealing with a PCL sprain in his knee. Just eight days ago, NFL Network’s Ian Rapoport reported that Purdy is considered week-to-week, so the starting quarterback’s absence is hardly surprising. Hopefully, Purdy can remain setback-free and return for the 49ers’ Week 7 game against the Falcons, though that outcome should not be viewed as guaranteed. The 49ers also ruled out WR Jordan Watkins (calf), DL Kevin Givens (pectoral) and EDGE Yetur Gross-Matos (knee/hamstring).</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-d008-dd4c-afb9-f7c9626d0000</guid>
-    </item>
+    <lastBuildDate>Sat, 11 Oct 2025 17:01:26 +0000</lastBuildDate>
     <item>
       <title>49ers ruled out WR Ricky Pearsall (knee) for Week 6 against the Buccaneers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-cff3-def2-abdb-dff39e360000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-d3f1-d94a-a79d-dbfd184d0000</link>
       <description>No surprise here. Bills coach Sean McDermott called Milano “week-to-week” after the 31-year-old linebacker re-aggravated his pectoral injury in Week 5. Milano missed multiple practices this week so ruling him out for Week 6’s Monday night showdown with the Falcons was an easy call. The Bills have a bye week in Week 7 so Milano will be afforded additional time off before the Bills play the Panthers in Week 8.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-d3f1-d94a-a79d-dbfd184d0000</guid>
+    </item>
+    <item>
+      <title>Commanders WR Terry McLaurin (quad) has been ruled out for Week 6 against the Bears.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-d413-def2-abdb-dd7304500000</link>
+      <description>McLaurin was trending in the wrong direction with multiple missed practices this week. Now he’s officially been ruled out for Week 6’s matchup with the Bears, which will mark McLaurin’s third consecutive missed game. Deebo Samuel should dominate targets again for the Commanders with Luke McCaffrey seeing an increased role downfield.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-d413-def2-abdb-dd7304500000</guid>
     </item>
   </channel>
 </rss>
