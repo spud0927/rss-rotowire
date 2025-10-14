@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Oct 2025 21:01:29 +0000</lastBuildDate>
-    <item>
-      <title>Titans OL coach Bill Callahan resigned.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3be-d94a-a79d-ebbfd3500000</link>
-      <description>Not a huge surprise, after all, they did fire his son from the head-coaching role. Callahan will be a coveted offseason coaching free agent and has a long history of success turning around bad offensive lines despite not delivering on that promise with the Titans.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3be-d94a-a79d-ebbfd3500000</guid>
-    </item>
-    <item>
-      <title>Ravens released C.J. Gardner-Johnson from their practice squad.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3d0-def2-abdb-fff1eb970000</link>
-      <description>The 27-year-old safety asked for his release after the Ravens traded for Alohi Gilman.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3d0-def2-abdb-fff1eb970000</guid>
-    </item>
-    <item>
-      <title>Falcons LT Jake Matthews (ankle) left Atlanta’s Week 6 game against the Bills and did not return.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3d5-d94a-a79d-ebddcec70000</link>
-      <description>It’s one injury to watch ahead of Week 7, though it wasn’t like the Falcons had major problems on the offensive line without the 33-year-old veteran. Mike Jerrell played left tackle in Matthews’ absence for most of the second half on Monday.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3d5-d94a-a79d-ebddcec70000</guid>
-    </item>
-    <item>
-      <title>49ers coach Kyle Shanahan said Brandon Aiyuk (knee) is getting “closer and closer” to returning to practice and mentioned Week 10 as a “rough estimate.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3dd-def2-abdb-fffd53d40000</link>
-      <description>The 49ers head coach added that there’s no set date yet. Shanahan also estimated that Aiyuk would return in Week 6 in August. You may be aware that it is Week 7. While we’re sure to see some positive movement on Aiyuk over the next month, until we get word that the 49ers are going to open his 21-day return window, it’s hard to trust that he’s going to be back any time soon. We’d anticipate that Week 10 would be about the earliest he’d return based on how the 49ers have handled it thus far.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3dd-def2-abdb-fffd53d40000</guid>
-    </item>
-    <item>
-      <title>49ers coach Kyle Shanahan said Jordan Watkins (calf) is expected to resume practicing this week.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3ed-dd4c-afb9-e7edbe950000</link>
-      <description>We were just thinking the 49ers wideout projections needed another variable to deal with. Watkins briefly wowed in training camp before dealing with a high-ankle sprain and later this calf issue. It’s possible he cuts into some veteran playing time if the 49ers wideout room remains unsettled, but he’s not someone to rush and pick up in re-draft leagues without seeing some real signs of fantasy life.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e3ed-dd4c-afb9-e7edbe950000</guid>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 22:01:28 +0000</lastBuildDate>
     <item>
       <title>Bills coach Sean McDermott said Joshua Palmer (ankle) is “week-to-week.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e457-d94a-a79d-ed5f095b0000</link>
@@ -67,6 +37,36 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e47a-db72-a199-fe7b6e640000</link>
       <description>Peart filled in for Ben Powers, who went on injured reserve last week, against the Jets in London. Denver will need to go back to the bench for Week 7’s game against the Giants. Peart will miss at least the next four weeks.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e47a-db72-a199-fe7b6e640000</guid>
+    </item>
+    <item>
+      <title>Free agent WR Treylon Burks is visiting the Broncos on Tuesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e48d-d94a-a79d-ed8d02300000</link>
+      <description>He’ll add the Commanders to the visit card tomorrow. The 25-year-old probably doesn’t have major untapped fantasy potential at this point, but he’s got the NFL size and speed to hang on at the end of rosters for a few years if he can catch a coaching staff’s eye.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e48d-d94a-a79d-ed8d02300000</guid>
+    </item>
+    <item>
+      <title>Bengals DE Trey Hendrickson (hip) did not practice on Tuesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e497-db72-a199-fedfc4d10000</link>
+      <description>It’s an estimation. We also should note that the injury designation changed from “back” to “hip” on Monday. Hendrickson is probably enough of a vet to suit up on Thursday with no practice, but it feels like the odds of it actually happening are getting slim.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e497-db72-a199-fedfc4d10000</guid>
+    </item>
+    <item>
+      <title>Bengals TE Tanner Hudson (concussion) did not practice Tuesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e499-d94a-a79d-ed9d81270000</link>
+      <description>He’ll almost certainly be ruled out. Noah Fant has some TE2 and single-game slate upside on Thursday night with Mike Gesicki likely heading to injured reserve and Hudson not stealing snaps from him. That’ll leave just Fant and Drew Sample as oft-used cogs of the Bengals tight end room that are still healthy enough for Week 7.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e499-d94a-a79d-ed9d81270000</guid>
+    </item>
+    <item>
+      <title>Free agent quarterbacks Kyle Trask, Tanner Mordecai, Jarren Hall, and Jeff Driskel visited with the Colts on Tuesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e49b-dd4c-afb9-e7dbaeb60000</link>
+      <description>None of the four of them signed yet, so it’s possible the Colts are just doing some homework on a potential Anthony Richardson replacement at backup quarterback rather than settling for this pool of candidates. Trask hadn’t had a workout since being released by the Bucs at last cuts.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e49b-dd4c-afb9-e7dbaeb60000</guid>
+    </item>
+    <item>
+      <title>Bears coach Ben Johnson said DJ Moore (groin) is “day by day.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e4a4-d94a-a79d-edad05f20000</link>
+      <description>Moore was transported to a hospital following the game, per a statement released by the Bears. He played 60 of 64 offensive snaps in the game, per PFF. Marquee noted that Moore did show a “slight hobble” at some point in the first quarter after being hit on his lower left side. This will be something to watch out for on Wednesday’s injury report. Moore being down would seem to give Luther Burden a chance to shine in Week 7.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-e4a4-d94a-a79d-edad05f20000</guid>
     </item>
   </channel>
 </rss>
