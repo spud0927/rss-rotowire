@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Oct 2025 23:01:29 +0000</lastBuildDate>
-    <item>
-      <title>Lions S Brian Branch has been suspended for one game.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-df61-dd4c-afb9-ffe1c0460000</link>
-      <description>It will be a one-game suspension without pay for Wilson, who can appeal the decision. NFL Vice President of Football Operations Jon Runyan wrote Branch’s actions on Sunday night, “Your’e aggressive, non-football act was entirely unwarranted, posed a serious risk of injury, and clearly violated the standards of conduct and sportsmanship expected of NFL players. Your conducted reflected poorly on the NFL and has no place in our game.” It’s a pretty justified response after Branch’s actions at the end of Sunday’s game against the Chiefs resulted in an on-field brawl. Assuming he doesn’t appeal the suspension Branch will likely be out for Week 7’s game against the Buccaneers.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-df61-dd4c-afb9-ffe1c0460000</guid>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 00:04:16 +0000</lastBuildDate>
     <item>
       <title>NFL Network’s Tom Pelissero reports the Titans are expected to name Mike McCoy as their interim HC.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-df67-dd4c-afb9-ffe747720000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-dfc3-d94a-a79d-dfcf9b3b0000</link>
       <description>Jake Moody will handle kicking duties for the Bears after being cut by the 49ers earlier this season. Santos’ next opportunity to kick for the Bears comes in Week 7 against the Saints. The rest of the inactives carry no real surprise.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-dfc3-d94a-a79d-dfcf9b3b0000</guid>
+    </item>
+    <item>
+      <title>Bills DT DaQuan Jones (calf) will not play in Week 6 against the Falcons.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-dfd6-dd4c-afb9-ffd7786d0000</link>
+      <description>Jones reportedly suffered a calf injury in pre-game warmups and will not play against the Falcons in Week 6. Jones leads Buffalo’s defensive tackles in snaps played this season and the team will likely adopt a looser rotation at the position to fill the void.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-dfd6-dd4c-afb9-ffd7786d0000</guid>
     </item>
   </channel>
 </rss>
