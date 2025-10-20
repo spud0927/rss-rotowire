@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 01:29:29 +0000</lastBuildDate>
-    <item>
-      <title>Quentin Johnston caught 2-of-6 targets for 30 yards and one touchdown in the Chargers’ Week 7 loss to the Colts.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff15-d651-a9df-ff15480e0000</link>
-      <description>Johnston had a rough outing in this one, dropping a pass that would have gone for more than 30 yards, and another on third down during the Chargers’ eighth drive. He was also the intended receiver on an end zone interception thrown by QB Justin Herbert, and failed to put up a preventative effort when Colts S Nick Cross made a play on the ball. Johnston is a WR4/FLEX option against the Vikings on Thursday night.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff15-d651-a9df-ff15480e0000</guid>
-    </item>
-    <item>
-      <title>Michael Carter rushed 7 times for 11 yards in the Cardinals’ Week 7 loss to the Packers, adding two receptions for 25 yards.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff14-df81-ab9b-ffd7ea880000</link>
-      <description>Carter was the definitive No. 2 in the Cardinals’ backfield, ceding most early down work to Bam Knight. He did mix in on passing downs, but D’Ernest Johnson was also involved on third downs and passing downs. Knight tallied 34 snaps, Carter had 28, and Johnson had 14 in a frustrating committee. Carter was inefficient against the Packers and is no more than a low-upside RB4 after the Cardinals’ Week 8 bye.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff14-df81-ab9b-ffd7ea880000</guid>
-    </item>
-    <item>
-      <title>Tre’ Harris caught 2-of-2 targets for 23 yards in the Chargers’ Week 7 loss to the Colts.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff15-d651-a9df-ff159f110000</link>
-      <description>Harris was largely quiet in this one but nearly ripped off a long gain on the Chargers’ sixth drive. The Chargers’ rookie was taken down by a shoestring tackle by Colts S Nick Cross. Harris will likely be required to unseat WR Quentin Johnston in order to be fantasy-relevant. He is not on the FLEX radar against the Vikings next week.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff15-d651-a9df-ff159f110000</guid>
-    </item>
-    <item>
-      <title>Kimani Vidal rushed nine times for 20 yards in the Chargers’ Week 7 loss to the Colts, adding four receptions for 15 yards.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff1c-df81-ab9b-ffdff2a30000</link>
-      <description>The Chargers’ running game was an afterthought in this one. The Colts got up 6-3 in the first quarter before tacking on 17 unanswered points in the second quarter. On the plus side, Vidal out-touched RB Hassan Haskins 13-3 and continued to take snaps in scoring position. Vidal will again be RB2-viable against the Vikings with six teams on bye next week.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff1c-df81-ab9b-ffdff2a30000</guid>
-    </item>
-    <item>
-      <title>Trey McBride caught 10-of-13 targets for 74 yards and two touchdowns in the Cardinals’ Week 7 loss to the Packers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff1b-d99b-a1dd-ff1fd50e0000</link>
-      <description>McBride continues to hit season-highs with Jacoby Brissett at quarterback. The tight end was the Cardinals’ definitive top pass-catcher and saw 13 total targets, converting those into 10 receptions for 74 yards. He nearly high-pointed a ball for an early touchdown, but the pass was broken up by Edgerrin Cooper. McBride found redemption later, scoring twice the rest of the game. His fantasy value has been elevated from good to elite with Brissett throwing him the ball. Kyler Murray is expected to return after the Cardinals’ Week 8 bye, decreasing McBride’s touchdown opportunities moving forward. McBride is still an elite fantasy TE1 the rest of the season.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff1b-d99b-a1dd-ff1fd50e0000</guid>
-    </item>
-    <item>
-      <title>Hassan Haskins rushed once for three yards in the Chargers’ Week 7 loss to the Colts, adding two receptions for two yards.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff1f-d651-a9df-ff1f5b670000</link>
-      <description>Haskins spelled RB Kimani Vidal from time to time in this one, but he is nothing more than a bench stash right now. The big-bodied plodder technically completed a hurdle against the Colts when he left his feet on a short two-legged hop as a would-be tackler barreled into his shins before faceplanting. It was an uneventful outing for Haskins beyond that.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff1f-d651-a9df-ff1f5b670000</guid>
-    </item>
+    <lastBuildDate>Mon, 20 Oct 2025 02:31:00 +0000</lastBuildDate>
     <item>
       <title>Marvin Harrison Jr. caught 2-of-5 targets for 58 yards in the Cardinals’ Week 7 loss to the Packers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff20-d651-a9df-ff350cbf0000</link>
@@ -67,6 +31,42 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff37-df81-ab9b-fff7f0c40000</link>
       <description>No other New York pass catcher saw more than seven targets. Robinson had a couple crucial fourth quarter receptions, and seemed to be Jaxson Dart’s primary target in high leverage situations. The back-and-forth game script led to a season high in targets for Robinson, who had 84 yards and a score last week against the Eagles. He’ll face off against the Eagles once again in Week 8 and should be considered a top-30 fantasy play as Dart’s top option.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff37-df81-ab9b-fff7f0c40000</guid>
+    </item>
+    <item>
+      <title>Zay Jones caught 2-of-2 targets for 67 yards in the Cardinals’ Week 7 loss to the Packers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff27-da18-a39b-ff37ba150000</link>
+      <description>Jones made a pair of grabs in the Cardinals’ two minute drills, keeping possessions alive for Jacoby Brissett. He first converted a 43-yard reception in the first half to keep a scoring drive going for the Cardinals. His next target and catch came towards the end of the fourth quarter, catching a pass for 24 yards to continue the final Cardinals drive. Jones was oft-used last week with Marvin Harrison (concussion) exiting the game, but he took a backseat with Harrison back. Jones is best left on fantasy benches for now.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff27-da18-a39b-ff37ba150000</guid>
+    </item>
+    <item>
+      <title>Evan Engram caught 5-of-8 targets for 42 yards in the Broncos’ Week 7 win against the Giants.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff3d-d99b-a1dd-ff3dc7c30000</link>
+      <description>In a revenge game, Engram saw a season high eight targets for Bo Nix and ran a route on 43 of the Broncos’ 63 drop backs — a major increase in playing time and usage that could suggest bigger things for the veteran in the coming weeks. Engram, who now has 18 receptions over his past four games, remains a secondary or tertiary part of the Denver passing attack but could be useful in pass-heavy game scripts. The Broncos could see just that in Week 8 against the burnable Cowboys defense.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff3d-d99b-a1dd-ff3dc7c30000</guid>
+    </item>
+    <item>
+      <title>Michael Wilson caught 3-of-4 targets for 40 yards in the Cardinals’ Week 7 loss to the Packers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff3c-d651-a9df-ff3da8080000</link>
+      <description>Wilson continues his quiet season as the Cardinals’ No. 2 wide receiver on the outside. He saw two targets on the first drive of the game, including an incomplete end zone target. Marvin Harrison is still the lead wideout with Trey McBride the top pass-catcher, leaving crumbs for the rest of the Cardinals’ receivers. Wilson is a fantasy WR5 heading into a Week 8 bye.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff3c-d651-a9df-ff3da8080000</guid>
+    </item>
+    <item>
+      <title>JK Dobbins had 14 rushes for 81 yards in the Broncos’ Week 7 win against the Giants.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff41-d99b-a1dd-ff4d29ef0000</link>
+      <description>Dobbins once again led the Denver backfield by a comfortable margin. RJ JHarvey saw had four rushes for zero yards and caught one of his two targets on the day. Much of Dobbins’ production came on a 32-yard scamper up the middle — one of the biggest plays of the day for a Broncos offense that struggle mightily for three and a half quarters. Dobbins’ workload has been nothing if not consistent: He’s had at least 14 rushing attempts in six of his seven games as the team’s lead back. In Week 8, Dobbins will face the league’s worst rush defense in Dallas.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff41-d99b-a1dd-ff4d29ef0000</guid>
+    </item>
+    <item>
+      <title>Jaxson Dart completed 15-of-33 attempts for 283 yards, three touchdowns, and one interception in the Giants’ Week 7 loss against the Broncos, adding five rushes for 11 yards and a touchdown.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff49-d651-a9df-ff5debd30000</link>
+      <description>Dart was patient with his throws and delivered a handful of accurate downfield shots against an elite Broncos secondary. Two of his touchdowns went to New York tight ends; the other went to Cam Skattebo on a well-designed screen play in the red zone. Dart scored his rushing touchdown on a one-yard dive after an end zone pass interference in the final minute of the game. Dart mostly avoided the massive hits he’s taken in recent weeks, picking his spots to take off and run. He targeted Wan’Dale Robinson relentlessly, as he dd in Week 6 against the Eagles. Dart’s rushing upside will make him a weekly top-12 fantasy play going forward. He’ll play the Eagles once again in Week 8.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff49-d651-a9df-ff5debd30000</guid>
+    </item>
+    <item>
+      <title>Troy Franklin caught 3-of-10 targets for 19 yards and a touchdown in the Broncos’ Week 7 win against the Giants.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff4f-da18-a39b-ff5ffd260000</link>
+      <description>Franklin, as usual, ran a bunch of empty routes as the de facto WR2 in the Broncos offense. His touchdown came on a fluky tip that ended up in Franklin’s hands near the back of the end zone — one of Bo Nix’s two passing scores on the day. Franklin hasn’t had more than 55 receiving yards in a game since Week 2, and mostly profiles as a deep league fantasy option in the balanced Denver offense. He’ll face the Cowboys in Week 8.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=00000199-ff4f-da18-a39b-ff5ffd260000</guid>
     </item>
   </channel>
 </rss>
