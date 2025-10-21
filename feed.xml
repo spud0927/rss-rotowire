@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 23:01:34 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Buccaneers WR Emeka Egbuka (hamstring) will play in Week 7 against the Lions.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-034e-d99b-a1df-3b4ef5b30000</link>
-      <description>It was reported over the weekend that Egbuka had “a real chance to play” after returning to practice for a limited session on Saturday. Now, according to Rapoport, Egbuka’s pregame workout “went well,” putting him in position to suit up for a clash between to NFC titans. After suffering his injury in Week 6 against the 49ers, the initial fear was that Egbuka would miss at least one game. Given what we know about soft-tissue injuries, it’s hard to know how effective Egbuka will be without a full week of rest. Fantasy managers choosing to play him in what is undoubtedly a plus matchup do so at their own risk.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-034e-d99b-a1df-3b4ef5b30000</guid>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 00:04:38 +0000</lastBuildDate>
     <item>
       <title>Roquan Smith (hamstring) said he expects to play in Week 8 against the Bears.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-0382-d651-a9df-6b97797e0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-03b5-d651-a9df-6bb5f4e30000</link>
       <description>The veteran receiver asked for, and was granted, his release from the team Monday. Lockett managed just 51 total offensive snaps the previous three games as the team turned to their youth, with rookie slot man Chimere Dike seeing a corresponding jump in usage during that span. Lockett will be free to sign with another team at 4 pm ET Wednesday.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-03b5-d651-a9df-6bb5f4e30000</guid>
+    </item>
+    <item>
+      <title>49ers HC Kyle Shanahan said DL Bryce Huff (hamstring) will miss two weeks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-03ce-d651-a9df-6bdf61e90000</link>
+      <description>Huff suffered a hamstring strain in the team’s Week 7 win over the Falcons and will miss the next two games. The 49ers continue to struggle through injuries up and down their roster, yet still remain tied with the Rams atop the NFC West.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-03ce-d651-a9df-6bdf61e90000</guid>
     </item>
   </channel>
 </rss>
