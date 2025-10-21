@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Oct 2025 00:04:38 +0000</lastBuildDate>
-    <item>
-      <title>Roquan Smith (hamstring) said he expects to play in Week 8 against the Bears.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-0382-d651-a9df-6b97797e0000</link>
-      <description>Smith has missed the last two games with a hamstring injury but was able to log a practice in his return from the Ravens bye week. With several days to go until Sunday’s game against the Bears, Smith is clearly trending in the right direction heading into a pivotal matchup with the Ravens’ season on the line.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-0382-d651-a9df-6b97797e0000</guid>
-    </item>
-    <item>
-      <title>Buccaneers declared RB Bucky Irving, WR Chris Godwin, OG Luke Haggard, S Sebastian Castro, DL C.J. Brewer, CB Kindle Vildor, and RB Josh Williams inactive for Week 7 against the Lions.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-038a-df81-ab9b-7fcf743b0000</link>
-      <description>The two key fantasy players here, Irving and Godwin, were ruled out long before Monday. While they are both out, rookie Emeka Egbuka (hamstring) who suffered an injury a week ago, is able to suit up and will play opposite Mike Evans in a game that should be ripe for fantasy scoring.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-038a-df81-ab9b-7fcf743b0000</guid>
-    </item>
-    <item>
-      <title>Lions OT Taylor Decker (shoulder) is active for Week 7 against the Buccaneers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-038d-d99b-a1df-3b8dd4960000</link>
-      <description>Decker was questionable entering the week and was a DNP on Saturday after logging limited practices the previous two days. The veteran tackle hasn’t played since Week 4’s game against the Browns, and should provide an immediate boost to the passing game and protecting Jared Goff. While Decker is active, the Lions have declared CB Terrion Arnold, DL Quinton Jefferson, S Kerby Joseph, CB Avonte Maddox, S Jammie Robinson, RB Sione Vaki, and DL Mekhi Wingo inactive for Monday night’s game.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-038d-d99b-a1df-3b8dd4960000</guid>
-    </item>
+    <lastBuildDate>Tue, 21 Oct 2025 01:29:15 +0000</lastBuildDate>
     <item>
       <title>Mike Evans (hamstring) is active for Week 7 against the Lions.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-0392-df81-ab9b-7fd795480000</link>
@@ -67,6 +49,24 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-03ce-d651-a9df-6bdf61e90000</link>
       <description>Huff suffered a hamstring strain in the team’s Week 7 win over the Falcons and will miss the next two games. The 49ers continue to struggle through injuries up and down their roster, yet still remain tied with the Rams atop the NFC West.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-03ce-d651-a9df-6bdf61e90000</guid>
+    </item>
+    <item>
+      <title>Buccaneers ruled out WR Mike Evans (concussion, shoulder) in the second quarter of Week 7 against the Lions.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-0425-d651-a9df-6d35362f0000</link>
+      <description>Evans appeared to come down with a long reception late in the second quarter but went limp after hitting the ground, adding insult to injury as the pass fell incomplete and the receiver on the turf. Evans was returning from three missed contests with a hamstring injury. He also reportedly suffered a shoulder injury that left him in clear agony. Evans could be looking at another extended absence. He failed to catch any of his four targets prior to departing.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-0425-d651-a9df-6d35362f0000</guid>
+    </item>
+    <item>
+      <title>Seahawks declared LB Derick Hall, LB Jared Ivey, TE Nick Kallerup, DB Devon Witherspoon, OT Mason Richman, S Julian Love, and QB Jalen Milroe inactive for Week 7 against the Texans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-0428-df81-ab9b-7eef21cd0000</link>
+      <description>Seattle will be slightly shorthanded in the secondary after both Witherspoon and Love were unable to go in Week 7. That could become an issue considering the defensive struggle we expect in the final game of the week.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-0428-df81-ab9b-7eef21cd0000</guid>
+    </item>
+    <item>
+      <title>Texans declared WR Christian Kirk, RB Dameon Pierce, DE Darrell Taylor, QB Graham Mertz, OG Jarrett Kingston, and OT Trent Brown inactive for Week 7 against the Seahawks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-042e-d99b-a1df-3e2e5ef30000</link>
+      <description>Kirk made it all of two-and-a-half games before suffering another injury after starting the season as an inactive. His absence should allow for more opportunities for rookie Jayden Higgins and Jaylin Noel. Dameon Pierce remains inactive as the team has shifted their focus towards rookie Woody Marks.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-042e-d99b-a1df-3e2e5ef30000</guid>
     </item>
   </channel>
 </rss>
