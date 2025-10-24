@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Oct 2025 23:01:33 +0000</lastBuildDate>
-    <item>
-      <title>Bengals TE Tanner Hudson (concussion) practiced in full on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-12fc-deb1-a39b-33fe2a8d0000</link>
-      <description>Hudson’s expected return bodes poorly for TE Noah Fant’s target-earning potential, though Fant should still run as the primary positional receiver. Hudson sat out in Week 7, allowing Fant to operate as a streaming TE1. Fant caught 4-of-4 targets for 44 yards and one touchdown.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-12fc-deb1-a39b-33fe2a8d0000</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 00:03:52 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Ben Baby reports that Bengals LB Logan Wilson has requested a trade.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-12ff-deb1-a39b-33ff1d890000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1340-dab4-a3fb-9b70ebbb0000</link>
       <description>The Chargers are also getting RT Trey Pipkins III (knee) back this evening. This is great news for QB Justin Herbert as he prepares to face the Vikings’ top-tier blitz-based defensive scheme. The Chargers declared RB Hassan Haskins, CB Nikko Reed, OLB Kyle Kennard, OL Jamaree Salyer, OT Austin Deculus, WR KeAndre Lambert-Smith and TE Will Dissly inactive for Week 8 against the Vikings. With Haskins out, the Chargers have elevated RBs Nyheim Hines and Jaret Patterson from the practice squad.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1340-dab4-a3fb-9b70ebbb0000</guid>
+    </item>
+    <item>
+      <title>Vikings LT Christian Darrisaw (knee) is active for Week 8 against the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1348-d245-adfb-975fcf070000</link>
+      <description>The Vikings listed Darrisaw as a non-participant on Wednesday, briefly causing a scare, but the Vikings’ left tackle evidently feels good enough to play after going through a pre-game workout. Starting QB Carson Wentz will, unfortunately, be without RT Brian O’Neill (knee), who logged just one limited practice session this week. The Vikings also declared OLB Chaz Chambliss, DT Elijah Williams, FB C.J. Ham, LB Andrew Van Ginkel and QB J.J. McCarthy (emergency 3rd QB) inactive for Week 8 against the Chargers.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1348-d245-adfb-975fcf070000</guid>
     </item>
   </channel>
 </rss>
