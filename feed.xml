@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Oct 2025 22:01:33 +0000</lastBuildDate>
-    <item>
-      <title>Commanders WR Deebo Samuel (heel) practiced in full on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-17da-dab4-a3fb-9ffa48d80000</link>
-      <description>Samuel and Terry McLaurin (quad) have both practiced in full over the last two days, putting them on track to play in Week 8 against the Chiefs on Monday Night Football. Samuel will be a WR3 in fantasy, with McLaurin expectedly back in the fold. The wide receiver duo will be catching passes from capable backup QB Marcus Mariota, with QB Jayden Daniels (hamstring) sidelined.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-17da-dab4-a3fb-9ffa48d80000</guid>
-    </item>
-    <item>
-      <title>Dolphins WR Jaylen Waddle (hamstrings) was removed from the injury report and will play in Week 8 against the Falcons.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-17df-d5d8-a3ff-ffff3c380000</link>
-      <description>Waddle will play in Week 8 despite injuring both hamstrings this week. While he technically can be started as a WR2, there are obvious re-injury concerns at play. Waddle should command a healthy target share for as long as he is out there, operating as the Dolphins’ No. 1 wide receiver, though.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-17df-d5d8-a3ff-ffff3c380000</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 23:01:31 +0000</lastBuildDate>
     <item>
       <title>Bills TE Dalton Kincaid (oblique) is questionable to play in Week 8 against the Panthers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1803-dab4-a3fb-9b7372a50000</link>
@@ -55,6 +43,30 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-182e-d5d8-a3ff-f96ff6bb0000</link>
       <description>Fellow Bills’ LB Terrel Bernard (ankle) is also questionable, as is rookie CB Maxwell Hairston (knee). DT DaQuan Jones (calf) and S Taylor Rapp (knee) have both been ruled out. The injuries should allow the Panthers to continue running ball efficiently with RBs Rico Dowdle and Chuba Hubbard.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-182e-d5d8-a3ff-f96ff6bb0000</guid>
+    </item>
+    <item>
+      <title>Texans ruled out WR Nico Collins (concussion) for Week 8 against the 49ers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1835-dab4-a3fb-9b754a4b0000</link>
+      <description>Both Collins and slot receiver Christian Kirk (hamstring) failed to practice all week. The injuries leave WRs Xavier Hutchinson, Jayden Higgins, Jaylin Noel and Braxton Berrios as a likely four-player platoon. While Noel led Texans wide receivers with 77 yards last week, he was stuck splitting slot snaps with Berrios. Noel can be expected to play efficiently, but he may be stuck in a positional rotation again this week. Noel, Hutchinson and Higgins are all on the FLEX radar, with Higgins and Noel likely possessing the highest upside.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1835-dab4-a3fb-9b754a4b0000</guid>
+    </item>
+    <item>
+      <title>Texans ruled out WR Christian Kirk (hamstring) for Week 8 against the 49ers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-182c-d5d8-a3ff-f96d2b380000</link>
+      <description>With Kirk sidelined in Week 7, veteran WR Braxton Berrios and exciting rookie WR Jaylin Noel split snaps. Noel led the receiving corps with 77 yards while Berrios finished with minus-one. Noel’s upside may be capped by Berrios’ presence, but he looked like the most capable, healthy Texans wide receiver last week after Nico Collins (concussion) was forced from play.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-182c-d5d8-a3ff-f96d2b380000</guid>
+    </item>
+    <item>
+      <title>Texans TE Dalton Schultz (back/shoulder) was removed from the injury report and will play in Week 8 against the 49ers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1829-dab4-a3fb-9b796e2a0000</link>
+      <description>Schultz’s removal from the injury report is great news for Texans QB C.J. Stroud, who relied heavily upon Schultz in Week 7. Schultz led the team with nine catches for 98 yards and is a candidate to operate as a featured pass catcher again this week. He is a TE1 with decent upside against the 49ers.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1829-dab4-a3fb-9b796e2a0000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Nate Taylor reports that Chiefs LT Josh Simmons “is expected to rejoin the team in a few weeks.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1853-deb1-a39b-395fe9840000</link>
+      <description>Yesterday, The Athletic’s Jesse Newell identified Week 11 as a “natural target date” for Simmons to resume playing. Taylor agrees, writing, “a logical time for Simmons to return to the Chiefs could be in early November, during the team’s bye” in Week 10. Until Simmons returns, veteran OT Jaylon Moore will continue manning the left tackle spot.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1853-deb1-a39b-395fe9840000</guid>
     </item>
   </channel>
 </rss>
