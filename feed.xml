@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Oct 2025 20:01:31 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Jeremy Fowler reports Bengals EDGE Trey Hendrickson (hip) is expected to play against the Jets in Week 8.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1bc0-d245-adfb-9fdf5dd90000</link>
-      <description>Hendrickson missed Week 7’s game against the Steelers on a short week, but he appears to be ready to return against the Jets in Week 8. The defensive end who turns 31 in December was a limited participant in practice for most of the week. Hendrickson could be a name to watch as the trade deadline approaches, though the Bengals have some momentum coming off a win that got them to 3-4 last week.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1bc0-d245-adfb-9fdf5dd90000</guid>
-    </item>
-    <item>
-      <title>ESPN’s Adam Schefter reports Ravens QB Lamar Jackson (hamstring) is out for Week 8’s matchup with the Bears.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1bcb-dab4-a3fb-9bfb902e0000</link>
-      <description>Following a report early Saturday morning from NFL Network’s Ian Rapoport that Jackson could miss Week 8, Schefter is now reporting Jackson will in fact miss the game against the Bears with Tyler Huntley set to start. While Jackson was able to practice this week, Rapoport reported at least some of that practice work came while running the scout team. Jackson has a good chance to return in Week 9 on Thursday against the Dolphins.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1bcb-dab4-a3fb-9bfb902e0000</guid>
-    </item>
+    <lastBuildDate>Sat, 25 Oct 2025 21:01:26 +0000</lastBuildDate>
     <item>
       <title>Commanders WRs Terry McLaurin (quad) and Deebo Samuel (heel) will play in Week 8 against the Chiefs.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1c30-d245-adfb-9d7f7f590000</link>
@@ -67,6 +55,18 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1cc5-deb1-a39b-3dcf79cd0000</link>
       <description>That places the veteran receiver in line to make his season debut for the Packers when they face the Steelers. Watson has been on the shelf since tearing his ACL in Week 18 of the 2024 season but has made a speedy recovery, now likely to make his return to the active roster in under 10 months after the injury. He should mix in for light usage in his first game back.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1cc5-deb1-a39b-3dcf79cd0000</guid>
+    </item>
+    <item>
+      <title>Falcons placed LB Divine Deablo (forearm) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1cd3-d245-adfb-9ddfd5de0000</link>
+      <description>Deablo suffered a fractured forearm in the team’s Week 7 loss to the 49ers and will now miss at least four games on injured reserve. His absence creates a significant hole in the interior for a defense allowing the second fewest yards per game this season.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1cd3-d245-adfb-9ddfd5de0000</guid>
+    </item>
+    <item>
+      <title>Falcons downgraded WR Drake London (hip) to questionable for Week 8 against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1cf9-deb1-a39b-3dff0a9b0000</link>
+      <description>The move comes after a limited showing Friday. The veteran receiver was initially absent from the final injury report but was downgraded by the team Saturday, placing his status in legitimate question considering the late-week status update. His status will be one to monitor into Sunday when the team will release its inactives.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1cf9-deb1-a39b-3dff0a9b0000</guid>
     </item>
   </channel>
 </rss>
