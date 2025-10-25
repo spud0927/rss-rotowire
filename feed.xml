@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Oct 2025 19:01:28 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Ravens QB Lamar Jackson could be out again for Week 8’s matchup with the Bears.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1b73-dab4-a3fb-9b7390f00000</link>
-      <description>While Ravens coach John Harbaugh said Jackson had a full practice Friday, Rapoport passes along that the 28-year-old quarterback actually ran the scout team. Couple that with Harbaugh being noncommittal about Jackson starting this week and Jackson could be another week away from playing. Tyler Huntley would be in line to start against the Bears if Jackson is unavailable.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1b73-dab4-a3fb-9b7390f00000</guid>
-    </item>
+    <lastBuildDate>Sat, 25 Oct 2025 20:01:31 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Jeremy Fowler reports Bengals EDGE Trey Hendrickson (hip) is expected to play against the Jets in Week 8.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1bc0-d245-adfb-9fdf5dd90000</link>
@@ -61,6 +55,18 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1c7e-dab4-a3fb-9f7e0d9a0000</link>
       <description>Holland’s absence is big news for a Giants team also without cornerback Paulson Adebo. The fantasy upside of DeVonta Smith and Dallas Goedert continues to grow as Sunday approaches.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1c7e-dab4-a3fb-9f7e0d9a0000</guid>
+    </item>
+    <item>
+      <title>Cowboys placed CB Trevon Diggs (concussion/knee) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1c9a-deb1-a39b-3d9e3ce50000</link>
+      <description>Diggs went from an at-home concussion to injured reserve in the span of two weeks, meaning he will now miss at least five total games from a freak incident away from football. The Cowboys have already been one of the league’s most forgiving defenses, something that only worsens with Diggs of the field.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1c9a-deb1-a39b-3d9e3ce50000</guid>
+    </item>
+    <item>
+      <title>Packers activated WR Christian Watson (knee) from Physically Unable to Perform list.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1cc5-deb1-a39b-3dcf79cd0000</link>
+      <description>That places the veteran receiver in line to make his season debut for the Packers when they face the Steelers. Watson has been on the shelf since tearing his ACL in Week 18 of the 2024 season but has made a speedy recovery, now likely to make his return to the active roster in under 10 months after the injury. He should mix in for light usage in his first game back.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1cc5-deb1-a39b-3dcf79cd0000</guid>
     </item>
   </channel>
 </rss>
