@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Oct 2025 17:01:28 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports that J.J. McCarthy (ankle) “is going to be the starting quarterback for the Vikings, assuming he is healthy, which they believe he will be.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-188b-dab4-a3fb-9bfbbec50000</link>
-      <description>Rapoport harped on the importance of full practice participation, saying the Vikings “want J.J. McCarthy to be successful,” and “in order to do that, you have to practice.” McCarthy’s “additional workouts” and “meetings” with head coach Kevin O’Connell have been undertaken in an effort to get the injured youngster up to speed. O’Connell has proven himself as a capable quarterback developer. For Vikings fans and fantasy managers alike, one must trust the process. If McCarthy is deemed healthy enough to play, he will be under center in Week 9 against the Lions.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-188b-dab4-a3fb-9bfbbec50000</guid>
-    </item>
+    <lastBuildDate>Sat, 25 Oct 2025 18:01:36 +0000</lastBuildDate>
     <item>
       <title>NFL Network’s Cameron Wolfe said it “sounds like” QB Bryce Young’s ankle injury is “just a one-week injury” and the “hope” is he plays in Week 9 against the Packers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-18ac-d5d8-a3ff-f9edf0bb0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1c49-dab4-a3fb-9f7989b50000</link>
       <description>Taylor was likely in line to start over Justin Fields this week, but he popped up on the injury report earlier this week. The 36-year-old quarterback practiced in a limited fashion for most of the week. While Jets coach Aaron Glenn told reporters Friday that Taylor was trending in the right direction, he still refused to name a starting quarterback. Depending on how Fields does against the Bengals, Taylor could be an option to start for the Jets as soon as Week 9.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1c49-dab4-a3fb-9f7989b50000</guid>
+    </item>
+    <item>
+      <title>Jets downgraded WR Josh Reynolds (hip) to out for Week 8 against the Bengals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1c55-d5d8-a3ff-fd754d660000</link>
+      <description>The Jets will now be without their top two receivers, in addition to quarterback Tyrod Taylor, for their game against the Bengals. Rookie tight end Mason Taylor is also listd as questionable but is expected to play, potentially serving as the top pass-catcher for Justin Fields in a plus matchup for tight ends.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-1c55-d5d8-a3ff-fd754d660000</guid>
     </item>
   </channel>
 </rss>
