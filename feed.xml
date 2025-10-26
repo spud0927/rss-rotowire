@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 17:01:29 +0000</lastBuildDate>
-    <item>
-      <title>Eagles declared WR A.J. Brown, OLB Azeez Ojulari, CB Adoree’ Jackson, C Cam Jurgens, and QB Sam Howell inactive for Week 8 against the Giants.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-2119-d5d8-a3ff-f9798ee70000</link>
-      <description>Brown is expected to return after the team’s Week 9 bye. DeVonta Smith becomes an elite fantasy play with Brown sidelined, going against a middling New York coverage unit. Dallas Goedert profiles as a top-five tight end play with Brown out. Philly’s secondary could continue to struggle with Jackson sidelined.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-2119-d5d8-a3ff-f9798ee70000</guid>
-    </item>
+    <lastBuildDate>Sun, 26 Oct 2025 18:01:41 +0000</lastBuildDate>
     <item>
       <title>Patriots declared DE Keion White, S Kyle Dugger, LB Caleb Murphy, DT Eric Gregory, OL Caedan Wallace, WR Efton Chism, and QB Tommy DeVito inactive for Week 8 against the Browns.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-2129-d5d8-a3ff-f969e6580000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-216e-d5d8-a3ff-f96f153d0000</link>
       <description>There remains a chance, per Rapoport, that Richardson returns this season. It likely won’t matter for the Colts unless Daniel Jones misses time with injury. Richardson injured his eye in a freak pre-game accident earlier this month. He’s likely done with the Colts and could be dealt this offseason to a QB-needy team.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-216e-d5d8-a3ff-f96f153d0000</guid>
+    </item>
+    <item>
+      <title>Terrell Bernard (ankle) is active for Week 8 against the Panthers but will only play in an emergency.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-218c-d245-adfb-b5dfce110000</link>
+      <description>With Matt Milano (pec) inactive this week, the Bills wanted to have Bernard available to play, but they are hoping that he won’t be needed. The goal appears to be to have Shaq Thompson and Dorian Williams play the entire game and save Bernard and Milano for Week 9 against the Chiefs.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-218c-d245-adfb-b5dfce110000</guid>
     </item>
   </channel>
 </rss>
