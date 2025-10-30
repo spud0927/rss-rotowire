@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Oct 2025 15:01:34 +0000</lastBuildDate>
-    <item>
-      <title>Pat Freiermuth (quad) did not practice Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-31e1-d4ed-a9de-77efa8380000</link>
-      <description>According to PennLive.com’s Nick Farabaugh, Freiermuth is dealing with a bruised quad. It shouldn’t result in an extended absence, but it is possible that Freiermuth misses Week 9. That would likely allow Jonnu Smith to play a full-time role. Smith hasn’t done much this year while playing a limited number of snaps. He would become an interesting streaming option if Freiermuth is ruled out.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-31e1-d4ed-a9de-77efa8380000</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Oct 2025 16:01:54 +0000</lastBuildDate>
     <item>
       <title>Brian Thomas Jr. (shoulder) was limited in Wednesday’s practice.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-31f5-d4ed-a9de-77ffa8a50000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-352d-d71c-afdf-bd6d75fe0000</link>
       <description>It looks like both Meyers and Brock Bowers will be back for the team’s Week 9 matchup with the Jaguars. Meyers publicly reiterated his desire to be traded before missing Week 7’s game against the Chiefs with the knee injury. He will get one final chance to showcase his value to other teams on Sunday before the Tuesday deadline. Meyers will sit on the WR2/3 border for his first game back.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-352d-d71c-afdf-bd6d75fe0000</guid>
+    </item>
+    <item>
+      <title>Panthers placed RG Brady Christensen (Achilles) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-3563-d1e7-a1fa-7feb2afa0000</link>
+      <description>Christensen suffered a season-ending Achilles injury in Week 8. He underwent surgery earlier this week. Christensen will hit free agency at the age of 29 after this season. The Panthers signed Mike White to their 53-man roster in a corresponding move. White could serve as Bryce Young’s backup this week with Andy Dalton banged up.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-3563-d1e7-a1fa-7feb2afa0000</guid>
     </item>
   </channel>
 </rss>
