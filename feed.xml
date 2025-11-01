@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Nov 2025 15:01:21 +0000</lastBuildDate>
-    <item>
-      <title>Cardinals CB Will Johnson (groin) was added to the injury report as a limited participant on Friday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-3c2a-d45b-affe-7dbe70c60000</link>
-      <description>Johnson missed Weeks 3-4 with a groin injury. A recurrence seems likely. The Cardinals’ secondary has lost multiple starters and/or contributors to injury this season. If Johnson cannot play in Week 9, as appears likely, the unit will have a tough time containing Cowboys WRs CeeDee Lamb and George Pickens on Monday night.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-3c2a-d45b-affe-7dbe70c60000</guid>
-    </item>
+    <lastBuildDate>Sat, 01 Nov 2025 16:01:30 +0000</lastBuildDate>
     <item>
       <title>Texans WR Nico Collins (concussion) was removed from the injury report and will play in Week 9 against the Broncos.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-3c2e-d45b-affe-7dbed9db0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-3d24-d1e7-a1fa-7fee707f0000</link>
       <description>Allgeier briefly caused a scare when he reappeared on the Falcons’ injury report on Thursday as a limited participant. He was upgraded to full on Friday and carries no game-day designation. Allgeier can be started as an RB3/FLEX option, if need be, though he is fairly touchdown-dependent.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-3d24-d1e7-a1fa-7fee707f0000</guid>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports Bengals QB Joe Flacco (shoulder) is planning to start against the Bears in Week 9.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-3dd1-d713-ad9e-7dd542540000</link>
+      <description>Flacco is still officially questionable with an AC joint sprain in his right shoulder. There was optimism that the 40-year-old signal caller will be healthy enough to play following Thursday’s practice and that optimism has continued this weekend. Rapoport cautions that Flacco is planning to start barring a setback and that no one knows how his shoulder will ultimately react. Jake Browning would likely start if Flacco is ruled out, but it seems everyone is doing their best to avoid that scenario.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-3dd1-d713-ad9e-7dd542540000</guid>
     </item>
   </channel>
 </rss>
