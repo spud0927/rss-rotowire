@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Nov 2025 00:04:26 +0000</lastBuildDate>
-    <item>
-      <title>Texans signed LB Jake Hansen to a one-year extension.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4b8d-d1e7-a1fa-5beff51e0000</link>
-      <description>The special-teams linebacker gets, per Aaron Wilson, an additional year valued at up to a $3 million maximum value. Hansen has played 173 special-teams snaps this year with a career-best 89.6 PFF grade. The Texans are 3-5 and have no offensive line, so it’s good that they’re prioritizing something.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4b8d-d1e7-a1fa-5beff51e0000</guid>
-    </item>
-    <item>
-      <title>Buccaneers designated RT Luke Goedeke (foot) for return from injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4b8a-d45b-affe-5f9e83740000</link>
-      <description>The Buccaneers will have 21 days to activate Goedeke from injured reserve, so he’s not a lock to be rushed back by Week 10 when the Bucs face the Patriots. Goedeke is one of a handful of key players along the Buccaneers’ offensive line who have missed most of this season, but those who have filled in have done so nicely for Baker Mayfield and company. Goedeke allowed five pressures on the 46 pass blocking snaps he appeared on this season and has allowed nine sacks over the last two years.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4b8a-d45b-affe-5f9e83740000</guid>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 01:29:10 +0000</lastBuildDate>
     <item>
       <title>Cardinals activated DL Walter Nolen (calf) from the reserve/PUP list.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4b92-d1e7-a1fa-5bfa2d9f0000</link>
@@ -63,10 +51,22 @@
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4c1d-d713-ad9e-6c5d481a0000</guid>
     </item>
     <item>
-      <title>Cowboys declared S Donovan Wilson, S Alijah Clark, OT Ajani Cornelius, RB Jaydon Blue, DT Mazi Smith, OL Hakeem Adeniji, and WR Jonathan Mingo inactive for Week 9 against the Cardinals.</title>
+      <title>Cowboys DT Mazi Smith is inactive for Week 9 against the Cardinals.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4c20-d45b-affe-5db6ec820000</link>
-      <description>The Dallas secondary continues to suffer through a multitude of injuries. Blue’s status as a game-day inactive is interesting considering Miles Sanders remains on injured reserve, leaving Malik Davis to serve as the primary change of pace option behind Javonte Williams.</description>
+      <description>Smith being a healthy inactive seems to indicate the team is including him in offers for help at pass rusher in the coming hours, while the Dallas secondary continues to suffer through a multitude of injuries. Blue’s status as a game-day inactive is interesting considering Miles Sanders remains on injured reserve, leaving Malik Davis to serve as the primary change of pace option behind Javonte Williams. Also inactive for the Cowboys are S Donovan Wilson, S Alijah Clark, OT Ajani Cornelius, RB Jaydon Blue, OL Hakeem Adeniji, and WR Jonathan Mingo.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4c20-d45b-affe-5db6ec820000</guid>
+    </item>
+    <item>
+      <title>NFL suspended Commanders LB Frankie Luvu for one game “for repeated violations of playing rules.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4c4a-d45b-affe-5ddea17f0000</link>
+      <description>Luvu committed a hip-drop tackle in the first quarter of the team’s Week 9 contest against the Seahawks, his third such infraction of the season. He was fined for the previous two cases, once in Week 4 and again in Week 8, this time drawing the one-game suspension by the league’s disciplinary office. He will serve his suspension in Week 10 when the Commanders host the Lions before being eligible to return against the Dolphins in Week 11.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4c4a-d45b-affe-5ddea17f0000</guid>
+    </item>
+    <item>
+      <title>Titans traded LB Dre’Mont Jones to the Ravens for a conditional fifth-round pick.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4c4d-d673-a39e-ecddbe890000</link>
+      <description>The fifth-round pick could become a fourth. Jones has gone on a torrid stretch in recent weeks, amassing 4.5 sacks in his previous four games, and provides the Ravens with a veteran pass rush presence as they make a late-season push towards the postseason.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-4c4d-d673-a39e-ecddbe890000</guid>
     </item>
   </channel>
 </rss>
