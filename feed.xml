@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Nov 2025 16:01:27 +0000</lastBuildDate>
-    <item>
-      <title>49ers QB Brock Purdy (toe) is not on San Francisco’s final Week 11 injury report.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8461-d1e7-a1fa-deebfaed0000</link>
-      <description>Purdy will be a borderline QB1/QB2 off the long layoff. It’s worth noting that when he last played in Week 4, Purdy didn’t exactly look phenomenal while completing just 58 percent of his passes and throwing two interceptions. The long layoff makes us a little skittish to rank him as a QB1, but if his form from last season returns, he should post good numbers in his first start since Week 4.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8461-d1e7-a1fa-deebfaed0000</guid>
-    </item>
+    <lastBuildDate>Sat, 15 Nov 2025 17:01:20 +0000</lastBuildDate>
     <item>
       <title>Seahawks TE AJ Barner (calf) was removed from the injury report and will play in Week 11 against the Rams.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8454-d713-ad9e-ec546b540000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8549-d713-ad9e-ed5d8c910000</link>
       <description>Gordon practiced fully on Friday, which is good news. The rookie running back played behind RB Jaylen Wright in the Dolphins’ rotation last week, though Gordon was initially listed as questionable to play. This week should clarify which running back currently occupies the No. 2 spot. Neither one is terribly value as a bench stash, though.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8549-d713-ad9e-ed5d8c910000</guid>
+    </item>
+    <item>
+      <title>NFL Network’s Tom Pelissero reports Bengals EDGE Shemar Stewart (knee) will be placed on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-85fd-d1e7-a1fa-dfff7f8b0000</link>
+      <description>Stewart missed multiple games with an ankle injury and is now set to miss at least the next four games due to a knee injury. The 22-year-old defensive end will miss most of his rookie season due to injury and his play wasn’t anything to write home about when he was actually on the field. His 36.9 overall PFF grade was dead last among 114 defensive ends.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-85fd-d1e7-a1fa-dfff7f8b0000</guid>
     </item>
   </channel>
 </rss>
