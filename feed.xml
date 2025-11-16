@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Nov 2025 15:01:23 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports Davante Adams (oblique) is expected to play in Week 11 against the Seahawks.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8cd4-d673-a39e-acd563670000</link>
-      <description>Adams left Week 10 with the oblique injury and did not return. He was clearly in a great deal of pain, but Sean McVay told reporters after the game that he could have returned if needed. Adams then sat out of Wednesday’s practice, but McVay again reassured reporters he expected Adams to play on Sunday. Though Adams is almost certainly at less than 100 percent, he appears to be good to go for Week 11. Adams remains a high-end WR2 for an NFC West showdown with Seattle.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8cd4-d673-a39e-acd563670000</guid>
-    </item>
+    <lastBuildDate>Sun, 16 Nov 2025 16:01:29 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Adam Schefter reports Calvin Ridley (hamstring) is expected to play in Week 11 against the Texans.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8cd8-d713-ad9e-ecdc96720000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8d04-d1e7-a1fa-dfee7a2d0000</link>
       <description>Williams suffered a high-ankle sprain on Thursday versus the Jets. Per Rapoport, he is expected to return in 4-6 weeks. He will miss at least four games while on injured reserve. Williams has 3.5 sacks and 35 pressures this year. He was one of the Patriots’ big-ticket signings in free agency in the offseason.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8d04-d1e7-a1fa-dfee7a2d0000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports people inside and outside the Giants organization have urged Jaxson Dart to “be more thoughtful and careful with when and how he runs.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8d18-d45b-affe-dd9ed4720000</link>
+      <description>Dart is currently in the league’s concussion protocol and has already been ruled out for Week 11. No quarterback has run more aggressively than Dart this year. The rookie ranks fifth among all quarterbacks in carries despite sitting on the bench for the first three games of the year. He has been checked for a concussion on four separate occasions. Some of Dart’s style will never go away, but expect interim head coach Mike Kafka to emphasize playing safe to his rookie once he is back in the lineup. Jameis Winston will start until Dart is ready to return.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-8d18-d45b-affe-dd9ed4720000</guid>
     </item>
   </channel>
 </rss>
