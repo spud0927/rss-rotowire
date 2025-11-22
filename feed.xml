@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Nov 2025 21:01:22 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Jordan Raanan reports that Giants QB Jaxson Dart (concussion) did not suffer any setbacks this week.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-a8b7-d90e-a9da-bfbff1590000</link>
-      <description>Per Raanan, the decision to hold Dart out for another week “was made by the doctors to play it safe with the young quarterback.” Good for them. Bad for the fantasy managers who had hoped to start him this week. Aside from saying Dart is “feeling better,” Raanan has not yet reported whether Dart is still experiencing symptoms. That part remains unclear. Hopefully, he returns for the team’s Week 13 matchup with the Patriots. The Giants notably go on bye in Week 14.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-a8b7-d90e-a9da-bfbff1590000</guid>
-    </item>
-    <item>
-      <title>The Athletic’s Mike Silver and Dianna Russini report that the 49ers voided WR Brandon Aiyuk’s 2026 contract guarantees and “appear headed toward a stunning divorce.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-a8b8-db57-afda-febacc970000</link>
-      <description>According to sources, it is likely that Aiyuk “has played his last game with the franchise,” though “some in the organization are holding out hope.” Aiyuk has reportedly “failed to attend meetings and declined to participate in other team activities.” Frustrated by Aiyuk’s lack of communication, the 49ers responded by voiding his 2026 guarantees, “asserting that the absences amounted to a failure to fulfill his contractual obligations.” Aiyuk reportedly told NFLPA reps “that he did not want to fight the move via an official grievance,” which “would clear the way for his expected release at season’s end.” The move allows the 49ers to recoup a significant sum. Aiyuk’s 2026 option bonus would have paid out $24.935 million. Silver and Russini’s report details unresolved issues between Aiyuk and the 49ers’ brass, dating back to the 2023 season. The star wide receiver was very nearly traded to the Steelers in August 2024, but ultimately agreed to sign the 49ers’ standing offer. The deal, unfortunately, failed to mend the damaged relationships. While Aiyuk would surely draw interest as a free agent, unknowns remain regarding Aiyuk’s health. The veteran wide receiver has not played since tearing his ACL, MCL and meniscus in October 2024.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-a8b8-db57-afda-febacc970000</guid>
-    </item>
-    <item>
-      <title>Travis Kelce told reporters that he “plans to decide on whether to return to the Chiefs by early March, before NFL free agency begins.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-a8f1-d82c-a79a-bbf5696c0000</link>
-      <description>Kelce is currently in his 13th NFL season and is scheduled to enter free agency at the end of the year. The veteran tight end said he will not be making any decisions about his future until after the 2025 season concludes, and intends to give the Chiefs the “opportunity” to prepare for the draft and free agency with his decision in mind. Stay tuned.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-a8f1-d82c-a79a-bbf5696c0000</guid>
-    </item>
-    <item>
-      <title>NFL Network’s Cameron Wolfe reports that the Browns built the game plan for Week 12 against the Raiders around QB Shedeur Sanders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-a91e-d413-ad9f-bddfb3310000</link>
-      <description>The game plan will reportedly let Sanders “move the pocket a little bit more and use that play-making ability.” Wolfe also said the coaching staff has been helping Sanders work on his arm angles and reads, while trying to keep his footwork from drifting. The broadcast played lowlight clips of Sanders repeatedly failing to evade the Ravens’ pass rush last week as the segment progressed. Browns head coach Kevin Stefanski is a capable quarterback developer, but reworking Sanders’ bad habits over the course of a week is a tall task, especially with a matchup against Raiders EDGE Maxx Crosby looming. If Stefanski really does feature Sanders, as opposed to employing a run-heavy approach featuring RB Quinshon Judkins, we should get a read on Sanders’ development fairly quickly.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-a91e-d413-ad9f-bddfb3310000</guid>
-    </item>
+    <lastBuildDate>Sat, 22 Nov 2025 22:01:36 +0000</lastBuildDate>
     <item>
       <title>NFL Network’s Ian Rapoport reports Bengals QB Joe Burrow won’t be activated for Week 12’s matchup with the Patriots.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-aa05-db57-afda-fe3752d80000</link>
@@ -67,6 +43,30 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-aced-d413-ad9f-bdfdf5e20000</link>
       <description>Edmunds will miss the next four games, at minimum, leaving a gaping hole in the interior of the Chicago defense. Fellow linebacker T.J. Edwards was also ruled out for Week 12, boosting the rushing matchup for Jaylen Warren and Kenneth Gainwell for the Steelers.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-aced-d413-ad9f-bdfdf5e20000</guid>
+    </item>
+    <item>
+      <title>Vikings activated C Ryan Kelly (concussion) from injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ad07-d82c-a79a-bf9791c60000</link>
+      <description>The veteran center missed the previous six games with a nasty concussion sustained in Week 4. His return bolsters a struggling Minnesota offensive line in time for a divisional matchup with the Packers in Week 12.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ad07-d82c-a79a-bf9791c60000</guid>
+    </item>
+    <item>
+      <title>Jaguars activated TE Brenton Strange (hip) from injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ad65-db57-afda-ff77e9e40000</link>
+      <description>Strange last played in Week 5 and missed the previous five games for a Jaguars team struggling through a multitude of injuries. His return comes in the wake of the signing of Jakobi Meyers as the trade deadline, meaning he is unlikely to return to the same robust receiving role he left when injured.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ad65-db57-afda-ff77e9e40000</guid>
+    </item>
+    <item>
+      <title>Panthers removed WR Xavier Legette from the injury report Saturday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ad6a-d82c-a79a-bffec8cd0000</link>
+      <description>That places Legette in line to play on Monday Night Football against the 49ers. Legette managed just 55% of the offensive snaps while dealing with a hip injury in Week 11 but could return to a more robust role against the injury-riddled San Francisco defense. Fantasy managers in a bind due to bye weeks can comfortably start the second-year receiver as a viable FLEX option.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ad6a-d82c-a79a-bffec8cd0000</guid>
+    </item>
+    <item>
+      <title>Seahawks placed WR Tory Horton (shin) on injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ad6f-d90e-a9da-bf6f7d010000</link>
+      <description>Horton had already been ruled out for Week 12 after also missing Week 10 and Week 11, mean he will miss a minimum of six games while dealing with a shin injury that popped up before the team’s Week 10 contest. His absence means far less than it otherwise would had the team not traded for veteran Rashid Shaheed at the deadline, something that now looks more substantial considering Horton’s placement on injured reserve.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ad6f-d90e-a9da-bf6f7d010000</guid>
     </item>
   </channel>
 </rss>
