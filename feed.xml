@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Nov 2025 00:04:06 +0000</lastBuildDate>
-    <item>
-      <title>Bengals RB Samaje Perine (ankle) practiced in full on Monday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-b7cd-db57-afda-f7ffe02f0000</link>
-      <description>It’s an estimation, but it’s a rapid recovery from Perine after being doubtful for Week 12. Perine left Week 9 against the Bears with a high-ankle sprain and has not played since. His return would prevent Chase Brown from hogging the whole workload pie against the Ravens, much to the chagrin of Brown-reliant managers.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-b7cd-db57-afda-f7ffe02f0000</guid>
-    </item>
+    <lastBuildDate>Tue, 25 Nov 2025 01:29:36 +0000</lastBuildDate>
     <item>
       <title>Bengals QB Joe Burrow is practicing in full for Week 13’s game against the Ravens.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-b7d1-d82c-a79a-b7d59a0e0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-b84a-d90e-a9da-bf4fe2a60000</link>
       <description>Nothing too out of the ordinary here, with the Panthers near full strength in what has become an important matchup for the team following the loss by the Buccaneers on Sunday. The two teams are currently tied atop the NFC South with the Panthers having yet to go on their bye.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-b84a-d90e-a9da-bf4fe2a60000</guid>
+    </item>
+    <item>
+      <title>Cowboys WR George Pickens (knee/calf) did not practice Monday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-b850-d413-ad9f-bdddab470000</link>
+      <description>The team did not hold a full practice Monday on a short week, meaning Pickens’ status is simply an estimation. That said, the fact that he carried two injury designations does raise some level of concern for his availability on a short week. Fantasy managers will want to track his level of participation on Tuesday.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-b850-d413-ad9f-bdddab470000</guid>
     </item>
   </channel>
 </rss>
