@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Nov 2025 14:01:27 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports Marvin Harrison Jr. (appendicitis, questionable) will return for Sunday’s game against the Bucs.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-d309-d90e-a9da-df0f17400000</link>
-      <description>Harrison could only manage a slate of limited practices this week, but he’s evidently no longer at risk of complications following his emergency surgery. The bigger question is MHJ’s conditioning after two games on the shelf, two games where Michael Wilson went bonkers from a compiling perspective. We will probably end up ranking MHJ as a risk/reward WR3 behind Wilson, whose WR2 floor is now a whole lot shakier.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-d309-d90e-a9da-df0f17400000</guid>
-    </item>
+    <lastBuildDate>Sun, 30 Nov 2025 15:01:20 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Adam Schefter reports Chig Okonkwo (foot) is expected to play in Week 13 against the Jaguars.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-d4e2-d6c4-abfb-d6e337d60000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-d509-d82c-a79a-f79dc1140000</link>
       <description>Vikings left tackle Christian Darrisaw remains a game-time decision. Greenard has missed the past two weeks with the shoulder issue. He was listed as questionable for Week 13 after getting in three limited practices. The veteran defender has two sacks and 19 total tackles this year.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-d509-d82c-a79a-f79dc1140000</guid>
+    </item>
+    <item>
+      <title>NFL Network’s Tom Pelissero reports there is “cautious optimism” Tyler Warren (illness) will play in Week 13 against the Texans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-d52a-d90e-a9da-df2fc6b20000</link>
+      <description>Per Pelissero, Warren is battling a stomach virus. He was added to the injury report over the weekend, being listed as questionable for today’s game. Players tend to play through illnesses, but the late addition puts Warren at risk of missing Week 13. For now, fantasy managers can likely plan on him playing. They should, however, have a contingency plan just in case Warren is a surprise inactive 90 minutes before kickoff.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-d52a-d90e-a9da-df2fc6b20000</guid>
     </item>
   </channel>
 </rss>
