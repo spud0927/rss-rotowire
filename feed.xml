@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Dec 2025 19:01:09 +0000</lastBuildDate>
-    <item>
-      <title>Bills claimed S Darnell Savage off waivers from the Commanders.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f097-da9b-a9bf-fe9f0e130000</link>
-      <description>The Bills placed CB Darius Slay on the reserve/did not report list earlier today, so Savage’s addition makes sense. Savage has played for both the Jaguars and Commanders this season, logging one pass breakup, 13 tackles and two quarterback pressures.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f097-da9b-a9bf-fe9f0e130000</guid>
-    </item>
+    <lastBuildDate>Sat, 06 Dec 2025 20:01:23 +0000</lastBuildDate>
     <item>
       <title>Broncos WR Pat Bryant (hamstring) was removed from the injury report and will play in Week 14 against the Raiders.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f0a3-d005-a9bf-f8b7ed380000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f4d9-da9b-a9bf-fedd4b800000</link>
       <description>Clark has been on the practice squad, but with Jarvis Brownlee Jr. out with a hip injury, the Jets could turn to the 24-year-old as a potential nickel option for Week 14 against the Dolphins.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f4d9-da9b-a9bf-fedd4b800000</guid>
+    </item>
+    <item>
+      <title>Justin Herbert (hand) is questionable for Week 14 against the Eagles.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f51f-d77b-adfa-ff9fa27e0000</link>
+      <description>Herbert is expected to play, but the questionable tag suggests that it’s far from a lock. The 27-year-old signal-caller suffered a fracture on his non-throwing hand against the Raiders in Week 13, but assuming there are no setbacks, he should be under center for Monday Night Football against the Eagles.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f51f-d77b-adfa-ff9fa27e0000</guid>
     </item>
   </channel>
 </rss>
