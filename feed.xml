@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Dec 2025 18:01:40 +0000</lastBuildDate>
-    <item>
-      <title>Browns declared WR Jamari Thrash, OG Wyatt Teller, RB Raheim Sanders, TE Braeden Bates, OT Jack Conklin and DT Adin Huntington.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f9ab-d005-a9bf-f9bf26290000</link>
-      <description>It’s a healthy scratch for second-year fifth-rounder Thrash, who has not played since Week 10. About to turn 25 years old, Thrash is looking like someone who can be cut loose from the end of deep dynasty league benches.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f9ab-d005-a9bf-f9bf26290000</guid>
-    </item>
-    <item>
-      <title>Jets declared QB Justin Fields, WR Tyler Johnson, TE Jelani Woods, DL Mazi Smith, EDGE Braiden McGregor, DB Ja’Sir Taylor, and S Tony Adams inactive for Week 14 against the Dolphins.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f9a6-d005-a9bf-f9b604b80000</link>
-      <description>The Jets don’t have too many significant inactives for Week 14 against the Dolphins. The biggest is Justin Fields, who was ruled out due to a knee issue this week. Brady Cook was signed from the practice squad to be Tyrod Taylor’s backup. Tony Adams will also be out due to a groin injury, leaving the Jets defense reaching for depth against the Dolphins passing game.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f9a6-d005-a9bf-f9b604b80000</guid>
-    </item>
+    <lastBuildDate>Sun, 07 Dec 2025 19:01:22 +0000</lastBuildDate>
     <item>
       <title>Falcons EDGE James Pearce Jr. (back) is active for Week 14 against the Seahawks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f9a9-d005-a9bf-f9bdd93d0000</link>
@@ -67,6 +55,18 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f9c9-d77b-adfa-fbcb73da0000</link>
       <description>No surprises here. Burton was suspended earlier this morning, and Hendrickson was ruled out earlier in the week with a hip injury. Browning is the emergency third quarterback.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-f9c9-d77b-adfa-fbcb73da0000</guid>
+    </item>
+    <item>
+      <title>Jets QB Tyrod Taylor (groin) is questionable to return in Week 14 against the Dolphins.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-fa11-d77b-adfa-fa933d0d0000</link>
+      <description>Taylor left in the first quarter against the Dolphins with an apparent groin injury. He headed to the locker room after throwing an interception; with Justin Fields (knee) inactive for this game, former Missouri Tiger Brady Cook is making his NFL debut at quarterback. Taylor is questionable to return.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-fa11-d77b-adfa-fa933d0d0000</guid>
+    </item>
+    <item>
+      <title>Colts QB Daniel Jones (Achilles) left Indianapolis’ Week 14 game against the Jaguars and will not return.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-fa23-d77b-adfa-faa394830000</link>
+      <description>He immediately reached for the Achilles on the dropback near the end of the first quarter, it was non-contact. Jones slammed his helmet on the turf multiple times before gingerly limping off with trainers and heading to the blue tent. He then followed them to the locker room. Jones had been 5-of-7 for 60 yards and an interception in the early going, but that is not the main concern for the Colts now. Riley Leonard took over at quarterback.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-fa23-d77b-adfa-faa394830000</guid>
     </item>
   </channel>
 </rss>
