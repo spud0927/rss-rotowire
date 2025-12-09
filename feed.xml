@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 23:01:29 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports Trey Hendrickson (hip) is set to undergo core muscle surgery.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ffc2-d77b-adfa-ffc3ea270000</link>
-      <description>In a bit of a sourceoff, NFL Network’s Ian Rapoport would only report that surgery is on the table, not that Hendrickson is “set to undergo” the surgery. Either way, undergoing the surgery would knock Hendrickson out for approximately six weeks, meaning his season would be over barring a miracle Bengals playoff appearance. It does feel like we’ve seen the last of Hendrickson for 2025, and it would appear that he’ll enter free agency unless the Bengals franchise tag him.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ffc2-d77b-adfa-ffc3ea270000</guid>
-    </item>
-    <item>
-      <title>Falcons TE Kyle Pitts (knee) was limited in Monday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ffd0-d005-a9bf-fff485620000</link>
-      <description>It’s a new listing, and the first we’ve heard of a knee injury for the tight end after a 6/90 performance on Sunday. But given the fact that he was limited and not fully resting, we don’t think this is a serious concern for his Week 15 status just yet. Pitts figures to be the de facto Falcons WR1 if Drake London, as expected, remains sidelined on Thursday night. That hasn’t translated to more than TE1 PPR volume yet.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ffd0-d005-a9bf-fff485620000</guid>
-    </item>
-    <item>
-      <title>Buccaneers TE Cade Otton (knee) did not practice on Monday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ffdc-d77b-adfa-ffdff03c0000</link>
-      <description>It’s an estimated report, but it’s a new listing for Tampa’s tight end. He’s not been particularly fantasy relevant since Tampa got Chris Godwin back, but this would seem to suggest there’s a chance he misses Week 15. Payne Durham is behind Otton in the pecking order at tight end.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ffdc-d77b-adfa-ffdff03c0000</guid>
-    </item>
+    <lastBuildDate>Tue, 09 Dec 2025 00:04:17 +0000</lastBuildDate>
     <item>
       <title>Buccaneers listed RB Bucky Irving (shoulder) as a full participant on Monday’s estimated practice report.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019a-ffdf-d8cf-affb-ffffc6640000</link>
@@ -67,6 +49,24 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0027-d77b-adfb-caa7693e0000</link>
       <description>Beat writer Greg Auman reports that the Buccaneers may be without Bredeson “for multiple weeks” after the sixth-year tackle suffered a knee injury in Week 14’s loss to the Saints. Auman said the absence could be long enough to warrant Bredson landing on injured reserve, which would end his season. Bredeson has started all 11 games he’s appeared in this season, earning a PFF grade of 53.7 while allowing 20 pressures and one sack. Elijah Klein is listed behind Bredeson on the depth chart and will presumably draw the start on Thursday night against the Falcons.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0027-d77b-adfb-caa7693e0000</guid>
+    </item>
+    <item>
+      <title>NFL Network’s Omar Ruiz reports Chargers QB Justin Herbert (left hand) is expected to play in Week 14 against the Eagles.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-003a-d8cf-affb-bc3a81b00000</link>
+      <description>Per Ruiz, Herbert is expected to play while wearing a padded glove on his surgically repaired left hand. The veteran quarterback was seen warming up with the glove about two hours prior to kickoff for Monday Night Football. Herbert will remarkably play after breaking his non-throwing hand in Week 13, having undergone surgery to address the issue Monday.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-003a-d8cf-affb-bc3a81b00000</guid>
+    </item>
+    <item>
+      <title>Chargers QB Justin Herbert (left hand) is active for Week 14 against the Eagles.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0054-da9b-a9bf-de5d375e0000</link>
+      <description>Confirming previous reports, Herbert will suit up against the Eagles just seven days after having surgery on his non-throwing hand to repair a broken bone. Expect the veteran quarterback to operate almost exclusively from shotgun, something that influence play calling tendencies. Inactive for the Chargers are CB Nikko Reed, LB Kyle Kennard, T Austin Deculus, WR Dalevon Campbell, TE Tyler Conklin, and WR KeAndre Lambert-Smith.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0054-da9b-a9bf-de5d375e0000</guid>
+    </item>
+    <item>
+      <title>Eagles declared OLB Josh Uche, QB Sam Howell, CB Mac McWilliams, RB A.J. Dillon, RT Lane Johnson, and DT Jalen Carter inactive for Week 14 against the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-005e-da9b-a9bf-de5f5f520000</link>
+      <description>Johnson had already been ruled out earlier in the week, targeting Week 15 against the Raiders as his potential return date. Philadelphia’s offensive struggles have been exacerbated with the veteran’s absence, something that could come to a head against the league’s third-ranked defense on Monday Night Football.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-005e-da9b-a9bf-de5f5f520000</guid>
     </item>
   </channel>
 </rss>
