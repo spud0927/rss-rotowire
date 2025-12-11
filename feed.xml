@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Dec 2025 22:01:20 +0000</lastBuildDate>
-    <item>
-      <title>Browns RB Dylan Sampson (calf/hand) did not practice on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f44-d005-a9bf-df74e0350000</link>
-      <description>Sampson missed last week’s first two practices, dealing with the calf injury. He suited up on game day, rushing twice for four yards and catching 5-of-5 targets for 64 yards while losing one fumble. We tentatively expect him to practice tomorrow and play on Sunday. Stay tuned.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f44-d005-a9bf-df74e0350000</guid>
-    </item>
-    <item>
-      <title>Jaguars QB Trevor Lawrence (ankle) practiced in full on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f47-d77b-adfb-cfc7a5fe0000</link>
-      <description>Wednesday’s limited session was likely just a little extra rest for the franchise signalcaller. He’ll be near the QB1/QB2 borderline in Week 15 against a Jets defense that has been waylaid by opposing passing games all season.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f47-d77b-adfb-cfc7a5fe0000</guid>
-    </item>
-    <item>
-      <title>Saints S Justin Reid (knee) was limited in Thursday’s practice.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f49-d005-a9bf-df7d0f490000</link>
-      <description>It’s his first practice since injuring his knee in Week 13, and a sign that he has a chance to be active against the Panthers in Week 15. We’ll check in on Reid again tomorrow, but this is at least an encouraging sign that he could make the questionable line on Friday.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f49-d005-a9bf-df7d0f490000</guid>
-    </item>
-    <item>
-      <title>Browns WR Cedric Tillman (concussion/rib) did not practice on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f48-d8cf-affb-bf6ac4490000</link>
-      <description>Tillman is on track to miss the team’s Week 15 game against the Bears, and does not need to be rostered in re-draft formats. The 25-year-old wide receiver has appeared in nine games this season. He has failed to produce even 55 receiving yards in a single one.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f48-d8cf-affb-bf6ac4490000</guid>
-    </item>
+    <lastBuildDate>Thu, 11 Dec 2025 23:01:24 +0000</lastBuildDate>
     <item>
       <title>Saints RB Alvin Kamara (knee/ankle) did not practice on Thursday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f4b-d77b-adfb-cfcb33c10000</link>
@@ -67,6 +43,30 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f61-d005-a9bf-df75d1cd0000</link>
       <description>Akers rushed five times for five yards and caught 0-of-1 targets in his time with the Seahawks. Griffin recorded zero pass breakups and zero interceptions on 56 coverage snaps. Both players could find spots on practice squads.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f61-d005-a9bf-df75d1cd0000</guid>
+    </item>
+    <item>
+      <title>Broncos waived TE Marcedes Lewis.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f61-d77b-adfb-cfe344270000</link>
+      <description>In four games with the Broncos, the 41-year-old tight end chipped in as a blocker, but earned zero targets this season. He could find a spot on a practice squad after this.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f61-d77b-adfb-cfe344270000</guid>
+    </item>
+    <item>
+      <title>Cardinals RB Emari Demercado (ankle) was limited on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f6c-d005-a9bf-df7ce0680000</link>
+      <description>Demercado could need another week to rehab his high-ankle sprain, but Friday’s report will clarify things. Cardinals RB Bam Knight has out-touched RB Michael Carter in each of the last three games, totaling 38 touches to Carter’s 23. Should Demercado return this week, he could reduce both players’ workloads. With all three on the field in Weeks 10-11, Knight totaled 20 touches while Demercado handled 14 and Carter took 10. Stay tuned.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f6c-d005-a9bf-df7ce0680000</guid>
+    </item>
+    <item>
+      <title>49ers RB Christian McCaffrey (illness) was limited on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f81-dbbb-ab9b-7fef0d7c0000</link>
+      <description>Players rarely miss games due to illness. We fully expect McCaffrey to play in Week 15 against the Titans. If the 49ers were to jump out to a healthy lead, it is possible the coaching staff gives RB Brian Robinson a little extra work in the fourth quarter, but McCaffrey should be viewed as an elite RB1, regardless.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f81-dbbb-ab9b-7fef0d7c0000</guid>
+    </item>
+    <item>
+      <title>Packers WR Jayden Reed (shoulder) was limited on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f9f-d8cf-affb-bfbffe2e0000</link>
+      <description>Reed is on track to play in a tough matchup against the Broncos this week. The Packers’ slot receiver ran a route on 60.0% of the pass plays last week, which was encouraging. Reed is on the FLEX radar once again, though his target volume is likely capped. Packers WR Dontayvion Wicks (ankle) was also limited.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f9f-d8cf-affb-bfbffe2e0000</guid>
     </item>
   </channel>
 </rss>
