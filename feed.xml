@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Dec 2025 01:29:33 +0000</lastBuildDate>
-    <item>
-      <title>Packers WR Matthew Golden (wrist) was limited on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f9f-d8cf-affb-bfbf54420000</link>
-      <description>Golden does not need to be rostered in re-draft formats. His downfield skillset overlaps with WR Christian Watson, and the veteran wide receiver is playing extremely well. Golden will likely handle a small snap share against the Broncos on Sunday.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f9f-d8cf-affb-bfbf54420000</guid>
-    </item>
+    <lastBuildDate>Fri, 12 Dec 2025 02:33:20 +0000</lastBuildDate>
     <item>
       <title>Rams WR Davante Adams (hamstring) did not practice on Thursday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0f77-d005-a9bf-df774cb40000</link>
@@ -39,6 +33,12 @@
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0fcf-d77b-adfb-cfcf35e70000</guid>
     </item>
     <item>
+      <title>Buccaneers WR Jalen McMillan (neck) is active for Week 15 against the Falcons.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0fd0-d77b-adfb-cfd323f60000</link>
+      <description>Making his 2025 debut on the same night Mike Evans is returning from his broken collarbone, McMillan is going to be lightly targeted as the Bucs’ No. 4 wideout but can hopefully provide better routes/snaps than Tez Johnson had been of late. McMillan had an intriguing if highly inconclusive rookie year. An end-of-bench stash in dynasty leagues, McMillan is off the re-draft radar for the fantasy playoffs.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0fd0-d77b-adfb-cfd323f60000</guid>
+    </item>
+    <item>
       <title>Buccaneers declared TE Cade Otton, LB SirVocea Dennis, S Tykee Smith, CB Benjamin Morrison, G Elijah Klein, DL Elijah Simmons and QB Connor Bazelak inactive for Week 15 against the Falcons.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-0fd1-da98-afbb-1ff9290f0000</link>
       <description>Otton is, unfortunately, sidelined by a knee injury. The pass-catching corps gets WR Mike Evans (collarbone) and WR Jalen McMillan (neck) back tonight, though, boosting QB Baker Mayfield’s fantasy-scoring potential. Mayfield will also helpfully have LT Tristan Wirfs (oblique) protecting his blindside this evening.</description>
@@ -61,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-1003-d005-a9bf-d837e9170000</link>
       <description>NFL Network’s Ian Rapoport broke the news before Thursday Night Football, saying Blank had just visited the set. We suspect Rapoport’s sourcing is highly reliable here. The Falcons are currently 4-9. It is possible, both Morris and Fontenot are ousted in early 2026.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-1003-d005-a9bf-d837e9170000</guid>
+    </item>
+    <item>
+      <title>Mike Hughes is questionable to return against the Buccaneers in Week 14 with an ankle injury.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-1024-d8cf-affb-bc2e34d80000</link>
+      <description>Hughes is currently undergoing X-rays, and it seems more likely than not that he won’t be back for the contest. Cobee Bryant will replace Hughes at corner for the time being.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-1024-d8cf-affb-bc2e34d80000</guid>
     </item>
   </channel>
 </rss>
