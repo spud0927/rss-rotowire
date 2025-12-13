@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Dec 2025 23:01:34 +0000</lastBuildDate>
-    <item>
-      <title>Vikings RB Aaron Jones (shoulder) was removed from the injury report and will play in Week 15 against the Cowboys.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-147e-d1bc-a3fb-957ecc640000</link>
-      <description>Jones will continue to play through the pain in his age-31 season. Over the last four weeks, Jones’ best showing earned him the overall RB26 spot in half-PPR scoring. The Vikings’ game against the Cowboys profiles as a fantasy-friendly one, though, warranting low-end RB2 treatment for Jones.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-147e-d1bc-a3fb-957ecc640000</guid>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 00:04:30 +0000</lastBuildDate>
     <item>
       <title>Steelers WR Calvin Austin (calf) was limited in Friday’s practice.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-1484-d1bc-a3fb-95a4b1c60000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-14b0-d77b-adfb-deb3e7f70000</link>
       <description>McCaffrey practiced fully on Friday after logging a limited session on Thursday. He can be treated as an elite RB1, per usual, against the Titans this week. He leads the NFL with 322 touches this season, boasting 59 missed tackles forced per PFF.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-14b0-d77b-adfb-deb3e7f70000</guid>
+    </item>
+    <item>
+      <title>Steelers TE Darnell Washington (concussion) was limited on Friday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-14e0-d77b-adfb-dee316cc0000</link>
+      <description>That is unfortunate. One would hope to see Washington increase his participation every day, as he works his way through the NFL’s five-phase concussion protocol. It is possible he stalled out in the third phase. Hopefully, he upgrades to full tomorrow and can be on the field when his team faces the Dolphins on Monday night.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-14e0-d77b-adfb-dee316cc0000</guid>
     </item>
   </channel>
 </rss>
