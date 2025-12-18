@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Dec 2025 15:01:42 +0000</lastBuildDate>
-    <item>
-      <title>Seahawks LT Charles Cross (hamstring) will not play in Week 16 against the Rams.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-2e82-d8cf-affb-beaab8590000</link>
-      <description>Cross injured his hamstring on Seattle’s walk-off field goal versus the Colts last week. He did not practice this week before being ruled out, putting his availability for Week 17 in doubt as well. Josh Jones will be the next man up at left tackle for the Seahawks.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-2e82-d8cf-affb-beaab8590000</guid>
-    </item>
+    <lastBuildDate>Thu, 18 Dec 2025 16:01:49 +0000</lastBuildDate>
     <item>
       <title>Raiders EDGE Maxx Crosby (knee) did not practice Wednesday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-2e8d-d005-a9bf-febd7cb80000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-2efa-d1bc-a3fb-affe458e0000</link>
       <description>Cross has already been ruled out for Thursday’s Week 16 game against the Rams and is going to be out for longer, according to Rapoport. The Seahawks’ left tackle is expected to miss at least two weeks, but should return for Seattle’s playoff run. Backup Josh Jones will take over for Sam Darnold’s blindside in the meantime.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-2efa-d1bc-a3fb-affe458e0000</guid>
+    </item>
+    <item>
+      <title>Steelers signed EDGE Jeremiah Moon off the Panthers’ practice squad.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-31b2-d005-a9bf-f9b6de290000</link>
+      <description>Moon played for the Steelers last year but didn’t make the roster for this season. The Panthers scooped him up and he has appeared in one game for them, playing exclusively on special teams. Moon will give the Steelers some extra depth after they lost T.J. Watt to a lung issue.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-31b2-d005-a9bf-f9b6de290000</guid>
     </item>
   </channel>
 </rss>
