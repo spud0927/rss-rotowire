@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Dec 2025 19:01:12 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Jeremy Fowler reports that the Bears plan to activate LB Tremaine Edmunds (groin) from injured reserve before Week 16 against the Packers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-3928-d35e-a1bf-7dea71d00000</link>
-      <description>That’s great. Edmunds has not played since Week 11, but he still leads the team with 67 tackles. He has also recorded eight quarterback pressures, two sacks, two pass breakups and four interceptions. Getting him back is a big deal. The Packers (9-4-1) face the Bears (10-4) on Saturday.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-3928-d35e-a1bf-7dea71d00000</guid>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 20:01:28 +0000</lastBuildDate>
     <item>
       <title>Chiefs TE Travis Kelce “plans to play in each of the final three games this season.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-38e0-d087-addf-b9f08d460000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-3d11-d35e-a1bf-7dd3ea360000</link>
       <description>The kicker from Northern Ireland made his NFL debut just last month and now sticks with the Saints for the next three seasons. Smyth is 4-fo-5 in field goal attempts and has hit all five point after tries. The specifics of the contract are not yet available.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-3d11-d35e-a1bf-7dd3ea360000</guid>
+    </item>
+    <item>
+      <title>Cowboys activated CB Trevon Diggs (knee) ahead of Week 16 against the Chargers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-3d1e-d35e-a1bf-7dde39a80000</link>
+      <description>The team also placed fellow cornerback DaRon Bland (foot) on injured reserve in an associated move. As has been the case for most of the season, the Cowboys continue forward without pieces from their secondary. Diggs pushed his return up to the limit, meaning we might not see him play a full allotment of snaps in his first game in over two months.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-3d1e-d35e-a1bf-7dde39a80000</guid>
     </item>
   </channel>
 </rss>
