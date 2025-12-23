@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Dec 2025 18:02:15 +0000</lastBuildDate>
-    <item>
-      <title>Josh Downs caught 5-of-9 targets for 65 yards in the Colts’ Week 16 loss to the 49ers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-49a4-d56e-afff-efec0a3f0000</link>
-      <description>Downs tied with rookie tight end Tyler Warren for the team lead in targets and ranked behind only Alec Pierce in receiving yardage, relied on heavily out of the slot against the heavy zone rates of the 49ers. The 2025 season was not as kind to Downs’ fantasy managers as initially thought heading into the year, with Warren’s breakout a large reason why. He’ll enter the final year of his rookie contract in 2026.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-49a4-d56e-afff-efec0a3f0000</guid>
-    </item>
-    <item>
-      <title>Michael Pittman caught 4-of-5 targets for 32 yards in the Colts’ Week 16 loss to the 49ers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-49a8-d968-a19b-59f9473f0000</link>
-      <description>Pittman trailed rookie tight end Tyler Warren and slot receiver Josh Downs in targets while Alec Pierce erupted for two touchdowns, routinely finding it difficult to shake free on the perimeter against the zone-heavy 49ers. Veteran quarterback Philip Rivers simply relied heavily on his targets over the middle of the field, something that could change if the team elects to turn back to Riley Leonard under center for the final two games of the regular season now that they are eliminated from the playoffs.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-49a8-d968-a19b-59f9473f0000</guid>
-    </item>
-    <item>
-      <title>Tyler Warren caught 3-of-9 targets for 30 yards in the Colts’ Week 16 loss to the 49ers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-49ab-d35e-a1bf-4deb46d40000</link>
-      <description>Warren tied for the team lead with nine targets, his second consecutive game leading the team in targets with Philip Rivers under center. That could change for the final two weeks of the regular season with the Colts now eliminate from the playoffs, potentially turning back to rookie Riley Leonard to finish out the season. Either way, Warren remains one of the more intriguing young tight ends in the league and appears primed to return significant value for dynasty managers moving forward.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-49ab-d35e-a1bf-4deb46d40000</guid>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 19:02:49 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Brooke Pryor reports DK Metcalf’s suspension could void $45 million in contract guarantees.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-4b7e-d56e-afff-effee8930000</link>
@@ -67,6 +49,24 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-4c5c-d968-a19b-5cfdffb50000</link>
       <description>It’s not a great sign for Rice’s Christmas Day availability against the Broncos. Rice was sidelined last week against the Titans with the head injury, and the Chiefs have little reason to rush him back into game action with their season lost. Xavier Worthy will continue operating as the Chiefs’ de facto WR1 while Rice is out, though Worthy remains a deep league-online option for Week 17 against Denver.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-4c5c-d968-a19b-5cfdffb50000</guid>
+    </item>
+    <item>
+      <title>Bears coach Ben Johnson said Rome Odunze (foot) is “going to be able to help us this year” but didn’t offer a timeline for his return.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-4c88-d35e-a1bf-4dca2fba0000</link>
+      <description>Considering there are only two weeks left in the season, if we don’t see any kind of improvement from Odunze in practices this week, there’s a real chance that the Bears have nothing to play for in Week 18. Odunze may be mothballed until the playoffs. The fact that Johnson wouldn’t put a timetable on it arguably tells us Week 17 will be a stretch for an Odunze return, but the practice report on Wednesday will speak louder than his statement today.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-4c88-d35e-a1bf-4dca2fba0000</guid>
+    </item>
+    <item>
+      <title>Patriots signed OL Ben Brown to a two-year extension worth “up to” $6.6 million.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-4c8a-dc7a-af9b-cfbfd4800000</link>
+      <description>The UDFA center will be a rotational cog along the middle of the Patriots line, probably mostly as a backup, for the two years to come. Brown has started just two games this year, but had a 10-game stretch as a starter in 2024. He qualifies as competent depth.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-4c8a-dc7a-af9b-cfbfd4800000</guid>
+    </item>
+    <item>
+      <title>Patriots DT Khyiris Tonga (foot) will miss 1-2 weeks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-4c8d-d968-a19b-5cfd20900000</link>
+      <description>Ian Rapoport’s sourced timeline on Tonga’s recovery should have him ready for New England’s first playoff game. New England will be desperately trying to get him, Robert Spillane, and Milton Williams as ready as they can be for the playoffs after the run defense has sprung a leak over the last month.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-4c8d-d968-a19b-5cfd20900000</guid>
     </item>
   </channel>
 </rss>
