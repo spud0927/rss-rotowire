@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:04:30 +0000</lastBuildDate>
-    <item>
-      <title>Cowboys RB Javonte Williams (shoulder/neck) did not practice on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7bb2-d35e-a1bf-7ff26b9a0000</link>
-      <description>Cowboys head coach Brian Schottenheimer told reporters early on Wednesday that both Williams and RB Malik Davis (calf/eye) would be limited. Instead, the team listed both players with DNPs yesterday and today. Rookie RB Jaydon Blue could see a fantasy-friendly workload this week against the Giants.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7bb2-d35e-a1bf-7ff26b9a0000</guid>
-    </item>
-    <item>
-      <title>Cowboys TE Jake Ferguson (calf) was limited on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7bb9-dc7a-af9b-ffbf3eaa0000</link>
-      <description>Ferguson aggravated his old calf injury during his team’s Week 17 game and was unable to practice yesterday. He now has a chance to play in Week 18. Whether the Cowboys allow him to play is a separate issue. The 26-year-old tight end is under contract through 2029.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7bb9-dc7a-af9b-ffbf3eaa0000</guid>
-    </item>
-    <item>
-      <title>49ers TE George Kittle (ankle) is questionable to play in Week 18 against the Seahawks.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7bb7-d35e-a1bf-7ff7c9e40000</link>
-      <description>Kittle remained limited throughout all three practices this week. We expect him to play through the ankle injury in a winner-take-all matchup against the Seahawks. While both teams are playoff-bound, the winner claims the NFC West title and the NFC’s No. 1 playoff seed. Kittle is an elite TE1.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7bb7-d35e-a1bf-7ff7c9e40000</guid>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 01:29:31 +0000</lastBuildDate>
     <item>
       <title>Seahawks WR Rashid Shaheed (concussion) was removed from the injury report and will play in Week 18 against the 49ers.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7bbd-dc7a-af9b-ffbffce10000</link>
@@ -67,6 +49,24 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7be6-dc7a-af9b-ffffca280000</link>
       <description>Corum is firmly on the wrong side of questionable at this point and the Rams have already secured a playoff spot. Starting RB Kyren Williams (ankle) is nursing an ankle injury. If both players are declared inactive, rookie RB Jarquez Hunter could get the start.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7be6-dc7a-af9b-ffffca280000</guid>
+    </item>
+    <item>
+      <title>Chargers RB Omarion Hampton (ankle) did not practice on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7c29-d56e-afff-fee97a450000</link>
+      <description>Chargers head coach Jim Harbaugh told reporters earlier this week that getting his injured players healthy is his priority. With two absences to begin the week, Hampton seems unlikely to play this week. It is unclear whether rotational backup Jaret Patterson will get the start. Chargers No. 2 RB Kimani Vidal (neck) upgraded to full today while RB Hassan Haskins (concussion) remains limited.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7c29-d56e-afff-fee97a450000</guid>
+    </item>
+    <item>
+      <title>Chargers RB Kimani Vidal (neck) practiced fully on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7bdb-d968-a19b-7bfb69c10000</link>
+      <description>Vidal could get the start this week with RB Omarion Hampton (ankle) sidelined by an ankle injury. The team could choose to preserve Vidal’s health for the postseason, though. Rotational RB Jaret Patterson is healthy and Hassan Haskins (concussion) remains limited.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7bdb-d968-a19b-7bfb69c10000</guid>
+    </item>
+    <item>
+      <title>Broncos WR Pat Bryant (concussion) practiced fully on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7c30-d968-a19b-7cf1a3300000</link>
+      <description>Bryant is progressing through the NFL’s concussion protocol and should be able to play in Week 18 against the Chargers, though the Chargers are expected to rest some starters, which could result in an easy run-heavy win for the Broncos. The Broncos (13-3) currently hold the AFC’s No. 1 playoff seed. They can retain it with a win.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-7c30-d968-a19b-7cf1a3300000</guid>
     </item>
   </channel>
 </rss>
