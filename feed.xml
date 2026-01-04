@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jan 2026 18:01:31 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports “the belief around the league” is that the Raiders will “move on” from head coach Pete Carroll.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-89e5-d968-a19b-d9f580970000</link>
-      <description>The smoke on Carroll’s impending firing has been out of control all week, with the embattled 74-year-old head coach being a consensus pick to lose his job following today’s game against the Chiefs. The Raiders will have to eat the final two years of Carroll’s contract to fire him. The Raiders definitely haven’t done enough to give Carroll any benefit of the doubt, but it’s still a little surprising that the Raiders will become the first team to one-and-done consecutive coaches since the 2021-22 Houston Texans.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-89e5-d968-a19b-d9f580970000</guid>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 19:01:15 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Adam Schefter reports “there is a feeling from many” that Mike Tomlin will remain the Steelers’ head coach through 2026.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-89de-d35e-a1bf-cdde39160000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-8a03-d56e-afff-eeeb7f650000</link>
       <description>The Eagles are resting their starters this week, likely netting them the No. 3 seed. Johnson hasn’t played since Week 11 and has reportedly been a week away from returning for the past month. We suspect this time it does indeed count. The Eagles will be roughly at full strength on offense when they open the playoffs at home.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-8a03-d56e-afff-eeeb7f650000</guid>
+    </item>
+    <item>
+      <title>Russell Wilson is inactive for Week 18 against the Cowboys, ending his season.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-8a3c-d56e-afff-eefc133f0000</link>
+      <description>Wilson will end his first, and likely only, season in New York with just six games played (three starts). He completed 69-of-119 passes (58 percent completion rate) for 831 yards, three touchdowns, and three interceptions. He also took 10 sacks and had his worst QBR and overall quarterback rating of his career. Wilson will be a free agent this offseason and is unlikely to be signed into a clear starting job. He will almost certainly need to compete for, and win, a job if the 37-year-old wants to continue his playing career.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-8a3c-d56e-afff-eefc133f0000</guid>
     </item>
   </channel>
 </rss>
