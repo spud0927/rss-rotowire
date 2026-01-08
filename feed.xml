@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jan 2026 00:04:33 +0000</lastBuildDate>
-    <item>
-      <title>Packers WR Matthew Golden (Achilles) practiced fully on Wednesday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9a64-dc7a-af9b-dfff4cd20000</link>
-      <description>Golden has been a full participant in both practices this week despite the unsettling injury listing. The rookie wide receiver has been unable to carve out a role in the offense and played extensively in Week 18 while the coaching staff rested its key starters.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9a64-dc7a-af9b-dfff4cd20000</guid>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 01:29:34 +0000</lastBuildDate>
     <item>
       <title>Broncos head coach Sean Payton said RB J.K. Dobbins (foot) “could return for the AFC Championship game if the team advances that far.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9a01-d35e-a1bf-dfc3038b0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9ae0-d56e-afff-fee888cc0000</link>
       <description>Herbert sat out in Week 18. He told reporters that he took snaps under center today, which is “the earliest he’s done that in any game week” since suffering the injury in Week 13. Taking the week off seems to have helped in his recovery. Herbert should be good to go for his team’s game against the Patriots on Sunday.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9ae0-d56e-afff-fee888cc0000</guid>
+    </item>
+    <item>
+      <title>Rams TE Terrance Ferguson (hamstring) did not practice Wednesday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9ae6-dc7a-af9b-dfffa3720000</link>
+      <description>Ferguson followed up his Tuesday DNP with another DNP on Wednesday. WR Jordan Whittington (knee) and OL Kevin Dotson (ankle) also remained out. Official injury statuses will come out on Thursday but all three players are on the wrong side of questionable for the Wild Card round against the Panthers.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9ae6-dc7a-af9b-dfffa3720000</guid>
     </item>
   </channel>
 </rss>
