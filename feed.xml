@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jan 2026 00:04:27 +0000</lastBuildDate>
-    <item>
-      <title>Eagles TE Dallas Goedert (knee) was limited on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fba-d968-a19b-dffb8b080000</link>
-      <description>Goedert, 31, is now up to two limited sessions in the lead-up to the Eagles’ Wild Card Round game against the 49ers. We expect Goedert to suit up. Although we would like to see him practicing fully, the team could just be limiting the veteran player’s reps.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fba-d968-a19b-dffb8b080000</guid>
-    </item>
-    <item>
-      <title>Ravens completed their interview with Broncos passing game coordinator and QB coach Davis Webb for their head-coaching vacancy.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fc5-d35e-a1bf-dfc76cde0000</link>
-      <description>Webb has just three years of coaching experience under his belt, having been hired as the Broncos’ quarterbacks coach in 2023. He managed to add the passing game coordinator title last offseason. Interviewing for the Ravens’ head-coaching vacancy this quickly is quite an accomplishment. Thus far, Webb has also been linked to the Raiders, who reportedly requested to interview him earlier this week.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fc5-d35e-a1bf-dfc76cde0000</guid>
-    </item>
-    <item>
-      <title>Commanders requested to interview Cowboys TE coach Lunda Wells for their offensive coordinator vacancy.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fcf-d968-a19b-dfff1a9a0000</link>
-      <description>Per ESPN’s Todd Archer, “Wells has been [a] big part of game planning” since the Cowboys hired him away from the Giants in 2020. He coached the same position there from 2018-2019 after serving as the assistant offensive line coach from 2013-2017. Wells “was on staff with Commanders head coach Dan Quinn for three years, when Quinn served as the Cowboys’ defensive coordinator from 2021-2023.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fcf-d968-a19b-dfff1a9a0000</guid>
-    </item>
-    <item>
-      <title>Eagles DT Jalen Carter (hip) was limited on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fd8-d968-a19b-dff975ce0000</link>
-      <description>Eagles LB Nakobe Dean (hamstring), S Marcus Epps (concussion), OLB Azeez Ojulari (hamstring) and OLB Jaelan Phillips (ankle) are all practicing fully. Carter’s continued participation is a good sign. Hopefully, he upgrades to full participation on Friday. The Eagles face the 49ers on Sunday.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fd8-d968-a19b-dff975ce0000</guid>
-    </item>
-    <item>
-      <title>Eagles RT Lane Johnson (foot) was limited on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9f64-dc7a-af9b-dfff70530000</link>
-      <description>Johnson could be seen hopping on one foot during a ladder drill at today’s practice. We take this as a good sign for his availability this week, but nothing is certain. Johnson has rigorously rehabbed after suffering a Lisfranc injury in Week 11 against the Lions. Hopefully, he is good to go for his team’s game against the 49ers.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9f64-dc7a-af9b-dfff70530000</guid>
-    </item>
-    <item>
-      <title>Chargers RB Omarion Hampton (ankle) did not practice on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fce-dc7a-af9b-dfff0a950000</link>
-      <description>This is unfortunate. Chargers OC Greg Roman told reporters, before practice, that RB Hampton would be “involved some today” in practice. Instead, Hampton worked off to the side. Roman added that Hampton is “working through his process with the medical group” and is “ready mentally with the game plan.” That last bit makes it sound like Hampton is preparing as though he really does have a chance to play. Two absences to begin the week are worrying, though. No. 2 RB Kimani Vidal would likely operate as the team’s starter if Hampton is unable to face the Patriots this week.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fce-dc7a-af9b-dfff0a950000</guid>
-    </item>
-    <item>
-      <title>Chargers WR KeAndre Lambert-Smith (hamstring) did not practice on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fd3-d56e-afff-fffb56920000</link>
-      <description>Lambert-Smith is now on the wrong side of questionable, having missed the last two practices. The speedy rookie has not yet established himself as a reliable pass catcher, but he would be nice to have available on game day. The Chargers’ offense has been hit hard with injuries this season.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fd3-d56e-afff-fffb56920000</guid>
-    </item>
+    <lastBuildDate>Fri, 09 Jan 2026 01:29:41 +0000</lastBuildDate>
     <item>
       <title>Titans will interview former Cowboys head coach Mike McCarthy for their head-coaching vacancy.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9ff7-d56e-afff-ffff2bf20000</link>
@@ -67,6 +25,48 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fea-dc7a-af9b-dfff20b20000</link>
       <description>Mid-week additions to the injury report typically indicate that the player suffered a new injury in practice that day. We fear this is the case here. Boutte notably dealt with a hamstring strain earlier this season, costing him two games. He is not a big-time player in the Patriots’ offense, but he helps keep safeties honest in his field-stretching role.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-9fea-dc7a-af9b-dfff20b20000</guid>
+    </item>
+    <item>
+      <title>Falcons denied the Cowboys’ request to interview DC Jeff Ulbrich for their defensive coordinator vacancy.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a00a-d35e-a1bf-e5ca70760000</link>
+      <description>Per ESPN’s Todd Archer, “a potential interview can be revisited later” if the Falcons hire a head coach “who has a different coordinator in mind.” One assumes that Falcons team owner Arthur Blank is pleased with Ulbrich’s performance last season. The defense cannot be described as an elite unit, but Ulbrich appears to be a respected figure in the organization.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a00a-d35e-a1bf-e5ca70760000</guid>
+    </item>
+    <item>
+      <title>49ers WR Ricky Pearsall (knee/ankle) did not practice on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a014-dc7a-af9b-efbfff830000</link>
+      <description>Pearsall is now on the wrong side of questionable for the 49ers’ Wild Card Round game against the Eagles. The 49ers’ talented route runner aggravated his PCL sprain in Week 17 against the Bears and was unable to play on it last week. It is possible that the team is just taking it easy with him, but things are not looking good.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a014-dc7a-af9b-efbfff830000</guid>
+    </item>
+    <item>
+      <title>49ers TE George Kittle (ankle) was limited on Thursday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a013-d56e-afff-e6fb75250000</link>
+      <description>Kittle is on track to play, though it would be great to see him practice fully on Friday. The 49ers could be short-staffed when they face the Eagles this week. No. 1 WR Ricky Pearsall (knee/ankle) has not yet resumed practicing since aggravating the PCL sprain in his knee in Week 17.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a013-d56e-afff-e6fb75250000</guid>
+    </item>
+    <item>
+      <title>Cowboys requested to interview Broncos assistant head coach and defensive passing game coordinator Jim Leonhard for their defensive coordinator vacancy.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a017-d35e-a1bf-e5d7b53c0000</link>
+      <description>Shortly before issuing this report, ESPN’s Todd Archer let it be known that the Falcons had denied the Cowboys’ request to interview DC Jeff Ulbirch. The Cowboys are smartly casting a very wide net to fill their vacant defensive coordinator role. Leonhard served as the Broncos’ DB coach and defensive passing game coordinator in 2024 before swapping out the DB coach role for an assistant head coach promotion in 2025.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a017-d35e-a1bf-e5d7b53c0000</guid>
+    </item>
+    <item>
+      <title>Cowboys requested to interview Vikings defensive pass game coordinator and DB coach Daronte Jones for their defensive coordinator vacancy.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a022-dc7a-af9b-efbf91df0000</link>
+      <description>Jones was initially hired by the Vikings to coach only the defensive backs in 2022. They added defensive pass game coordinator to his title in 2023. ESPN’s Kevin Seifert believes Jones “would be on a very short list to replace Brian Flores as the Vikings’ defensive coordinator, if Flores departs.”</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a022-dc7a-af9b-efbf91df0000</guid>
+    </item>
+    <item>
+      <title>Cowboys requested to interview Browns S coach Ephraim Banda for their defensive coordinator vacancy.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a022-dc7a-af9b-efbfcf880000</link>
+      <description>Banda has coached the Browns’ safety group since the team brought him aboard in 2023. The unit stands out in a league that now frequently utilizes two-high safety looks. The Browns’ defense allowed the league’s ninth-fewest yards per pass play (6.61) despite Banda’s unit logging an NFL-high 773 defensive snaps with just one safety lined up deep this season.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a022-dc7a-af9b-efbfcf880000</guid>
+    </item>
+    <item>
+      <title>Jets requested to interview Vikings defensive pass game coordinator and DB coach Daronte Jones for their defensive coordinator vacancy.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a041-d35e-a1bf-e5c3360d0000</link>
+      <description>Jones now has two defensive coordinator interview requests. Good for him. He is also considered a candidate to replace Vikings DC Brian Flores, if were Flores to leave the Vikings’ organization for another opportunity.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a041-d35e-a1bf-e5c3360d0000</guid>
     </item>
   </channel>
 </rss>
