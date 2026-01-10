@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jan 2026 21:01:22 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Ian Rapoport reports Packers plan to discuss a contract extension with head coach Matt LaFleur after the season.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a67e-d968-a19b-feffb23c0000</link>
-      <description>LaFleur’s current contract runs through the 2026 season, but the Packers aren’t going to have him coach next season on an expiring deal. Green Bay intends to extend the 46-year-old coach’s contract whenever the Packers’ season ends. LaFleur is 76-40-1 and has taken the Packers to the playoffs six times in seven years, though he’s yet to make it to the Super Bowl. Recent reports that LaFleur might not be safe in this round of the NFL coaching carousel never passed the smell test. Rapoport couldn’t be clearer in his reporting, explicitly stating that LaFleur isn’t coaching for his job in the first round of the playoffs, according to sources.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a67e-d968-a19b-feffb23c0000</guid>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 22:01:37 +0000</lastBuildDate>
     <item>
       <title>Falcons hired Matt Ryan as President of Football.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a84d-d35e-a1bf-edcfcb010000</link>
@@ -33,9 +27,9 @@
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a912-d35e-a1bf-edd26dc90000</guid>
     </item>
     <item>
-      <title>Bills downgraded WR Joshua Palmer (ankle) to out for the Wildcard Round against the Jaguars.</title>
+      <title>Bills placed WR Joshua Palmer (ankle) on injured reserve.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a918-d968-a19b-f9f9213c0000</link>
-      <description>Palmer failed to practice all week before initially drawing the questionable tag, eventually ruled out on Saturday for the team’s Wildcard Round game against the Jaguars. Keon Coleman is expected to be active due to the absence for a team in desperate need of play makers behind quarterback Josh Allen and running back James Cook.</description>
+      <description>Palmer failed to practice all week before initially drawing the questionable tag, eventually ruled out on Saturday for the team’s Wildcard Round game against the Jaguars. He was then placed on injured reserve, ending his season. Keon Coleman is expected to be active due to the absence for a team in desperate need of play makers behind quarterback Josh Allen and running back James Cook. The team elevated DE Andre Davis and RB Frank Gore Jr. in an associated move.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a918-d968-a19b-f9f9213c0000</guid>
     </item>
     <item>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9a0-d35e-a1bf-ede20b480000</link>
       <description>The No. 1 seeded Broncos get the luxury of an additional week of preparation as they await their Division Round opponent, giving Sanders a legitimate chance to return for the team’s first postseason game. The third-year linebacker spent the entirety of the 2025 regular season on injured reserve after complications from a torn Achilles suffered in 2024.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9a0-d35e-a1bf-ede20b480000</guid>
+    </item>
+    <item>
+      <title>Bears activated CB Kyler Gordon (hamstring) from injured reserve.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9bd-dc7a-af9b-efbf0c2a0000</link>
+      <description>Gordon made only three appearances for the Bears during the regular season but gives a struggling secondary a tangible boost as they prepare to host the Packers Saturday evening. The two teams split the season series but meet in the Wildcard Round.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9bd-dc7a-af9b-efbf0c2a0000</guid>
     </item>
   </channel>
 </rss>
