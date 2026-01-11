@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jan 2026 00:04:53 +0000</lastBuildDate>
-    <item>
-      <title>Panthers declared LB Krys Barnes, C Nick Samac, DT Jared Harrison-Hunte, WR David Moore, and DE LaBryan Ray inactive for the Wildcard Round against the Rams.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a993-d968-a19b-f9f357470000</link>
-      <description>No real surprises from one of the healthier teams entering the postseason as the Panthers attempt to knock off the Rams at home as 10-point underdogs. It is the franchise’s first home playoff game since 2015.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a993-d968-a19b-f9f357470000</guid>
-    </item>
-    <item>
-      <title>Texans ruled out RB Jawhar Jordan (ankle) for the Wildcard Round against the Steelers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a998-d35e-a1bf-edda40cb0000</link>
-      <description>Jordan injured his ankle in Week 18 and failed to practice all week, eventually ruled out with the ailment. That leaves very little depth behind starting rookie Woody Marks, who could find himself in a workhorse role for the team’s Wildcard matchup against the Steelers. Nick Chubb appears likely to operate as the primary change of pace option while Dare Ogunbowale could rotate in on obvious passing situations.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a998-d35e-a1bf-edda40cb0000</guid>
-    </item>
-    <item>
-      <title>Broncos designated ILB Drew Sanders (foot) to return from injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9a0-d35e-a1bf-ede20b480000</link>
-      <description>The No. 1 seeded Broncos get the luxury of an additional week of preparation as they await their Division Round opponent, giving Sanders a legitimate chance to return for the team’s first postseason game. The third-year linebacker spent the entirety of the 2025 regular season on injured reserve after complications from a torn Achilles suffered in 2024.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9a0-d35e-a1bf-ede20b480000</guid>
-    </item>
-    <item>
-      <title>Bears activated CB Kyler Gordon (hamstring) from injured reserve.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9bd-dc7a-af9b-efbf0c2a0000</link>
-      <description>Gordon made only three appearances for the Bears during the regular season but gives a struggling secondary a tangible boost as they prepare to host the Packers Saturday evening. The two teams split the season series but meet in the Wildcard Round.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9bd-dc7a-af9b-efbf0c2a0000</guid>
-    </item>
-    <item>
-      <title>Panthers LT Ikem Ekwonu (knee) left Carolina’s Wild Card game against the Rams and will not return.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9ed-db1c-a7ff-a9ffdb2c0000</link>
-      <description>Josiah Stewart ran right over Ekwonu as his leg buckled. The fact that he was almost immediately ruled out likely foreshadows that he would have problems playing if the Panthers advanced. We can’t rule out a serious injury that requires surgery, either. Ekwonu played 950 regular-season snaps as Carolina’s starter at left tackle. Yosh Nijman took over at left tackle.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-a9ed-db1c-a7ff-a9ffdb2c0000</guid>
-    </item>
-    <item>
-      <title>Dolphins completed an interview with Klint Kubiak for their head-coaching vacancy.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa34-d35e-a1bf-eff6a9d90000</link>
-      <description>That makes six for Kubiak: Falcons, Giants, Cardinals, Raiders, Ravens, and now the Dolphins. What the Seahawks OC did to offend the Titans, we’ll never know. Gary Kubiak’s son stands a solid chance of picking up a job this cycle given how many openings there are and how many he’s already interviewed for. Things will slow down a bit with his market as the Seahawks start playing playoff games next week.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa34-d35e-a1bf-eff6a9d90000</guid>
-    </item>
-    <item>
-      <title>Commanders interviewed Titans DC Dennard Wilson for their defensive coordinator vacancy.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa3d-d968-a19b-fafd61290000</link>
-      <description>Wilson’s work was often overlooked toiling behind Brian Callahan’s horrific offense over the past two years, but the Titans played well on run defense and at least came up with some exotic blitz looks to deal with their lack of pass-rush surge. Still under contract with the Titans, Wilson would likely be allowed to walk as the Titans new head coach wouldn’t necessarily want to retain him.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa3d-d968-a19b-fafd61290000</guid>
-    </item>
-    <item>
-      <title>Rams CB Ahkello Witherspoon (shoulder) left Los Angeles’ Wild Card game against the Panthers and will not return.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa43-dc7a-af9b-efff42d40000</link>
-      <description>He injured the shoulder in the first quarter, briefly returned, and has now been ruled out. Witherspoon played 12 snaps before leaving. The 30-year-old veteran started two games this regular season, appearing in six, while dealing with a shoulder injury that sent him to injured reserve.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa43-dc7a-af9b-efff42d40000</guid>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 01:30:20 +0000</lastBuildDate>
     <item>
       <title>Packers declared OL Zach Tom inactive for Green Bay’s Wild Card game against the Bears.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa46-d968-a19b-faf7752d0000</link>
@@ -67,6 +19,54 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa49-d35e-a1bf-efcb74b10000</link>
       <description>He was the only questionable Bears player, but after being activated from injured reserve earlier today it would have been surprising if he hadn’t gone. Inactive for the Bears are: QB Case Keenum, DB CJ Gardner-Johnson, LB Ruben Hyppolite II, DL Joe Tryon-Shoyinka, WR Jahdae Walker and OL Luke Newman.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa49-d35e-a1bf-efcb74b10000</guid>
+    </item>
+    <item>
+      <title>Matthew Stafford completed 24-of-42 passes for 304 yards, three touchdowns, and one interception in the Rams’ 34-31, Wild Card round win over the Panthers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa86-d35e-a1bf-efc655db0000</link>
+      <description>If you didn’t see the game, those numbers probably look pretty stellar. Stafford had major problems targeting Carolina’s corners outside, as 184 of the 304 yards came over the middle of the field. He was just 7-of-22 for 94 yards and a pick in the second and third quarters. However, with Panthers CB Jaycee Horn getting checked in the concussion protocol late in the game, he was able to pinpoint a 19-yard pass to Colby Parkinson on the sideline to give the Rams a three-point lead with 38 seconds left. We don’t know exactly where Stafford is going yet next weekend, but the Rams clearly are relying on him to keep them going and he’ll be an obvious staple in DFS lineups for the Divisional Round.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa86-d35e-a1bf-efc655db0000</guid>
+    </item>
+    <item>
+      <title>Kyren Williams rushed 13 times for 57 yards in the Rams’ Wild Card Round win over the Panthers, adding two catches for 18 yards and a touchdown on his only two targets.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa8f-d56e-afff-eeef3bc80000</link>
+      <description>Williams’ angle route in the fourth quarter put the Rams back in front in the fourth quarter. The Rams didn’t really do a great job of establishing the run with Kevin Dotson out, and Williams continued to split carries with Blake Corum while out-snapping him 47-28 per the early PFF charting data. Williams will be part of the high-end RB conversation in Divisional Round DFS and Playoff Best Ball next week.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa8f-d56e-afff-eeef3bc80000</guid>
+    </item>
+    <item>
+      <title>Blake Corum rushed 11 times for 45 yards in the Rams’ Wild Card Round win over the Panthers, adding two catches for 13 yards on his only two targets.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa93-d968-a19b-faf304fe0000</link>
+      <description>He didn’t score, but Corum went over 10 carries for the fifth time in six games. Neither Corum or Williams found much running room in this one without guard Kevin Dotson, with Corum getting the Rams’ long rushing gain of eight yards. Corum should be involved in the Divisional Round fantasy discussion but is clearly a 1B back looking for a favorable situation to emerge over the next 36 hours.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa93-d968-a19b-faf304fe0000</guid>
+    </item>
+    <item>
+      <title>Puka Nacua caught 10-of-11 targets for 111 yards and a touchdown in Los Angeles’ Wild Card Round win over the Panthers, adding three carries for 14 yards and an additional touchdown.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa96-d968-a19b-faf7c9620000</link>
+      <description>And somehow it could have been better, because his one incomplete pass was a 30-yard downfield pass towards the end of the first half that it hit him right in the hands. Had Nacua caught it, he had a fairly good shot at a third score. The favorite for offensive player of the year continued his grind, helping Matthew Stafford out by breaking up a late would-be interception and using his accuracy to erase some of the trouble Stafford and Davante Adams had getting on the same page throughout the game. Nacua seems destined to continue churning out Overall WR1 Games against whoever the Rams draw in the Divisional Round.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa96-d968-a19b-faf7c9620000</guid>
+    </item>
+    <item>
+      <title>Davante Adams caught 5-of-13 targets for 72 yards in Los Angeles’ Wild Card Round win over the Panthers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa99-d35e-a1bf-efdbf7b30000</link>
+      <description>Adams and Stafford did not exactly look like they were on the same page for most of this game, though it should be noted that Adams dropped a few balls. It also bears mentioning that he’d probably have had 90 yards if not for a helmet-to-helmet breakup in the third quarter that sent Adams briefly for a concussion check. As far as “getting his legs” back fantasy games, it’s hard to ignore the pass volume that Adams was able to generate here despite leaving eight targets on the ground. Adams will clearly be involved in the high-end WR conversation for the Divisional Round, though this game gives us some pause on how high expectations should be set.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa99-d35e-a1bf-efdbf7b30000</guid>
+    </item>
+    <item>
+      <title>Colby Parkinson caught 2-of-3 targets for 34 yards and a touchdown in Los Angeles’ Wild Card Round win over the Panthers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa9d-d35e-a1bf-efdf37f60000</link>
+      <description>It is, amazingly, Parkinson’s ninth touchdown in his last 10 games despite cracking 50 yards just once over that span. The Rams steered away from their 13-personnel sets in this game without Terrance Ferguson, but Parkinson continued to eat up snaps, playing a tight-end-room high 57 of the team’s 75. Can you call someone a touchdown or bust option if he almost always spits up a touchdown? That’s what you’re confronted with in the Divisional Round slate.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aa9d-d35e-a1bf-efdf37f60000</guid>
+    </item>
+    <item>
+      <title>Tyler Higbee caught 2-of-3 targets for 45 yards in Los Angeles’ Wild Card Round win over the Panthers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aaa0-d968-a19b-faf122630000</link>
+      <description>Despite scoring in his return from injured reserve in Week 18, Higbee played 39 of 75 snaps this week and was mostly kept in check as Davante Adams garnered a huge amount of targets. He managed a 36-yard catch in the middle of a busted zone in this one, but otherwise didn’t build much of a TE punt case for next week’s Divisional Round slate.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aaa0-d968-a19b-faf122630000</guid>
+    </item>
+    <item>
+      <title>Bryce Young completed 21-of-40 passes for 264 yards, a touchdown, and an interception in the Panthers’ 34-31, Wild Card Round loss to the Rams, adding three carries for 24 yards and a touchdown on the ground.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aaa2-d35e-a1bf-efe2794f0000</link>
+      <description>It never really felt like the Panthers had efficiency on their side in this one, with Young struggling to complete 50 percent of his passes and dealing with plenty of pressure early. But Young hit some big plays downfield, including a 52-yarder to Jalen Coker, and led the Panthers to a go-ahead touchdown drive with just over two minutes left in the fourth quarter. Given the ball with 38 seconds left down three, Young led a quick four-and-out to end the game. Up and down. Up and down. That’s sort of the story with Young in his third season: He proved capable of big games, but more often than not was struggling to get to 200 yards. The rushing touchdown was his third in 18 games this season, so he isn’t providing much there for fantasy managers. Even with some work to the supporting cast this offseason, Young probably will wind up on the low-end QB2 line in 2026 drafts.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-aaa2-d35e-a1bf-efe2794f0000</guid>
     </item>
   </channel>
 </rss>
