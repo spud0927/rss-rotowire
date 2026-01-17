@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jan 2026 19:01:06 +0000</lastBuildDate>
-    <item>
-      <title>Dolphins completed an interview with Rams DC Chris Shula for their head-coaching vacancy.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-c975-d56e-afff-effd47980000</link>
-      <description>Shula, 39, will also interview for the Titans, Steelers, Giants, Cardinals and Raiders’ head-coaching vacancies. The Rams face the Bears’ explosive offense on Sunday, in a contest that will determine one of the two representatives in the NFC Championship Game.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-c975-d56e-afff-effd47980000</guid>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 20:01:23 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Adam Schefter reports Packers are working on contract extensions for head coach Matt LaFleur and general manager Brian Gutekunst.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ca1a-d968-a19b-dafbad430000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-cd03-d35e-a1bf-cdc3fd0b0000</link>
       <description>The Bills activated Oliver along with WR Curtis Samuel (elbow, neck) from injured reserve earlier this week. While Oliver has missed all but three games this year, he recorded a sack in all three of those contests. Even in limited snaps, he should provide run-stuffing ability and pass rush juice while he’s out there.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-cd03-d35e-a1bf-cdc3fd0b0000</guid>
+    </item>
+    <item>
+      <title>Eagles interviewed former Giants interim HC Mike Kafka for their vacant offensive coordinator position.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-cd29-dc7a-af9b-cfbf7a9d0000</link>
+      <description>The team completed the interview Saturday following the parting of ways with former offensive coordinator Kevin Patullo, who was fired earlier in the week. The change comes in the wake of a 6.9 points per game decrease in scoring compared to their Super Bowl-winning season in 2024, meaning quarterback Jalen Hurts will operate with a sixth offensive coordinator in his seventh professional season when the new league year begins.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-cd29-dc7a-af9b-cfbf7a9d0000</guid>
     </item>
   </channel>
 </rss>
