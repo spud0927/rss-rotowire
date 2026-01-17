@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jan 2026 22:01:30 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Jeremy Fowler reports Raiders will interview Panthers DC Ejiro Evero for a second time regarding its open head coaching position.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-cca0-d56e-afff-eee88a4f0000</link>
-      <description>Evero met virtually with the Raiders this week and will have an in-person interview sometime next week. The 45-year-old defensive coordinator also has an interview with the Steelers coming up. Evero has been a defensive coordinator for the last four years (three with the Panthers, one with the Broncos) with mixed results, though he remains respected around the league.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-cca0-d56e-afff-eee88a4f0000</guid>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 23:01:19 +0000</lastBuildDate>
     <item>
       <title>NFL Network’s Ian Rapoport reports QB Aaron Rodgers isn’t expected to return to the Steelers next season.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ccd1-d56e-afff-eef9cb4c0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-cdf6-d56e-afff-effe5c8d0000</link>
       <description>Bryant had three catches for 32 yards on the first drive and looked set to be a huge part of this offensive gameplan. However, he suffered a concussion when his helmet hit the ground after his final catch. Lil’Jordan Humphrey took his place but dropped a touchdown catch on the first drive.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-cdf6-d56e-afff-effe5c8d0000</guid>
+    </item>
+    <item>
+      <title>Connor McGovern was taken to the locker room with a head injury in the AFC Divisional Round against the Broncos.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ce10-dc7a-af9b-cfbff8170000</link>
+      <description>McGovern dove to try to recover a fumble by James Cook and was hit hard in the back of his head. He went into the medical tent and then walked into the locker room. Alec Anderson is replacing him, but playing on the road in Denver is a rough environment for a backup center.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ce10-dc7a-af9b-cfbff8170000</guid>
     </item>
   </channel>
 </rss>
