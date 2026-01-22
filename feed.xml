@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jan 2026 01:29:51 +0000</lastBuildDate>
-    <item>
-      <title>Bills completed an interview with OC Joe Brady for their head-coaching vacancy.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e2ab-dc7a-af9b-efbfa2a90000</link>
-      <description>Hiring Brady would certainly make for a smooth transition. The Bills’ offensive coordinator has served in his current role for the past two seasons. He was the Bills’ quarterbacks coach in 2022 and 2023, and was promoted to interim offensive coordinator in the latter year.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e2ab-dc7a-af9b-efbfa2a90000</guid>
-    </item>
+    <lastBuildDate>Thu, 22 Jan 2026 02:40:47 +0000</lastBuildDate>
     <item>
       <title>Steelers completed an interview with former Cowboys head coach Mike McCarthy for their head-coaching vacancy.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e2b1-dc7a-af9b-efbff3b10000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e31e-d968-a19b-fbff7e250000</link>
       <description>Harris is the Bears’ defensive pass game coordinator and defensive backs coach. He played a prominent role in building the Bears’ defense this season and is an established leader around the league. With 13 years of coaching under his belt, Harris has spent the last six season with the Cowboys and Bears. A former player for the Packers, Harris is now interviewing for their defensive coordinator vacancy.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e31e-d968-a19b-fbff7e250000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports the Commanders are interviewing Bears defensive backs coach Al Harris for their defensive coordinator vacancy.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e364-d56e-afff-e7ec973d0000</link>
+      <description>Harris coached defensive backs and was the passing game coordinator for a Bears defense that led the league with 23 interceptions this season. He interviewed with the Packers for their defensive coordinator vacancy and will next interview with the Commanders. With Brian Flores signing an extension with the Vikings, the Commanders are pivoting to other options for their defensive coordinator opening.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e364-d56e-afff-e7ec973d0000</guid>
     </item>
   </channel>
 </rss>
