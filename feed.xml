@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jan 2026 01:29:26 +0000</lastBuildDate>
-    <item>
-      <title>Patriots CB Carlton Davis (concussion) was limited on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e7e5-dc7a-af9b-efff13a40000</link>
-      <description>Davis still has a chance to clear the NFL’s five-phase concussion protocol, but he will probably need to upgrade to full participation tomorrow. Davis leads the team with 12 pass breakups this season. It would be great to have him on the field for New England’s AFC Championship Game against the Broncos, though Denver may opt for a run-heavy approach.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e7e5-dc7a-af9b-efff13a40000</guid>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 02:37:30 +0000</lastBuildDate>
     <item>
       <title>Patriots RB TreVeyon Henderson (shoulder) practiced fully on Thursday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e7e7-d35e-a1bf-e7e79c700000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e82d-d968-a19b-f8fd5df50000</link>
       <description>Seahawks head coach Mike Macdonald told reporters earlier today that they are “optimistic” about Cross’ availability this week. Cross’ top-two backups, OT Josh Jones (knee/ankle) and OT Amari Kight (knee), were also absent again on Thursday and are considered “day-to-day,” per Macdonald.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e82d-d968-a19b-f8fd5df50000</guid>
+    </item>
+    <item>
+      <title>Chargers requested an interview with Rams assistant head coach and pass game coordinator Aubrey Pleasant for their defensive coordinator vacancy.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e81d-d968-a19b-f8fd6a6d0000</link>
+      <description>Pleasant’s current stint with the Rams began in 2023, when they hired him as the defensive backs coach and pass game coordinator. He was promoted from the former role in 2024, though per the team’s website, he continued to work closely with the defensive backs last season. He previously coached cornerbacks for the Rams from 2017-2020.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-e81d-d968-a19b-f8fd6a6d0000</guid>
     </item>
   </channel>
 </rss>
