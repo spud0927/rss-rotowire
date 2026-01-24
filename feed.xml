@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jan 2026 01:29:49 +0000</lastBuildDate>
-    <item>
-      <title>Broncos WR Troy Franklin (hamstring) is questionable to play in the AFC Championship Game against the Patriots.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ecf1-d968-a19b-fcf1554d0000</link>
-      <description>Franklin logged three straight limited sessions this week. It is tough to say whether he will be active against the Patriots. He departed early last week. Over his last two games, he has earned just one target. Even if he is active, he is unlikely to operate as a featured player.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ecf1-d968-a19b-fcf1554d0000</guid>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 02:34:10 +0000</lastBuildDate>
     <item>
       <title>Broncos C Luke Wattenberg (shoulder) is questionable to play in the AFC Championship Game against the Patriots.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ecfc-d56e-afff-eefc79700000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ed83-d968-a19b-fdf30cc10000</link>
       <description>Douglas is currently in his second stint with the Eagles’ front office. He previously served as the Eagles’ vice president of player personnel from 2016-2019 before taking the Jets’ vacant general manager position. He has been in his current role for one year.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ed83-d968-a19b-fdf30cc10000</guid>
+    </item>
+    <item>
+      <title>Patriots CB Carlton Davis (concussion) is not on New England’s injury report for the AFC Championship Game against the Broncos.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ed83-d968-a19b-fdf347670000</link>
+      <description>Earlier today, Patriots coach Mike Vrabel said Davis would be listed as questionable, but Davis ended up clearing the NFL’s concussion protocol this afternoon. Davis leads the team with 12 pass breakups this year. His return is good news for the Patriots’ defense.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019b-ed83-d968-a19b-fdf347670000</guid>
     </item>
   </channel>
 </rss>
