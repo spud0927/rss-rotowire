@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Jan 2026 15:02:25 +0000</lastBuildDate>
-    <item>
-      <title>The NFL is projecting the salary cap to increase from $279.2 million in 2025 to more than $300 million in 2026.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1061-d424-a3fd-f7795c910000</link>
-      <description>The exact range is said to be $301.2 million to $305.7 million per club. NFL Network’s Tom Pelissero notes that this is nearly $100 million more than the $208.2 million salary cap in 2022. The exact number will be finalized before free agency begins on March 11th.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1061-d424-a3fd-f7795c910000</guid>
-    </item>
+    <lastBuildDate>Sat, 31 Jan 2026 16:02:04 +0000</lastBuildDate>
     <item>
       <title>Packers signed GM Brian Gutekunst to a contract extension.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1081-d042-afbc-7dd300520000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1189-d424-a3fd-f7992d080000</link>
       <description>Per Wilson, Ferentz is expected to coach tight ends, though his role has not yet been formally defined. The former offensive lineman entered the NFL in 2014 as an undrafted free agent with the Texans. He joined the Broncos in 2015 and spent 2018-2023 with the Patriots. Ferentz spent the last two seasons serving as an assistant offensive line coach with the Giants.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1189-d424-a3fd-f7992d080000</guid>
+    </item>
+    <item>
+      <title>Bills hired Jim Leonhard as defensive coordinator.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-14a0-d629-a1bc-b4bdd0300000</link>
+      <description>It’s no secret that Joe Brady will continue to run the offense in Buffalo as head coach, but now we know who’ll be heading up the Bills’ defense in the post-Sean McDermott era. Leonhard’s hiring, which was first reported by NFL Network’s Ian Rapoport, takes him off the table for teams like the Ravens and Chargers that also had interest in the 43-year-old coach. A former walk-on safety at Wisconsin, Leonhard played 10 years in the NFL before returning to Wisconsin to start his coaching career and remaining there for seven years. He’s only coached in the NFL for the last two seasons, but had his fingerprints on one of the league’s best defenses as the defensive pass game coordinator in Denver. Leonhard takes over a Buffalo defense that finished 20th in DVOA.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-14a0-d629-a1bc-b4bdd0300000</guid>
     </item>
   </channel>
 </rss>
