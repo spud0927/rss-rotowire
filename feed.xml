@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Feb 2026 20:01:23 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Mike Garafolo reports Eagles DC Vic Fangio’s return for next season “has been uncertain”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-196e-d355-a5bd-9f7e6c6c0000</link>
-      <description>Fangio, 67, could consider retirement, but Garafolo does add that the discussions between Fangio and the Eagles have “been leaning to the positive recently but anything good change.” The Eagles reportedly considered Browns DC Jim Schwartz and new Packers DC Jonathan Gannon to replace Fangio should he opt not to return, but Schwartz would be the only option available of the two, and that’s assuming the Browns let him after his contract after the decision to pass on him for their head-coaching vacancy. This will be a situation to monitor until there’s a permanent solution, but Fangio’s defense was fifth in points allowed last season and ranked 13th in total yards allowed.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-196e-d355-a5bd-9f7e6c6c0000</guid>
-    </item>
+    <lastBuildDate>Sun, 01 Feb 2026 21:02:58 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Jeremy Fowler reports former Chargers OC Greg Roman will have an in-person interview for the Jets’ offensive-coordinator vacancy next week.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-197e-d629-a1bc-b97f065e0000</link>
@@ -55,6 +49,24 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1aa7-d042-afbc-7ff70b5b0000</link>
       <description>Smiley coached in the college ranks from 2005-2012 before making the leap to the NFL in 2013 as the Jaguars’ assistant special teams coordinator. He made a lateral move in 2017, joining former Bills head coach Sean McDermott’s staff in the same role. Smiley was then promoted to special teams coordinator in 2022 and served in that role for three seasons.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1aa7-d042-afbc-7ff70b5b0000</guid>
+    </item>
+    <item>
+      <title>Cardinals hired Mike LaFleur as their new head coach.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1ab2-d042-afbc-7ff292da0000</link>
+      <description>LaFleur entered the NFL’s coaching ranks as an offensive intern with the Browns in 2014, studying under then-OC Kyle Shanahan. LaFleur followed Shanahan to the Falcons in 2015 after accepting an offensive assistant position. Evidently impressed with LaFleur’s development, Shanahan hired LaFleur as the 49ers’ passing game coordinator and wide receivers coach after Shanahan was hired as the team’s head coach in 2017. LaFleur shed the wide receivers coach title in 2019, and later accepted the Jets’ offensive coordinator position in 2021 after former 49ers DC Robert Saleh was hired as the Jets’ next head coach. LaFleur parted ways with the Jets in 2023 and was hired by Rams head coach Sean McVay as the Rams’ offensive coordinator. He has served in that capacity in each of the last three seasons. LaFleur’s offense led the league in yards per play this season (6.1), while using creative play designs featuring play action, shifts and motion. He signed a five-year contract with his new team.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1ab2-d042-afbc-7ff292da0000</guid>
+    </item>
+    <item>
+      <title>49ers hired Raheem Morris as their new defensive coordinator.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1aa6-d89c-a1be-bfff10930000</link>
+      <description>The news comes shortly after the Cardinals hired Rams OC Mike LaFleur as their next head coach. Morris was one of three finalists for that role. Morris now reunites with 49ers head coach Kyle Shanahan. ESPN’s Adam Schefter notes that the two previously worked together with the Buccaneers (2004-2005), Commanders (2012-2013) and Falcons (2015-2016).</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-1aa6-d89c-a1be-bfff10930000</guid>
+    </item>
+    <item>
+      <title>Dolphins hired Sean Duggan as their new defensive coordinator.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-11cc-d042-afbc-7dde47070000</link>
+      <description>The hiring reunites Duggan with former Packers DC and new Dolphins head coach Jeff Hafley. Duggan, 32, entered the NFL’s coaching ranks as a Packers defensive assistant in 2024. He was promoted to linebackers coach in 2025, evidently impressing Hafley along the way.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-11cc-d042-afbc-7dde47070000</guid>
     </item>
   </channel>
 </rss>
