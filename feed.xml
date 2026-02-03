@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Feb 2026 22:05:19 +0000</lastBuildDate>
-    <item>
-      <title>CBS Sports’ Jonathan Jones reports Bengals WRs coach Troy Walters declined to interview for the Bears’ offensive coordinator vacancy.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-2442-d355-a5bd-af56cdab0000</link>
-      <description>Walters has received several OC interviews over the years. He would not call the plays in Chicago and currently works with the best wide receiver duo in the NFL, so he is understandably staying in Cincinnati for the time being. Walters has been with the Bengals since 2020.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-2442-d355-a5bd-af56cdab0000</guid>
-    </item>
+    <lastBuildDate>Tue, 03 Feb 2026 23:05:25 +0000</lastBuildDate>
     <item>
       <title>Browns head coach Todd Monken said it’s “TBD” if Shedeur Sanders will start for the Browns next season.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-24a6-d629-a1bc-b4bff72c0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-2533-d042-afbc-7df3268e0000</link>
       <description>Martindale appeared to be heading towards getting the Jets defensive coordinator job earlier this offseason, but after Aaron Glenn decided he wanted to call plays the two sides went separate directions. Presumably Martindale would have play-calling authority in Arizona if he were the choice, as Mike LaFleur has zero defensive coaching experience.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-2533-d042-afbc-7df3268e0000</guid>
+    </item>
+    <item>
+      <title>Bills hired former Titans quarterbacks coach Bo Hardegree as their quarterbacks coach.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-2563-d355-a5bd-af7794600000</link>
+      <description>Hardegree was asked to call plays for the Titans for most of last season, first to supplement Brian Callahan, then to replace him after he was fired. That made it two straight seasons where Hardegree took over as a playcaller midseason, since he was on Josh McDaniels’ doomed 2024 Raiders staff. Joe Brady is hoping to not make it three times in a row.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-2563-d355-a5bd-af7794600000</guid>
     </item>
   </channel>
 </rss>
