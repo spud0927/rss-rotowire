@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Feb 2026 02:53:56 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports that the Cowboys will play in “the NFL’s first-ever regular-season game next season in Rio de Janeiro.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3053-d355-a5bd-bf57c9540000</link>
-      <description>The Cowboys’ opponent has not yet been revealed. This is the second international game to be announced today. The 49ers will also play the Rams in Melbourne, Australia next season. The Chiefs and Chargers notably played in São Paulo, Brazil in Week 1 of 2025 season.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3053-d355-a5bd-bf57c9540000</guid>
-    </item>
-    <item>
-      <title>Patriots LB Robert Spillane (ankle) was limited on Thursday.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-2ff9-d89c-a1be-afff8c300000</link>
-      <description>Spillane resumed practicing today after sitting out on Wednesday. He missed Weeks 14-18 with the same ankle injury, but managed to return for postseason play. Spillane aggravated the injury in the AFC Championship Game, yet remained confident that he would play in Super Bowl LX against the Seahawks. Today’s return is a good sign. Unfortunately, Patriots LB Harold Landry (knee) was downgraded today after logging a limited session on Wednesday.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-2ff9-d89c-a1be-afff8c300000</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 03:45:37 +0000</lastBuildDate>
     <item>
       <title>Seahawks S Nick Emmanwori (ankle) did not practice on Thursday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-303f-d042-afbc-7dff11c90000</link>
@@ -61,6 +49,24 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-30cc-d629-a1bc-b0dd91e60000</link>
       <description>Thuney wins the NFL’s inaugural offensive linemen award in his first season with the Bears, who acquired him in exchange for a 2026 fourth-round draft pick in March 2025. Although the left tackle position remains one of the most important positions in football, Thuney, a left guard, winning the award proves that Protector of the Year will not simply be handed to the NFL’s best left tackle.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-30cc-d629-a1bc-b0dd91e60000</guid>
+    </item>
+    <item>
+      <title>Christian McCaffrey was named the 2025 Associated Press NFL Comeback Player of the Year.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-30cf-d89c-a1be-bfdf22d90000</link>
+      <description>McCaffrey astonishingly handled a career-high 413 touches in his age-29 season, totaling 102 receptions, 2,126 scrimmage yards and 17 touchdowns. To say he deserves this award is an understatement. He notably won the Offensive Player of the Year award in 2023.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-30cf-d89c-a1be-bfdf22d90000</guid>
+    </item>
+    <item>
+      <title>Mike Vrabel was named NFL Coach of the Year.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-30dd-d355-a5bd-bfdd1b370000</link>
+      <description>The Patriots finished with a 4-13 record one year ago. Now, in Vrabel’s first season as head coach, they are preparing to play in Super Bowl LX against the Seahawks following a 14-3 season. Patriots OC Josh McDaniels was named Assistant Coach of the Year earlier this evening.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-30dd-d355-a5bd-bfdd1b370000</guid>
+    </item>
+    <item>
+      <title>The Athletic’s Charlotte Carroll reports that the Giants are “bringing on Greg Roman to the staff.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-30ea-d355-a5bd-bffe96630000</link>
+      <description>The move reunites him with Giants head coach John Harbaugh. Roman previously served as Harbaugh’s offensive coordinator with the Ravens from 2019-2022. He served as the Chargers’ offensive coordinator under head coach Jim Harbaugh over the last two seasons. Per Carroll, Roman’s role will be on the offensive side of the ball.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-30ea-d355-a5bd-bffe96630000</guid>
     </item>
   </channel>
 </rss>
