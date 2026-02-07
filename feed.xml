@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 21:04:25 +0000</lastBuildDate>
-    <item>
-      <title>CBS Sports’ Matt Zenitz reports that Adam Gase “has emerged” as an offensive assistant coach candidate for the Chargers.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3609-d629-a1bc-b61d752c0000</link>
-      <description>Gase has not coached since his 2019-2020 run as the Jets’ head coach. He served as the Dolphins’ head coach before that, from 2016-2018. The Chargers swapped out former OC Greg Roman for new OC Mike McDaniel this offseason, and are evidently not done adding new offensive staffers.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3609-d629-a1bc-b61d752c0000</guid>
-    </item>
+    <lastBuildDate>Sat, 07 Feb 2026 22:02:18 +0000</lastBuildDate>
     <item>
       <title>The Athletic’s Dianna Russini reports there’s a “strong sense in league circles” that Raiders EDGE Maxx Crosby could be traded.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-385b-d355-a5bd-bf5fedf70000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3962-d629-a1bc-b97f3cd60000</link>
       <description>The hire marks the third generation of Ryans coaching for the Jets in New York, following in the footsteps of his grandfather, Buddy, and father, Rex. The passing game coordinator role is a solid stepping stone towards future offensive coaching positions considering recent trends around the league, potentially setting up Seth well for potential coordinator positions in the near future if all goes well with the Jets.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3962-d629-a1bc-b97f3cd60000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports Falcons are expected to release QB Kirk Cousins ahead of the new league year.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-39ef-d629-a1bc-b9ff8d280000</link>
+      <description>The expected move will allow the veteran quarterback options as he decides on his next move. ESPN’s Kevin Seifert adds that Cousins is also weighing the opportunity to turn his attentions to broadcasting after dipping his toes in the discipline earlier this year. According to Seifert, Cousins “will be fully open to finding the right opportunity with another NFL team in need of quarterback help.”</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-39ef-d629-a1bc-b9ff8d280000</guid>
     </item>
   </channel>
 </rss>
