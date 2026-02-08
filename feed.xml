@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Feb 2026 22:02:44 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Tom Pelissero reports the Colts will begin contract talks with Daniel Jones soon.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3e56-d042-afbc-7fd6c7fd0000</link>
-      <description>It was no surprise to hear this as both Jones and the Colts had mutual interest in a re-signing after their regular season ended, and Jones’ Achilles tear had a lot to do with them tumbling out of the playoffs. We’re extremely curious who is compromising on value here as Jones has been an almost-Kirk Cousinsesque money maker over his early career, and it would seem that his mobility being compromised would make him tough to trust in 2026 as a starter since a real chunk of his value is tied to that. The Colts, of course, don’t have any better options after dealing their 2026 and 2027 first-round picks away for Sauce Gardner. It wouldn’t be surprising if this got to the stage of franchise or transition tags.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3e56-d042-afbc-7fd6c7fd0000</guid>
-    </item>
-    <item>
-      <title>NFL Network’s Ian Rapoport believes it is “not impossible” for the Raiders to trade Maxx Crosby (knee) before free agency begins on March 11th.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3e6a-d629-a1bc-be7fbfe30000</link>
-      <description>Rapoport is following up on one of his own recent reports, where he indicated that Crosby could be traded “at the 2026 NFL Draft or prior to the season.” Only Rapoport knows why he chose to create a wider range of possible outcomes, but perhaps he was told that one or more teams are already interested in acquiring the veteran pass rusher. Regardless, Crosby told reporters late last week that he is roughly one month into his recovery from a meniscus repair. Rapoport believes Crosby’s recovery could progress faster than the typical meniscus repair timeline, which takes 3-4 months.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3e6a-d629-a1bc-be7fbfe30000</guid>
-    </item>
-    <item>
-      <title>Jets hired Ryan Slowik to their defensive coaching staff.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3e92-d629-a1bc-be9f096a0000</link>
-      <description>NFL Network’s Ian Rapoport reports Slowik will coach the safety group while The Athletic’s Zack Rosenblatt reports Slowik will serve as the Jets’ defensive pass game coordinator. We suspect he is accepting both roles. Slowik spent the past four seasons rapidly rising through the Dolphins’ coaching ranks, serving as a senior defensive assistant (2022), outside linebackers coach (2023) and defensive backs coach and pass game specialist (2024-2025). Perhaps unsurprisingly, Rapoport reports that “other NFL teams have looked at Slowik as a future defensive coordinator.”</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3e92-d629-a1bc-be9f096a0000</guid>
-    </item>
-    <item>
-      <title>Patriots LB Robert Spillane (ankle) is expected to play in Super Bowl LX against the Seahawks.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3eb3-d629-a1bc-bebfa9b20000</link>
-      <description>Patriots LB Harold Landry (knee) is also expected to play. Both players were listed as questionable on Friday. ESPN’s Mike Reiss notes that both players might be unable to handle their typical workload. Spillane’s backup, LB Jack Gibbens, could be asked to “step up” if Spillane needs a few breaks. Spillane missed Weeks 15-18 with the same ankle injury, which he aggravated in the AFC Championship Game. Gibbens notably led the team with 20 tackles during Spillane’s late-season absence. Gibbens’ two pass breakups during that span also impressively tied for a team-high.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3eb3-d629-a1bc-bebfa9b20000</guid>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 23:04:50 +0000</lastBuildDate>
     <item>
       <title>NFL Network’s Mike Garafolo reports that the Bengals “are still considering” using the franchise tag on Trey Hendrickson.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3ec2-d355-a5bd-bfd6bf8a0000</link>
@@ -67,6 +43,30 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3f2a-d629-a1bc-bf3fc5010000</link>
       <description>This seems to be the consensus opinion regarding the Cardinals’ looming decision. Murray has a fully guaranteed $36,800,000 salary in 2025. If he is on the Cardinals’ roster at the beginning of the new league year, on March 11th, it will trigger a $20 million guarantee for the following season. A release is possible, and could help Murray find a new starting role, albeit for less money than he may desire.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3f2a-d629-a1bc-bf3fc5010000</guid>
+    </item>
+    <item>
+      <title>Patriots declared WR Efton Chism, CB Kobee Minor, OLB Bradyn Swinson, OT Marcus Bryant, G Caedan Wallace, TE C.J. Dippre and QB Tommy DeVito inactive for Super Bowl LX against the Seahawks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3f3f-d629-a1bc-bf3fe4480000</link>
+      <description>Chism, an undrafted free agent rookie, was active in the Divisional Round and Wild Card Round but did not play in the AFC Championship Game. He caught 3-of-3 targets for 75 yards and one touchdown in the regular season and caught his lone postseason target for a 20-yard gain. DeVito will serve as the Patriots’ emergency third quarterback today.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3f3f-d629-a1bc-bf3fe4480000</guid>
+    </item>
+    <item>
+      <title>Patriots LB Robert Spillane (ankle) is active for Super Bowl LX against the Seahawks.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3f48-d355-a5bd-bf5c39f50000</link>
+      <description>Spillane and LB Harold Landry (knee) are both good to go. This was the expected outcome, but it is great news for the Patriots’ defense nonetheless. ESPN’s Mike Reiss reported earlier today that both players could be limited to some sort of snap count, but those types of plans are sometimes cast aside once the game begins. Regardless, LB Jack Gibbens has proven himself as a capable backup.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3f48-d355-a5bd-bf5c39f50000</guid>
+    </item>
+    <item>
+      <title>Seahawks declared TE Nick Kallerup, FB Robbie Ouzts, QB Jalen Milroe, LB Chazz Surratt, OLB Jared Ivey, OL Mason Richman and NT Brandon Pili inactive for Super Bowl LX against the Patriots.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3f4c-d355-a5bd-bf5c570c0000</link>
+      <description>With Kallerup out of the lineup, Seahawks second-round rookie TE Elijah Arroyo will make his postseason debut. Arroyo has been impacted by a late-season knee injury. He will likely operate as the team’s No. 3 tight end today. Ouzts, a fan favorite, is sidelined by a neck injury. Milroe is inactive, but will serve as the emergency third quarterback.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3f4c-d355-a5bd-bf5c570c0000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Jeremy Fowler reports that Seahawks run game specialist and assistant OL coach Justin Outten has “come up in league circles as a potential candidate” to replace OC Klint Kubiak.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3ee0-d042-afbc-7ff26aac0000</link>
+      <description>Kubiak is set to assume the Raiders’ head-coaching role once the season concludes. Outten has evidently impressed in his lone season with the team. Seahawks RB Kenneth Walker has run for 178 yards and four touchdowns in postseason play, and the Seahawks’ offensive line has played well despite experiencing a few injuries late in the year.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-3ee0-d042-afbc-7ff26aac0000</guid>
     </item>
   </channel>
 </rss>
