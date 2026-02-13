@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Feb 2026 17:15:04 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Ian Rapoport said the Cowboys “are going to” franchise tag WR George Pickens and could be willing to trade him away for a second-round pick.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-54aa-d355-a5bd-dffef7f90000</link>
-      <description>Rapoport previously suggested a tag-and-trade scenario is possible. This time, he notes that the Cowboys acquired him for a third-round pick, so sending him away for a second would be a nice value increase. NFL Network’s Mike Garafolo also believes the Cowboys will franchise tag Pickens, but made it a point to express consternation over the idea of then trading him away if the Cowboys’ goal is to one day win a Super Bowl.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-54aa-d355-a5bd-dffef7f90000</guid>
-    </item>
+    <lastBuildDate>Fri, 13 Feb 2026 18:08:47 +0000</lastBuildDate>
     <item>
       <title>CBS Sports’ Matt Zenitz reports the Cardinals are expected to hire former Falcons and Texans QB Matt Schaub as QBs coach.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5597-d89c-a1be-ffdf10c60000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-57e5-d355-a5bd-dff515290000</link>
       <description>Pleasant has also interviewed for openings with the Browns and Cardinals, although the Cardinals have already opted to retain last year’s defensive coordinator. Pleasant first joined the Rams in 2023 as their DB coach and passing game coordinator, and has never held a title of defensive coordinator in college or the pros. Pleasant played a key role in helping the Rams’ defense finish in the top-10 in points allowed while also ranking 12th in yards per attempt allowed. He’s drawn enough attention this coaching cycle to suggest that even if he doesn’t land a coordinator role this offseason, one could be in store for him in the very near future.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-57e5-d355-a5bd-dff515290000</guid>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports the Seahawks will interview Cardinals pass game specialist Connor Senger for their offensive coordinator vacancy.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5800-d355-a5bd-df54d1f40000</link>
+      <description>Senger has been with the Cardinals since 2022, and recently interviewed for the Bears’ offensive coordinator position. Rapoport reports that the Cardinals hope to retain Senger for the upcoming season, but any chance to make the leap to coordinator would likely spell the end of his time in Arizona.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5800-d355-a5bd-df54d1f40000</guid>
     </item>
   </channel>
 </rss>
