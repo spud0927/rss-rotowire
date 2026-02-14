@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Feb 2026 01:30:37 +0000</lastBuildDate>
-    <item>
-      <title>Seahawks hired Zach Orr as their new inside linebackers coach.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5885-d042-afbc-7dd728440000</link>
-      <description>The move reunites Orr with Seahawks head coach Mike Macdonald, whom Orr replaced as the Ravens’ defensive coordinator after Macdonald accepted his current role in 2024. Orr reportedly had the same job offer from the Cowboys, but preferred to learn from Macdonald once again.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5885-d042-afbc-7dd728440000</guid>
-    </item>
-    <item>
-      <title>Giants hired Addison Lynch as their new defensive backs coach.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-58f7-d042-afbc-7df74b470000</link>
-      <description>National and local beat reporters have been buzzing about Lynch for the last week or so. The Giants made his hiring official today. He spent the 2025 season serving as the Broncos’ cornerbacks coach after spending two seasons as a defensive quality control coach. He held the latter role with the Lions in 2022 and the Chargers from 2018-2019. He also served as an assistant defensive backs coach with the Chargers (2020) and Raiders (2021).</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-58f7-d042-afbc-7df74b470000</guid>
-    </item>
-    <item>
-      <title>Dolphins hired Lemuel Jeanpierre as their new assistant tight ends coach.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5905-d89c-a1be-ffdf0c460000</link>
-      <description>It is unclear whether this is a demotion, per se, but Jeanpierre is once again making what can be described as, at best, a lateral move. The Dolphins hired him as an assistant offensive line coach in 2020. He was promoted to offensive line coach in 2021 before returning to an assistant offensive line coach role in 2022. He has held that role for the past four seasons. The Dolphins hired Ron Middleton as their new tight ends coach. Joe Barry served as the Dolphins’ linebackers coach and run game coordinator since 2024. The organization is swapping out his linebackers coach role for a senior defensive assistant position.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5905-d89c-a1be-ffdf0c460000</guid>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 02:52:42 +0000</lastBuildDate>
     <item>
       <title>Eagles hired Mike Pellegrino as their new defensive backs coach.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5906-d355-a5bd-df56a27a0000</link>
@@ -67,6 +49,24 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5972-d355-a5bd-df767d6a0000</link>
       <description>Spence is expected to serve as the Chargers’ new inside linebackers coach, though the role has not yet been finalized. The former NFL linebacker (2012-2017) began his coaching career as a special teams analyst at Western Michigan in 2023. He coached linebackers for them in 2024 and edges in 2025.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5972-d355-a5bd-df767d6a0000</guid>
+    </item>
+    <item>
+      <title>NFL Network’s Cameron Wolfe reports that the Jaguars “plan to play” Travis Hunter as a full-time cornerback and part-time wide receiver in 2026.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5998-d355-a5bd-dfdcf3cf0000</link>
+      <description>Per Wolfe, the Jaguars believe Hunter can be an “elite” cornerback, while still being “an impact player” on offense. For fantasy purposes, this is unfortunate. Hunter may be stuck rotating in as a contributor in three-wide receiver sets, which would make him frustratingly unreliable, though head coach Liam Coen will likely try to scheme up ways to get the ball in his hands. On the plus side, Wolfe said Hunter will be “full-go” by Week 1. The Jaguars are reportedly expected to let one of their free agent cornerbacks, Montaric Brown or Greg Newsome, walk in free agency.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5998-d355-a5bd-dfdcf3cf0000</guid>
+    </item>
+    <item>
+      <title>NFL Network’s Cameron Wolfe reports that the Colts could “be aggressive” in their pursuit of Bengals EDGE Trey Hendrickson via a tag-and-trade scenario or free agency.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-59de-d355-a5bd-dfdeccbb0000</link>
+      <description>Bengals DC Lou Anarumo and DL coach Marion Hobby both coached Hendrickson, in the exact same roles, when all three were employed by the Bengals for four-plus seasons. Hendrickson’s relationship with the Bengals has soured, though the front office has thus far been unwilling to let the talented pass rusher leave town. This will be worth watching. Stay tuned.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-59de-d355-a5bd-dfdeccbb0000</guid>
+    </item>
+    <item>
+      <title>NFL Network’s Cameron Wolfe said “don’t be surprised” if the Browns do not draft a quarterback in the first round.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-592e-d629-a1bc-f93fa00e0000</link>
+      <description>The Browns have two first-round picks this year. Wolfe reports that the Browns believe they are “close to set” on defense and are expected to “go heavy on offense” in the 2026 NFL Draft. New head coach Todd Monken’s scheme is said to have more “flexibility” than former head coach Kevin Stefanski’s scheme did, and the Browns apparently believe Monken’s scheme could allow Shedeur Sanders to “use his play-making ability” more effectively. The Browns also “believe” Deshaun Watson will compete with Sanders for the starting role.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-592e-d629-a1bc-f93fa00e0000</guid>
     </item>
   </channel>
 </rss>
