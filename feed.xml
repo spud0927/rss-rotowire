@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Feb 2026 21:03:01 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Adam Schefter reports that the Seahawks are hiring Daniel Stern “possibly as their pass-game strategist.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5918-d042-afbc-7dda013a0000</link>
-      <description>Stern most recently served as the Ravens’ director of football strategy and assistant quarterbacks coach. His new role will likely be formalized once the Seahawks’ new offensive coordinator is hired. This is a fun one. Stern gained notoriety as a 25-year-old football analyst with the Ravens back in 2019, then in his fourth season with the Ravens, assisting former head coach John Harbaugh execute their plan to go for it on a play that resulted in a 4th-and-2 touchdown run by Lamar Jackson—against the Seahawks. Stern has advanced up the Ravens’ ranks since then. He was reportedly close to following former Ravens OC and new Browns head coach Todd Monken to Cleveland, but will instead reunite with Seahawks head coach Mike Macdonald.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5918-d042-afbc-7dda013a0000</guid>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 22:01:27 +0000</lastBuildDate>
     <item>
       <title>Cowboys hired Kyle Fuller as their new assistant offensive line coach and quality control coach.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5906-d042-afbc-7dd6a0940000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5d67-d042-afbc-7df735b80000</link>
       <description>The Raiders pounced on their top choice at head coach immediately following the Super Bowl with the hiring of former Seahawks offensive coordinator Klint Kubiak but they have yet to fill any of their coordinator positions. Covington has drawn multiple interviews for defensive coordinator vacancies this hiring cycle but did not land his first play-calling gig, with the Raiders now an additional opportunity to do just that.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5d67-d042-afbc-7df735b80000</guid>
+    </item>
+    <item>
+      <title>Raiders promoted former run game coordinator/defensive line coach Rob Leonard to defensive coordinator.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5da6-d629-a1bc-fdbf0df50000</link>
+      <description>Leonard previously spent six seasons with the Giants before coaching with the Raiders under Patrick Graham last year. The Raiders conducted their fair share of interviews for the vacant defensive coordinator position before promoting from within. Leonard worked closely with Pro Bowl defensive lineman Maxx Crosby, potentially marking a play at retaining the veteran rusher this offseason.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-5da6-d629-a1bc-fdbf0df50000</guid>
     </item>
   </channel>
 </rss>
