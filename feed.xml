@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 19:20:07 +0000</lastBuildDate>
-    <item>
-      <title>Ravens HC Jesse Minter declined to discuss Nnamdi Madubuike’s (neck) future with the team.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-90ea-d57c-a1dd-94eacd2c0000</link>
-      <description>“That will be up to him when the time is right,” Minter said. Madubuike missed almost the entire season with the neck injury and there have been rumors here and there about it being career-threatening. The Ravens badly missed Madubuike as an interior force last year and, if they can’t bring him back, will likely seek to fortify their interior line in free agency and the draft this offseason.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-90ea-d57c-a1dd-94eacd2c0000</guid>
-    </item>
-    <item>
-      <title>Buccaneers GM Jason Licht said Mike Evans “knows we’d love to have him back.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-90ec-d629-a1bc-b0fdfd880000</link>
-      <description>Evans only recently told the Buccaneers he’d play in 2026 and that he intends to test free agency. We’d be surprised to see Evans leave in free agency without some kind of desperate, monster offer from a receiver-needy team. We’d also be surprised to see Evans get that kind of offer after missing most of last year with a broken collarbone. But we can’t exactly rule it out given how weak the wideout market looks in free agency.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-90ec-d629-a1bc-b0fdfd880000</guid>
-    </item>
-    <item>
-      <title>Commanders GM Adam Peters said the team has had “good talks” with LT Laremy Tunsil on an extension.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-90ee-d89c-a1be-bffff97c0000</link>
-      <description>There’s no deadline and Peters “feels good about the direction.” It was an open secret that Tunsil wanting a new extension helped guide him to Washington in trade last offseason, and he enters 2026 on the final year of his contract. With as great a year as Tunsil had for the Commanders last year — a career-best 84.7 PFF grade — we’d be surprised if this wasn’t eventually done. That said, the Commanders haven’t exactly worked fast to extend their own players, as the Terry McLaurin saga taught us in 2025.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-90ee-d89c-a1be-bffff97c0000</guid>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 20:06:17 +0000</lastBuildDate>
     <item>
       <title>Jordan Schultz reports the Vikings have had trade talks with teams regarding DT Javon Hargrave.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-90f3-d629-a1bc-b0ff548b0000</link>
@@ -61,6 +43,30 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-910c-d89c-a1be-bfdfb6b90000</link>
       <description>Between the smoke on Ty Simpson and Malik Willis and Berry refusing to really stamp a player as “in the lead” here, it sure feels like this situation is unsettled heading into free agency. Sanders probably enters training camp as the main favorite for the job if the Browns don’t sign Willis, but anything could happen there. Up to and including a drafted quarterback winning the organization over.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-910c-d89c-a1be-bfdfb6b90000</guid>
+    </item>
+    <item>
+      <title>Panthers coach Dave Canales said OC Brad Idzik will call offensive plays for the Panthers in 2026.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-910f-d629-a1bc-b11f731e0000</link>
+      <description>We’re interested in seeing if Idzik will bring more of a deep-shot focused approach to the table, it’s an area where the Panthers have sporadically been good with Bryce Young, but one they seemingly can’t access every game. Otherwise we’d generally call moving to an unknown playcaller a theoretical downgrade for the Panthers, but it’s hard to get too caught up in it given Canales wasn’t exactly blowing anyone away in the coach tape community.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-910f-d629-a1bc-b11f731e0000</guid>
+    </item>
+    <item>
+      <title>Seahawks GM John Schneider said “obviously we’d love” to have Kenneth Walker back, but didn’t comment on the idea of franchise-tagging Walker.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-9117-d57c-a1dd-951f66260000</link>
+      <description>Walker has been bandied about as a possible target for the tag, though Adam Schefter reported it was unlikely last week. This could perhaps be another space for the transition tag, as Breece Hall is learning. That tag would simply allow the Seahawks to match any offer Walker signs in free agency. Regardless of what they do, with Zach Charbonnet likely out well into the season, the Seahawks are heavily incentivized to keep Walker.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-9117-d57c-a1dd-951f66260000</guid>
+    </item>
+    <item>
+      <title>Falcons coach Kevin Stefanski said “i’m not big on giving out positions in February” when asked if Michael Penix is the team’s starting quarterback.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-9122-d57c-a1dd-952abc890000</link>
+      <description>“I think you guys know how I feel about Michael and I’m excited about his trajectory. I also know he’s focused on his rehab, which is the right thing to do,” Stefanski continued. Penix certainly appears to be the starting quarterback on the roster by default, but it’s possible that the Falcons could get involved in free agency to find a bridge quarterback — or perhaps more — to upgrade the room. It’s not as if Penix’s first two years of action were unimpeachable proof he has to start in 2026. It’s a situation to watch as free agency unfolds.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-9122-d57c-a1dd-952abc890000</guid>
+    </item>
+    <item>
+      <title>The Athletic’s Daniel Popper believes G Mekhi Becton could be a cap casualty.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-9137-d57c-a1dd-953fed6d0000</link>
+      <description>The Chargers would save $10 million by moving on from Becton, who openly seemed to not jive with former OC Greg Roman’s preferred blocking structures. Chargers GM Joe Hortiz said “I’m not going to talk about that right now” when asked about a Becton release at the NFL Combine. Becton, entering just his age-27 season, would be an interesting rebound candidate on the open market after a woeful year in Los Angeles.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-9137-d57c-a1dd-953fed6d0000</guid>
     </item>
   </channel>
 </rss>
