@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 16:08:31 +0000</lastBuildDate>
-    <item>
-      <title>Eagles hired former Texans QB coach Jerrod Johnson to their coaching staff.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ab66-d629-a1bc-bb7f5d6f0000</link>
-      <description>The Texans opted not to bring back Johnson, whose contract expired after the 2025 season. The 37-year-old coach served as the Vikings’ assistant QB coach in 2022 before being hired by the Texans in 2023 to help with the development of C.J. Stroud. Johnson’s role with the Eagles has not yet been specified, but NFL Network’s Mike Garafolo reports Johnson will “work alongside HC Nick Sirianni and new OC Sean Mannion.”</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ab66-d629-a1bc-bb7f5d6f0000</guid>
-    </item>
-    <item>
-      <title>The Raiders are unlikely to have a QB coach in 2026.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ab83-d042-afbc-ffd3ebca0000</link>
-      <description>The Raiders officially announced their coaching staff for the 2026 season on Monday, with the QB coach being noticeably absent from the roster. Raiders beat writer Vincent Bonsignore writes that the team had QB coach candidates in mind, but that “it just didn’t work out.” He than adds that the team will likely wait until next season and reconsider hiring somebody to fill the position. On one hand, the jokes write themselves, especially with the Raiders holding the No. 1 overall pick, which is expected to be used on Indiana QB Fernando Mendoza. On the other hand, the Raiders’ coaching staff is chock-full of of coaches with experience at coaching the position, including HC Klint Kubiak, OC Andrew Janocko, and assistant HC Mike McCoy. There’s also some guy named Tom Brady in the building who will likely lend a helping hand or two when needed.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ab83-d042-afbc-ffd3ebca0000</guid>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 17:13:39 +0000</lastBuildDate>
     <item>
       <title>Chiefs released OT Jawaan Taylor.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-aea5-d629-a1bc-bebda0ee0000</link>
@@ -65,8 +53,20 @@
     <item>
       <title>Texans acquired RB David Montgomery from the Lions in exchange for OL Juice Scruggs and draft picks.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af47-dbf6-abdd-ef57a4b50000</link>
-      <description>Just days after it was reported that Montgomery wanted out of Detroit — a report he refuted — the veteran running back is now on his way to Houston. The soon-to-be 29-year-old</description>
+      <description>Just days after it was reported that Montgomery wanted out of Detroit — a report he refuted — the veteran running back is now on his way to Houston. The soon-to-be 29-year-old will presumably take over as the Texans’ RB1 this season with Joe Mixon likely on the way out, and Woody Marks an early candidate to handle more of a passing-downs role. Montgomery rushed 343 times for 1,491 yards and 20 touchdowns in his final two seasons in Detroit while catching another 60 passes for 533 scoreless yards. Barring an extension, Montgomery will enter 2026 with two years left on his contract with a chance to earn another deal in 2028. In addition to Scruggs, the Texans also sent a 2026 fourth-round pick and a 2027 seventh-round pick to the Lions.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af47-dbf6-abdd-ef57a4b50000</guid>
+    </item>
+    <item>
+      <title>Lions acquired OL Juice Scruggs from the Texans in exchange for RB David Montgomery.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af57-dbf6-abdd-ef57007d0000</link>
+      <description>The Lions also received a 2026 fourth-round pick and a 2027 seventh-round pick from the Texans in the deal. Scruggs, who started just one of the 17 games he appeared in for the Texans last season, was drafted in the second round of the 2023 NFL Draft. The former Penn State product played on 372 snaps as a guard for the Texans last season and started at guard in all 13 games he appeared in during the 2024 season. Scruggs may have to compete for a starting job this season with Tate Ratledge already occupying the right guard slot, and left guard Christian Mahogany still under contract after starting 11 games last season.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af57-dbf6-abdd-ef57007d0000</guid>
+    </item>
+    <item>
+      <title>Sports Illustrated’s Albert Breer said he would “lean toward a Maxx Crosby trade happening maybe this week.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af76-d89c-a1be-afff73960000</link>
+      <description>It’s a break from any speculation that the Raiders would wait until the draft to trade Crosby, but as Breer points out, there’s “going to have to be some needle threading” to get a deal done. The Raiders are reportedly hoping to fetch a “Micah Parsons” type package for their star pass-rusher, which is unlikely to come give the age difference between Crosby and Parsons. That said, there are plenty of teams who will be willing to give up a nice haul for a premier pass-rusher. If Crosby is dealth, Breer highlights the Cowboys, Bears, Ravens, Bills, Patriots, Eagles, and Rams as teams who are “keeping tabs on his availability.”</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af76-d89c-a1be-afff73960000</guid>
     </item>
   </channel>
 </rss>
