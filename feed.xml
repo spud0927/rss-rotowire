@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 18:09:05 +0000</lastBuildDate>
-    <item>
-      <title>NFL insider Jordan Schultz reports the Bengals have agreed to a one-year, $5 million extension with OG Dalton Risner.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-aedd-d629-a1bc-bedd76030000</link>
-      <description>Risner joined the Bengals last offseason after he was let go by the Vikings after training camp. The veteran guard appeared in 14 games for the Bengals last season while making 11 starts, and did more than enough to warrant an extension this offseason. Risner played on 768 snaps last season and allowed only two sacks, per TruMedia.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-aedd-d629-a1bc-bedd76030000</guid>
-    </item>
-    <item>
-      <title>SNY’s Connor Hughes reports the Giants “are heavily involved in the RB market.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af00-d042-afbc-ffd281bb0000</link>
-      <description>This is the second reporter to recently suggest the Giants could be in the market to make a splash at running back this offseason. ESPN’s Jordan Raanan reported from the combine that the Giants were “seriously looking at some of the top RBs” in the draft or free agency. Hughes hints at Kenneth Walker being the main target of the Giants, saying we should “expect a strong push” for the four-year vet. While a move like this would undoubtedly bolster the Giants’ backfield, it could make for a frustrating fantasy situation with Cam Skattebo still expected to be in the mix and coming off a strong rookie season before his injury.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af00-d042-afbc-ffd281bb0000</guid>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 19:13:22 +0000</lastBuildDate>
     <item>
       <title>SNY’s Connor Hughes says the odds the Giants re-sign free agent WR Wan’Dale Robinson “seem slim.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af01-d629-a1bc-bf1db9550000</link>
@@ -61,6 +49,24 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af9a-d042-afbc-ffda76d60000</link>
       <description>In his article, Dulac writes that the Steelers “have little if no intention of taking a quarterback with their top pick,” while adding “it’s more than likely it wouldn’t be until the third round” when they would consider drafting a QB. He also added that they would only take a QB if they believed he had a higher ceiling than Will Howard, who they selected in the sixth-round of last year’s draft. The Steelers met with Penn State’s Drew Allar, Miami’s Carson Beck, and Alabama’s Ty Simpson at last week’s combine, with Simpson being the only QB who is believed to have a chance at going in the first round. Whether or not Aaron Rodgers opts to return for another season will likely also factor into the team’s decision on if/when they should draft a QB, but regardless, it doesn’t sound like we should expect the Steelers to reach into the first-round to draft their quarterback of the future.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-af9a-d042-afbc-ffda76d60000</guid>
+    </item>
+    <item>
+      <title>Speaking on the Pat McAfee Show, ESPN’s Adam Schefter said “I’m told it’s 50/50 that the Colts will be able to get a deal done with Daniel Jones by the deadline tomorrow.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-afb0-d89c-a1be-afff35090000</link>
+      <description>It was reported after the combine by ESPN’s Dan Graziano that Jones and the Colts don’t “sound close” on a deal. On Monday, Schefter, like Graziano, added that the “transition tag is in play” if Jones and the Colts don’t get a deal done. The transition tag would allow Jones, who is coming back from a torn Achilles he suffered in Week 14, to negotiate a new deal with other teams while giving the Colts the right of first refusal to match any offer that comes his way. Jones’ injury is likely throwing a wrench in negotiations after he greatly exceeded expectations on a one-year prove-it deal in 2025. We would ultimately expect Jones to remain with the Colts for next season, but it’s possible a new deal takes a bit longer to hammer out.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-afb0-d89c-a1be-afff35090000</guid>
+    </item>
+    <item>
+      <title>Commanders released CB Marshon Lattimore.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-afdf-d89c-a1be-afdf5af20000</link>
+      <description>ESPN’s Adam Schefter was the first to report the story. Lattimore, who was acquired from the Saints at the 2024 trade deadline, was due $18.5 million for next season but was never expected to be on the team. The veteran corner struggled to live up to expectations after being traded to the Commanders in 2024, and underwhelmed again in 2025 before a torn ACL ended his season in Week 9. The money Lattimore was due will now turn into $18.5 million in additional cap space for the Commanders, who are among the teams with the most cap available heading into free agency. Lattimore, 29, should still have a decent market this offseason, but he’ll likely need to sign on a one-year prove-it deal at this point in his career.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-afdf-d89c-a1be-afdf5af20000</guid>
+    </item>
+    <item>
+      <title>JoeBucsFan.com reports Buccaneers LB Lavonte David underwent offseason knee surgery.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-afcc-d89c-a1be-afdf1aa50000</link>
+      <description>David reportedly underwent arthroscopic surgery on a knee that he had drained weekly during the 2025 season. The veteran linebacker who turned 36 last month is set to be a free agent next week, but has been undecided on whether or not he wants to retire or return for a 15th season with the Bucs. David totaled 114 tackles, eight TFLs, and 3.5 sacks for the Bucs last season and is only expected to play for the Buccaneers if he does opt to play another year.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-afcc-d89c-a1be-afdf1aa50000</guid>
     </item>
   </channel>
 </rss>
