@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 17:13:33 +0000</lastBuildDate>
-    <item>
-      <title>Seahawks tendered S Ty Okada.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b0b2-d042-afbc-fdf25ed30000</link>
-      <description>The Seahawks tendered a one-year exclusive rights contract to Okada, keeping him with the team through next season. The soon-to-be 27-year-old safety who made the team as a UDFA in 2023 started 11-of-17 games for the Seahawks in 2025, totaling 65 tackles, six pass breakups, and one interception. He’s also a valuable member on special teams, appearing on a career-high 117 special teams snaps last season, per Pro Football Reference.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b0b2-d042-afbc-fdf25ed30000</guid>
-    </item>
-    <item>
-      <title>Seahawks tendered restricted free agents RB George Holani and S Ty Okada.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b0ce-d042-afbc-fdded1aa0000</link>
-      <description>The transaction ensures both players will be with the team in 2026 as a qualifying tender applied to an exclusive rights free agent precludes them from negotiating with other franchises. The former undrafted free agent running back carved out a significant role down the stretch for the Super Bowl champs as a change of pace option behind Kenneth Walker following the season-ending injury to Zach Charbonnet, albeit requiring the injury to see regular action beyond special teams. Holani provides meaningful depth, at bare minimum. Also tendered was safety Ty Okada.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b0ce-d042-afbc-fdded1aa0000</guid>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 18:10:14 +0000</lastBuildDate>
     <item>
       <title>Impending free agent CB Kader Kohou (knee) has been medically cleared from the torn ACL suffered in 2025.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b103-d629-a1bc-b11fa3020000</link>
@@ -65,8 +53,20 @@
     <item>
       <title>Jets used the franchise tag on RB Breece Hall.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b48d-dcde-a9fe-b6efd6920000</link>
-      <description>The Jets could still deal Hall to a contender this offseason after the veteran seemed unhappy about not making his way out of New York before last year’s trade deadline. ESPN’s Adam Schefter said Hall and the Jets front office “continue to try to hammer out a lucrative long-term deal,” however. Entering his age-25 season, Hall is unlikely to play for the Jets if the team sees interest from a few running back-needy teams this spring and summer. has averaged 60.7 rushing yards per game and 29.4 receiving yards over 56 appearances for the Jets since 2022. Last year he notched a career high receiving success rate. He eclipsed 100 rushing yards in just four games.</description>
+      <description>The Jets could still deal Hall to a contender this offseason after the veteran seemed unhappy about not making his way out of New York before last year’s trade deadline. ESPN’s Adam Schefter said Hall and the Jets front office “continue to try to hammer out a lucrative long-term deal,” however. Entering his age-25 season, Hall is unlikely to play for the Jets if the team sees interest from a few running back-needy teams this spring and summer. He has averaged 60.7 rushing yards per game and 29.4 receiving yards over 56 appearances for the Jets since 2022. Last year he notched a career high receiving success rate. He eclipsed 100 rushing yards in just four games.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b48d-dcde-a9fe-b6efd6920000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Peter Schrager reports the Seahawks won’t use the franchise tag on Ken Walker.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b4ca-d3e6-a59c-b5cf699c0000</link>
+      <description>It looks like the Seahawks will let Walker, the Super Bowl MVP who helped propel the team to a championship, explore the open market in the coming weeks. The Giants and Chiefs are among the teams with reported interest in Walker, who last year went for 1,027 yards and five touchdowns — along with 31 receptions for 282 yards — in a timeshare alongside Zach Charbonnet. Walker’s explosive run style could be appealing for a range of teams in need of backfield production. Obviously that includes Kansas City, which featured two of the most inefficient running backs in the game last season.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b4ca-d3e6-a59c-b5cf699c0000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Adam Schefter reports the Vikings are “open” to trading EDGE Jonathan Greenard.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b4d2-dc4e-ad9d-ffd7f57a0000</link>
+      <description>The Vikings, per Schefter, “would like to keep Greenard, but they also have salary cap issues they’re working through that have led to these trade conversations.” If he remains on the Vikings roster this season, Greenard will be a $22.3 million hit against the salary cap. Hampered by a shoulder injury, Geenard in 2025 recorded three sacks after back to back seasons with at least a dozen sacks. He should see significant interest from teams in need of pass rushing help.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-b4d2-dc4e-ad9d-ffd7f57a0000</guid>
     </item>
   </channel>
 </rss>
