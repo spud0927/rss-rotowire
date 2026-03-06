@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 19:12:12 +0000</lastBuildDate>
-    <item>
-      <title>The Athletic’s Dianna Russini reports the Raiders’ “preference is to not start Fernando Mendoza immediately.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c3eb-dc4e-ad9d-ebff73410000</link>
-      <description>To be clear, the Raiders have not confirmed that they will be taking Mendoza No. 1 overall in next month’s draft. That said, Russini notes that “if the Raiders continue to lean toward” selecting him, their preference is to not start Mendoza immediately. It’s an interesting point to consider, especially with the recent release of Geno Smith, that now puts the Raiders firmly in the market for a veteran QB when free agency officially kicks off next month. Mendoza has 35 college starts under his belt and is fresh off leading Indiana to a national championship and a 16-0 season. It’s not uncommon to hear teams say they don’t want to hand a job a rookie QB, even one that is expected to go No. 1 overall, so we wouldn’t read too much into this until teams start reporting to mini-camp and later training camp.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c3eb-dc4e-ad9d-ebff73410000</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 20:03:44 +0000</lastBuildDate>
     <item>
       <title>Commanders re-signed K Jake Moody to a one-year contract.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c3f4-dcde-a9fe-d3fe5fb70000</link>
@@ -63,10 +57,16 @@
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c46c-d1d8-adfc-ee7e9c610000</guid>
     </item>
     <item>
-      <title>Packers released EDGE Rashan Gary.</title>
+      <title>Packers EDGE Rashan Gary announced his time with the team has come to an end.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c479-dcde-a9fe-d67f875d0000</link>
-      <description>After failing to find a trade partner for Gary, the Packers have opted to release the No. 12 pick from the 2019 NFL Draft. The veteran pass-rusher was due to make $19.5 million in 2026, but had no guaranteed money left on, meaning the team will save that money if they designate him as a post-June 1 cut. Gary, who will be 28 next season, has totaled 7.5 sacks in each of the last two seasons while appearing in 33 of a possible 34 games. He was named to the Pro Bowl in 2024 and played on the second-most snaps in his career (653) last season. With pass-rushers constantly in high-demand, Gary should have no trouble securing a healthy contract offer once he officially hits the open market.</description>
+      <description>The Packers will either trade or release the former No. 12 overall pick from the 2019 NFL Draft, but his time in Green Bay appears to be over. Gary is due to make $19.5 million in 2026, but has no guaranteed money left on his deal, meaning the team will save that money if they were to release him and designate him as a post-June 1 cut. Gary will be 28 next season and has totaled 7.5 sacks in each of the last two seasons while appearing in 33 of a possible 34 games. He was named to the Pro Bowl in 2024 and played on the second-most snaps in his career (653) last season. With pass-rushers constantly in high-demand, Gary should have no trouble securing a healthy contract offer if/when he hits the open market. Update: Shortly after posting to his Instagram that he would be leaving Green Bay,Gary appears to have deleted his post.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c479-dcde-a9fe-d67f875d0000</guid>
+    </item>
+    <item>
+      <title>Rashan Gary deleted the post that announced he would be leaving the Packers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c494-dc4e-ad9d-ef95d95f0000</link>
+      <description>Packers beat writer Rob Demovsky is reporting that Gary has not been told he will be traded or released, and that a source told him Gary’s Instagram account had been hacked. It’s impossible to know what to make of this situation right now, but the fact remains that Gary has no guaranteed money left on his deal, which expires at the end of the 2027 season, and the Packers could save nearly $11 million if they released him as a pre-June 1 cut, or as much as $19.5 million if they were to release him as a post-June 1 cut. Gary is hopefully looking into two-factor authentication to better secure his Instagram account going forward.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c494-dc4e-ad9d-ef95d95f0000</guid>
     </item>
   </channel>
 </rss>
