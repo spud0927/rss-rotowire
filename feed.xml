@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 20:01:56 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Tim McManus believes the “expectation” is the Eagles will make a push to re-sign EDGE Jaelan Phillips.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c5de-d3e6-a59c-d5df019e0000</link>
-      <description>Phillips came over in a midseason trade from Miami and had a great half-year in Philadelphia, posting a 77.1 PFF defensive grade in nine games. The Eagles stand to net a high compensatory pick if Phillips leaves, but it seems like they’d rather just keep the player.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c5de-d3e6-a59c-d5df019e0000</guid>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 21:01:30 +0000</lastBuildDate>
     <item>
       <title>Vikings re-signed exclusive rights free agent Zavier Scott to a one-year deal.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c5e1-d3e6-a59c-d5e543c00000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c9ce-d1d8-adfc-ebdee7770000</link>
       <description>The Broncos previously tendered exclusive rights free agent Tyler Badie, who now signs his $1.075 million deal with the team. Badie offers change of pace potential in addition to a typically robust role on special teams but is unlikely to return consistent fantasy utility without multiple injuries ahead of him on the depth chart.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c9ce-d1d8-adfc-ebdee7770000</guid>
+    </item>
+    <item>
+      <title>Colts traded LB Zaire Franklin to the Packers for DL Colby Wooden.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c9e1-dcde-a9fe-dbefa9200000</link>
+      <description>It’s a pure player-for-player swap as the Packers further bolster the interior of their second level with Franklin, dealing the former fourth-round defensive tackle Colby Wooden in the deal. Franklin led the league in tackles in 2024 (173) and played the entirety of his eight-year NFL career in Indianapolis prior to the trade, giving the Packers a top tier linebacker to pair with Edgerrin Cooper with Quay Walker due to become a free agent Monday.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-c9e1-dcde-a9fe-dbefa9200000</guid>
     </item>
   </channel>
 </rss>
