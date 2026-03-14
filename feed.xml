@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 21:04:33 +0000</lastBuildDate>
-    <item>
-      <title>Commanders re-signed LG Chris Paul.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-e9d6-d95e-a1dc-eddf58730000</link>
-      <description>Financial details have not yet been disclosed, but it is a one-year deal for the 27-year-old blocker. Paul’s 78.2 PFF pass-blocking grade ranked second among Commanders offensive linemen with at least 100 offensive snaps last season. His run blocking needs work, but he should continue to give QB Jayden Daniels extra time in the pocket.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-e9d6-d95e-a1dc-eddf58730000</guid>
-    </item>
-    <item>
-      <title>Bears re-signed CB Jaylon Jones.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-e9ee-d9d3-a5bc-fdfeec5d0000</link>
-      <description>It’s a one-year deal. Jones, 28, logged a career-low 39 defensive snaps during the 2025 regular season and coincidentally earned a career-high 74.4 PFF coverage grade. He is unlikely to win a starting job this year, but he can serve as a decent backup. His performance on special teams can be volatile.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-e9ee-d9d3-a5bc-fdfeec5d0000</guid>
-    </item>
-    <item>
-      <title>Ravens re-signed DL C.J. Okoye.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ea07-d9d3-a5bc-feff3fbd0000</link>
-      <description>Okoye entered the NFL via the International Player Pathway Program in 2023 and took his first regular season snaps in 2025. He logged 214 defensive snaps last year, notching 10 solo tackles and two quarterback pressures. Okoye, 24, will likely play a rotational role again this year.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ea07-d9d3-a5bc-feff3fbd0000</guid>
-    </item>
+    <lastBuildDate>Sat, 14 Mar 2026 22:02:25 +0000</lastBuildDate>
     <item>
       <title>49ers restructured DL Nick Bosa’s contract.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ec9a-d95e-a1dc-eddf52210000</link>
@@ -67,6 +49,24 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-edc2-d95e-a1dc-edcfbdb90000</link>
       <description>Lance served as the backup to Justin Herbert in 2025, apparently doing enough to warrant a return to the team for the coming season. Lance has started six games across 16 appearances in four professional seasons with the 49ers, Cowboys, and Chargers, starting one game each in the previous two seasons. His career five-to-five touchdown-to-interception ratio and 54.0% completion rate leave a lot to be desired, particularly considering he has not thrown a touchdown since his rookie season in 2021. At bare minimum, he brings familiarity with the offensive system and continuity behind Herbert.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-edc2-d95e-a1dc-edcfbdb90000</guid>
+    </item>
+    <item>
+      <title>Texans agreed to terms with G Evan Brown, formerly of the Cardinals, on a one-year, $3.5 million contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-edf4-dcce-a3bc-effc2c3d0000</link>
+      <description>Browns was released by the Cardinals on Thursday and quickly finds a new home in Houston, where he could push for a starting role on the interior offensive line. The seven-year veteran bounced around the league his first two seasons before starting 68 games between 2021 and 2025. The low contract valuation appears to be a steal for the Texans.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-edf4-dcce-a3bc-effc2c3d0000</guid>
+    </item>
+    <item>
+      <title>49ers agreed to terms with P Corliss Waitman, formerly of the Steelers.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ee33-dcce-a3bc-efbb93200000</link>
+      <description>The 49ers have now signed a new long snapper and punter while also re-signing kicker Eddy Pineiro in the previous week as they look to completely overhaul a special teams unit that finished 2025 dead last in net punt average and 24th in kickoff average. The led the league in field goal conversion rate, leading to the new deal for Pineiro. The financials of the contract were not immediately made available.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ee33-dcce-a3bc-efbb93200000</guid>
+    </item>
+    <item>
+      <title>Giants agreed to terms with WR Darnell Mooney, formerly of the Falcons, on a one-year, $10 million contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ee4e-d121-ab9c-fede5e030000</link>
+      <description>This one is a bit head-scratching. Mooney’s skillset seems to carry significant overlap with returning veteran Darius Slayton, the latter of whom recently signed a new three-year deal that ties him to the franchise through 2027. Mooney did play from the slot at a 41% frequency a season ago and the team saw Wan’Dale Robinson walk in free agency, although Mooney will have to compete with veteran holdover Isaiah Hodgins and recent signee Calvin Austin for snaps inside, if that is the vision from the team. The size of the contract seems to indicate he will have a legitimate role in the offense in 2026.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ee4e-d121-ab9c-fede5e030000</guid>
     </item>
   </channel>
 </rss>
