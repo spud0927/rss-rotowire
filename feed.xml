@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 20:02:20 +0000</lastBuildDate>
-    <item>
-      <title>NFL Network’s Cameron Wolfe reports that Titans QB Cam Ward (shoulder) has been cleared to resume throwing.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-e9c5-d9d3-a5bc-fdfdf4790000</link>
-      <description>Ward was diagnosed with an AC joint sprain in his throwing shoulder on January 5th. On February 20th, Wolfe reported that Ward was focused on building up his lower body and was expected to resume throwing in March. Sounds like he is on track, which is great to hear. He is expected to be ready for offseason team workouts this spring. The Titans’ front office signed WR Wan’Dale Robinson and TE Daniel Bellinger in free agency this week, providing Ward with more receiving weapons in his second NFL season. Ward is reportedly staying in Nashville this offseason to work with new coaches and players ahead of the 2026 season.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-e9c5-d9d3-a5bc-fdfdf4790000</guid>
-    </item>
+    <lastBuildDate>Sat, 14 Mar 2026 21:04:33 +0000</lastBuildDate>
     <item>
       <title>Commanders re-signed LG Chris Paul.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-e9d6-d95e-a1dc-eddf58730000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ed7c-d121-ab9c-fffcd99f0000</link>
       <description>Jean-Charles spent the entirety of the 2025 season on the Seahawks’ practice squad after playing for the Packers, 49ers, and Saints during his first four years in the league. The signing is a depth move with the four-year veteran carrying the ability to carve out snaps in camp and preseason.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ed7c-d121-ab9c-fffcd99f0000</guid>
+    </item>
+    <item>
+      <title>Chargers agreed to terms with QB Trey Lance on a one-year, $6.75 million contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-edc2-d95e-a1dc-edcfbdb90000</link>
+      <description>Lance served as the backup to Justin Herbert in 2025, apparently doing enough to warrant a return to the team for the coming season. Lance has started six games across 16 appearances in four professional seasons with the 49ers, Cowboys, and Chargers, starting one game each in the previous two seasons. His career five-to-five touchdown-to-interception ratio and 54.0% completion rate leave a lot to be desired, particularly considering he has not thrown a touchdown since his rookie season in 2021. At bare minimum, he brings familiarity with the offensive system and continuity behind Herbert.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-edc2-d95e-a1dc-edcfbdb90000</guid>
     </item>
   </channel>
 </rss>
