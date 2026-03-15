@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 14:07:15 +0000</lastBuildDate>
-    <item>
-      <title>Bengals agreed to terms with QB Josh Johnson on a one-year contract.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ed5e-dcce-a3bc-effe85e20000</link>
-      <description>The well-traveled quarterback turns 40 on Sunday and heads back to Cincinnati for his third stint with the team after agreeing to terms on a one-year contract. He’ll have a good chance to earn the backup role behind franchise quarterback Joe Burrow considering the only other quarterback on the roster is Sean Clifford. Johnson has spent time with 16 NFL franchises during his sprawling career, amassing 11 professional starts across 50 appearances, most recently starting two games for the Commanders in 2025 in relief of the injured Jayden Daniels. The financials of the contract were not yet made available.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ed5e-dcce-a3bc-effe85e20000</guid>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 15:04:33 +0000</lastBuildDate>
     <item>
       <title>Titans agreed to terms on a restructured contract with WR Calvin Ridley.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-ed65-dcce-a3bc-efed46ec0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-eead-d9d3-a5bc-fefd58110000</link>
       <description>Scott started all 17 regular season games and the team’s Wild Card loss in 2025 after serving in a reserve role the season prior. He returns on a team-friendly, one-year deal to presumably serve as the team’s starting free safety after notching a career-high 111 tackles.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-eead-d9d3-a5bc-fefd58110000</guid>
+    </item>
+    <item>
+      <title>Cardinals signed WR/KR Devin Duvernay, formerly of the Bears, to a one-year, $2.5 million contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-f1c6-d9d3-a5bc-f5fe52d00000</link>
+      <description>NFL insider Jordan Schultz was the first to report the deal. Duvernay is set to join his fourth team in four seasons. The former third-round has been used almost exclusively as a return specialist after seeing some work on offense during his tenure with the Ravens. Duvernay was a two-time Pro Bowler and was also named a First-team All-Pro in 2021 for his skills as a return man, and totaled 1,069 kick return yards while averaging 26.7 yards per return last season in Chicago. It’s unlikely he sees an expanded role next season in Arizona.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-f1c6-d9d3-a5bc-f5fe52d00000</guid>
     </item>
   </channel>
 </rss>
