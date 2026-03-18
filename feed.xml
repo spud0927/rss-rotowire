@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 20:07:17 +0000</lastBuildDate>
-    <item>
-      <title>Bears signed DT James Lynch, formerly of the Titans.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0196-dcce-a3bd-e3be55210000</link>
-      <description>Lynch spent that past two seasons in Tennessee after three years with the Vikings as a rotational defensive lineman and special teams player. Lynch, 27, played in all 17 regular season games for the Titans in 2024 and 2025. He’ll likely remain a special teams player in Chicago. Lynch is the third defensive tackle added to the Bears roster this offseason.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0196-dcce-a3bd-e3be55210000</guid>
-    </item>
-    <item>
-      <title>Panthers signed AJ Dillon, formerly of the Eagles, to a one-year contract.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-020a-d9a8-a9dd-fb6b81df0000</link>
-      <description>Dillon missed all of the 2024 season while recovering from a neck injury he suffered late in the previous year. He returned in 2025 on a one-year deal with the Eagles. Dillon appeared in the first six games of the year but eventually fell off the game-day roster with Philly’s addition of Tank Bigsby. He finished the season with 12 carries for 60 yards. Dillon will be fighting for a roster spot in Carolina during training camp.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-020a-d9a8-a9dd-fb6b81df0000</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 21:08:33 +0000</lastBuildDate>
     <item>
       <title>Seahawks re-signed WR Cody White.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-020f-d95e-a1dd-47cf7aa10000</link>
@@ -59,7 +47,7 @@
     <item>
       <title>Eagles acquired QB Andy Dalton from the Panthers in exchange for a seventh-round pick.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-026c-d121-ab9d-d2fc544f0000</link>
-      <description>It was previously reported that the Panthers were getting calls for Andy Dalton. The team then went out and signed Kenny Pickett, making it clear they were moving on from Dalton this offseason. Getting even a seventh-round pick in return for Dalton is mildly impressive for Panthers GM Dan Morgan. Dalton will now replace Tanner McKee as Jalen Hurts’ backup.</description>
+      <description>It was previously reported that the Panthers were getting calls for Andy Dalton. The team then went out and signed Kenny Pickett, making it clear they were moving on from Dalton this offseason. Getting even a seventh-round pick in return for Dalton is mildly impressive for Panthers GM Dan Morgan. After the trade, NFL Network’s Mike Garafolo insisted, “Tanner McKee firmly locked into the No. 2 spot behind Jalen Hurts.” That would be a bit odd given that the Eagles just sought out Dalton, though they did carry three quarterbacks on their roster last year.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-026c-d121-ab9d-d2fc544f0000</guid>
     </item>
     <item>
@@ -67,6 +55,18 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0273-d121-ab9d-d2fb03f20000</link>
       <description>NWI posted a minor breakout season with the Titans in 2024. He turned 32 grabs in 497 yards and nine touchdowns. The Dolphins took a shot on him in free agency, but he failed to carve out a role in Miami. Westbrook-Ikhine totaled 11 catches for 89 scoreless yards in South Beach. He will now serve as a depth piece for a Colts receiver room that just traded Michael Pittman.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0273-d121-ab9d-d2fb03f20000</guid>
+    </item>
+    <item>
+      <title>Colts signed LB Akeem Davis-Gaither, formerly of the Cardinals.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0299-d121-ab9d-d29994bc0000</link>
+      <description>Davis-Gaither spent the first five years of his career in Cincinnati before singing with the Cardinals last offseason. He started 13 games and appeared in all 17. Davis-Gaither totaled 117 combined tackles with two TFLs and one forced fumble. The team released him at the end of the year. He now reunites with Colts DC Lou Anarumo, who was Cincy’s defensive coordinator when Davis-Gaither played for them.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0299-d121-ab9d-d29994bc0000</guid>
+    </item>
+    <item>
+      <title>T.Y. Hilton announced his retirement from the NFL after 11 seasons.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-02b2-d121-ab9d-d2ba93930000</link>
+      <description>Hilton hasn’t played since 2022, so this is a bit of a formality. Still, he deserves a proper retirement blurb. Hilton spent all but one of his 11 seasons with the Colts. His final season came in Dallas and amounted to just 121 yards on seven grabs. He amassed 638 grabs for 9,812 yards and 53 touchdowns during his career. The speedy wideout peaked at an NFL-leading 1,448 yards in 2016. He was also a successful punt and kick returner early in his career.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-02b2-d121-ab9d-d2ba93930000</guid>
     </item>
   </channel>
 </rss>
