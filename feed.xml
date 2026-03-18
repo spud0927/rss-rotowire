@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 18:15:56 +0000</lastBuildDate>
-    <item>
-      <title>J.C. Tretter was elected as the NFL Players Association Executive Director.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-fdf5-d578-a9bc-fdfd70920000</link>
-      <description>The Board of Player Representatives elected Tretter as the NFLPA’s fifth executive director. He served as the NFLPA’s president from 2020-2024 and was the union’s chief strategy officer under former NFLPA Executive Director Lloyd Howell. Tretter resigned from this role last year after Howell resigned amid anexpense-report scandal. Tretter is now back as the new Executive Director of the NFLPA.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-fdf5-d578-a9bc-fdfd70920000</guid>
-    </item>
-    <item>
-      <title>Lions signed EDGE D.J. Wonnum, formerly of the Panthers, to a one-year, $6 million contract.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-fe45-d95e-a1dc-ffcf834b0000</link>
-      <description>Wonnum joins Detroit’s pass rush rotation after two seasons with the Panthers. He totaled seven sacks in 24 games over that span, recording three passes defended and an interception last season. Spending four seasons with the Vikings prior to his stint in Carolina, Wonnum’s best statistical season came in 2023, when he tallied eight total sacks and returned a fumble for a touchdown. The 28-year-old will now reinforce the Lions’ defensive line on a contract worth up to $6 million.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-fe45-d95e-a1dc-ffcf834b0000</guid>
-    </item>
-    <item>
-      <title>Vikings signed Bills RFA OT Ryan Van Denmark to an offer sheet.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-fe4a-d95e-a1dc-ffcfa5110000</link>
-      <description>Van Denmark is a restricted free agent who was tendered by the Bills last week. This means the Bills will have a chance to match the offer sheet the Vikings have given him. The 27-year-old has been a reserve tackle for Buffalo over the last three seasons, starting six games over that time. With the Vikings extending Van Denmark an offer sheet, the Bills will have five days to either retain him, or let him leave for Minnesota.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-fe4a-d95e-a1dc-ffcfa5110000</guid>
-    </item>
-    <item>
-      <title>Raiders signed OL Spencer Burford, formerly of the 49ers, to a one-year contract.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-fe4f-dcce-a3bc-ffef7c070000</link>
-      <description>Burford reunites with new Raiders head coach Klint Kubiak, who was on the 49ers’ offensive staff in 2023. The 25-year-old Burford started 16 games as a rookie and 13 more in 2023. Primarily playing the guard spot, he finished 2025 with a 62.6 PFF run blocking grade, No. 43 among guards. Though he was not as effective in pass blocking, Burford offers depth with the ability to start if needed. The Raiders continue to bulk up their offensive line ahead of the potential selection of QB Fernando Mendoza in April’s draft.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-fe4f-dcce-a3bc-ffef7c070000</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Mar 2026 19:19:37 +0000</lastBuildDate>
     <item>
       <title>Vikings signed P Johnny Hekker, formerly of the Titans, to a one-year contract.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019c-fe87-dcce-a3bc-ffafe6470000</link>
@@ -67,6 +43,30 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0211-d95e-a1dd-47dfe0480000</link>
       <description>A former fifth-round pick in Dallas, Clark worked his way up to a full-time role in 2023, just his second season in the league. That didn’t last long and the Cowboys would go on to cut him in the middle of the 2025 season. Houston claimed him off waivers and he would go on to appear in six regular season games as a Texan, plus two postseason contests. Clark is primarily a special teamer at this point in his career, but his experience as a starting linebacker makes him a good depth option on defense as well.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0211-d95e-a1dd-47dfe0480000</guid>
+    </item>
+    <item>
+      <title>Cardinals signed TE Teagan Quitoriano, formerly of the Falcons, to a one-year contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0227-d121-ab9d-d2bf1e190000</link>
+      <description>Quitoriano appeared in all 17 games for the Falcons last year but did not record any offensive statistics. The bulk of his offensive snaps came as a blocker. In total, he played primarily on special teams, logging 239 snaps on that side of the ball. Hen is likely in line for a similar role in Arizona.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0227-d121-ab9d-d2bf1e190000</guid>
+    </item>
+    <item>
+      <title>Browns signed S Daniel Thomas, formerly of the Lions.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-022d-dcce-a3bd-e3ad4db90000</link>
+      <description>Thomas got his start in the NFL as a fifth-round pick for the Jags in 2020. He made a few starts on defense in Jacksonville but made his money as a high-volume special teams contributor. Thomas signed with the Lions last year and saw a slight uptick in defense snaps while again playing plenty on special teams. Thomas could continue to see more work on defense as an occasional third safety in Cleveland.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-022d-dcce-a3bd-e3ad4db90000</guid>
+    </item>
+    <item>
+      <title>Chargers re-signed S Tony Jefferson to a one-year, $2 million contract.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-023d-dcce-a3bd-e3bd8d910000</link>
+      <description>Jefferson retired in 2023, with most of his best seasons coming under John Harbaugh in Baltimore. He came out of retirement to play for Jim Harbaugh in LA two seasons ago and didn’t miss a beat. He appeared in 13 games with eight starts last year and also started the team’s lone postseason contest. Jefferson broke up seven passes, stole four interceptions, and logged a combined 57 tackles. A $2 million contract suggests a minor role for him this season, but he has proven to be a valuable depth option for the perennially-injured Chargers.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-023d-dcce-a3bd-e3bd8d910000</guid>
+    </item>
+    <item>
+      <title>Boston Scott retired from the NFL after six seasons.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-025c-d121-ab9d-d2dc10c30000</link>
+      <description>Scott had brief stints with the Rams and Steelers after leaving Philly during the 2024 offseason. He never appeared in a game for either team. He ends his career with 302 carries for 1,295 yards and 16 scores. Scott famously had the Giants’ number throughout his six seasons in Philly. He faced the G-Men 10 times and scored a total of 10 touchdowns against them.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-025c-d121-ab9d-d2dc10c30000</guid>
     </item>
   </channel>
 </rss>
