@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 12:02:26 +0000</lastBuildDate>
-    <item>
-      <title>Steelers re-signed C Ryan McCollum.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0d20-d9a8-a9dd-fd61afa20000</link>
-      <description>The backup center gets a one-year deal, which makes sense for all involved. McCollum has spent the last two seasons with the Steelers. He earned a 50.2 PFF offense grade via 153 regular season snaps in 2024 and a 69.0 PFF offense grade via eight snaps in 2025.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0d20-d9a8-a9dd-fd61afa20000</guid>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 13:16:31 +0000</lastBuildDate>
     <item>
       <title>Panthers LT Rasheed Walker “has been accepted into a pretrial diversion program that will clear a January gun charge from his record.”</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0d25-d121-ab9d-dfbd99670000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0dec-d95e-a1dd-4deffcf90000</link>
       <description>Witherspoon has made three Pro Bowls via initial-ballot voting, so his fully guaranteed fifth-year option comes in at around $21.2 million. He also earned second-team All-Pro honors in 2025. The Seahawks now have extra time to work on a long-term extension for their talented, 25-year-old cornerback.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-0dec-d95e-a1dd-4deffcf90000</guid>
+    </item>
+    <item>
+      <title>Titans signed LB Mohamoud Diabate, formerly of the Browns.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-15ac-d121-ab9d-d7bce86c0000</link>
+      <description>Diabate profiles as a run-stuff linebacker — his PFF grades in run defense have been his selling trait — and still has room to grow as he turns 25 this offseason. He’ll compete for a role in the Titans linebacker room after being non-tendered by the Browns this offseason.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-15ac-d121-ab9d-d7bce86c0000</guid>
     </item>
   </channel>
 </rss>
