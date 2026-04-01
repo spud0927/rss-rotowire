@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 19:21:58 +0000</lastBuildDate>
-    <item>
-      <title>9 News’ Mike Klis reports there’s a “zero percent” chance of Aaron Rodgers signing with the Broncos.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-49a4-dcce-a3bd-ebacb80b0000</link>
-      <description>In what could be a clumsy April Fool’s joke, reports of Rodgers meeting with the Broncos circulated on Wednesday, prompting several Denver beat writers to shoot down the unsourced rumors. Rogers, 42, has been in touch with Steelers head coach Mike McCarthy in recent weeks and appears primed for one more season under center for Pittsburgh. The Broncos, meanwhile, are expecting Bo Nix to be ready for training camp following the ankle injury he sustained in the postseason. Nix’s starting job appears to be in no jeopardy.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-49a4-dcce-a3bd-ebacb80b0000</guid>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 20:10:26 +0000</lastBuildDate>
     <item>
       <title>Titans signed QB Hendon Hooker.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4a0b-d9a8-a9dd-fb6b4c1a0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4a41-d121-ab9d-dad932ad0000</link>
       <description>It’s the latest part of a masterclass by the Titans on April 1, 2026, as they have signed four different players that we can barely find anything to say about. McCutcheon had announced his retirement earlier in the offseason, but instead will report to Tennessee for training camp. He hasn’t played in an NFL game since the 2022 season.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4a41-d121-ab9d-dad932ad0000</guid>
+    </item>
+    <item>
+      <title>ESPN’s Josh Weinfuss expects the Cardinals to be a running back by committee “to a certain degree.”</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4a88-d95e-a1dd-4fcf76de0000</link>
+      <description>Weinfuss has a lengthy profile of Tyler Allgeier’s decision to join the Cardinals that explicitly states several times things like “Allgeier said the Cardinals had not discussed his role” and "[h]ow the reps will be divided is yet to be seen.” It’s not wildly encouraging news for Allgeier’s fantasy prospects as the run-first option in a backfield of a team that figures to be trailing often in 2026. Allgeier is still probably the bet to lead the committee, but he’s probably deep in the RB3/RB4 conversation given the uncertainty and how poor this team looks on paper.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4a88-d95e-a1dd-4fcf76de0000</guid>
     </item>
   </channel>
 </rss>
