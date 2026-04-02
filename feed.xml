@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 16:16:28 +0000</lastBuildDate>
-    <item>
-      <title>ESPN’s Michael DiRocco reports the Jaguars have had preliminary discussions about extensions for WR Parker Washington, TE Brenton Strange, and EDGE Travon Walker.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4a30-d9a8-a9dd-fb7148640000</link>
-      <description>It was pointed out by John Shipley a few days ago that Wan’Dale Robinson’s free agent contract might be a starting point for the Washington extension. Walker is entering his final season under his rookie contract’s fifth-year option. Strange and Washington are both on the final year of their rookie contracts. The Jaguars have been uncharacteristically (and probably smartly, given their success last year) quiet in free agency, so perhaps they’re just focusing on locking up their core.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4a30-d9a8-a9dd-fb7148640000</guid>
-    </item>
+    <lastBuildDate>Thu, 02 Apr 2026 17:14:30 +0000</lastBuildDate>
     <item>
       <title>ESPN’s Stephen Holder believes Josh Downs will have a bigger role in the Colts offense in 2026.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4a34-d95e-a1dd-4fff3bbb0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4ed0-d9a8-a9dd-fff1eb310000</link>
       <description>For the 11th consecutive season, Cousins will play on a fully guaranteed contract. While his contract is technically for five years, $172 million, in reality he’s set to receive $20 million for one year with the Raiders. The Falcons are paying Cousins $8.7 million this season, the Raiders another $1.3 million and the Raiders have guaranteed Cousins a $10 million roster bonus on the third day of the 2027 new league year. One of the greatest bag-getters in league history, Cousins, who turns 38 in August, has another guaranteed contract in hand and is set up to hit free agency again next offseason.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4ed0-d9a8-a9dd-fff1eb310000</guid>
+    </item>
+    <item>
+      <title>Bengals signed S Kyle Dugger.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4f0f-d121-ab9d-df9fb4610000</link>
+      <description>Dugger was a full-time starter for years in New England before falling out of favor under new head coach Mike Vrabel, starting four of seven games before the Patriots traded him to the Steelers. Now the 30-year-old safety is on his way to Cincinnati, where he’ll presumably start once again. Dugger had 59 total tackles, five passes defended and two interceptions in 16 games (13 starts) in 2025.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-4f0f-d121-ab9d-df9fb4610000</guid>
     </item>
   </channel>
 </rss>
