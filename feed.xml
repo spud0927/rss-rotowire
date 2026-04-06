@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 21:09:18 +0000</lastBuildDate>
-    <item>
-      <title>Sports Illustrated’s John Shipley believes “it certainly seems like the Jaguars are set to keep their running back group as-is.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-602b-d121-ab9d-f2bb2a300000</link>
-      <description>As things currently stand, incumbent second-year RB Bhayshul Tuten and free agent signee RB Chris Rodriguez are set to duke it out for the backfield committee’s lead role. Rodriguez, 5'11/224, is built to handle a hefty workload, though the coaching staff willingly deployed Tuten, 5'9/209, in scoring position last year. Fellow second-year RB LeQuint Allen likely has the edge for the primary receiving role. Should one player win the starting role outright this summer, they should produce in the RB2/FLEX range come Week 1.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-602b-d121-ab9d-f2bb2a300000</guid>
-    </item>
+    <lastBuildDate>Mon, 06 Apr 2026 22:06:26 +0000</lastBuildDate>
     <item>
       <title>Lamar Jackson was present for the start of the Ravens’ offseason program.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-62e0-d121-ab9d-f2f877070000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-6486-dcce-a3bd-e7aeff160000</link>
       <description>Bryant started three of the 11 games he appeared in last season for the Texans, totaling 40 tackles and one TFL. The sixth-year corner appeared on 343 defensive snaps for the Texans last season and can also serve as a contributor on special teams. Bryant has started 20 games in his career and spent most of his time lined up at free safety or in the slot, per PFF.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-6486-dcce-a3bd-e7aeff160000</guid>
+    </item>
+    <item>
+      <title>NFL Network’s Ian Rapoport reports the Texans hosted free agent CB Martin Emerson for a visit on Monday.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-64a6-dcce-a3bd-e7ae771e0000</link>
+      <description>Emerson missed all of 2025 due to a torn Achilles, but the 25-year-old corner was a key contributor for the Browns before going down. From 2023 to 2024, Emerson started 27 of 33 games for the Browns, breaking up 19 passes while picking off four, and also tallying 139 tackles over that span. Emerson is a former third-round pick who has played primarily on the outside for his career.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-64a6-dcce-a3bd-e7ae771e0000</guid>
     </item>
   </channel>
 </rss>
