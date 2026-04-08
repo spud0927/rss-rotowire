@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 18:20:40 +0000</lastBuildDate>
-    <item>
-      <title>SNY’s Connor Hughes reports a source expects Giants DT Dexter Lawrence will “demand $30 million annually.”</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-6993-d208-addf-f9d3fb9d0000</link>
-      <description>Lawrence actually already has a $26.9 million cap hit, but the AAV of the deal he signed in 2023 is only $20 million a season. He could also simply be seeking more guaranteed money. Hughes notes that Lawrence could command a first-round pick in a trade if one happens, but defaults to believing the Giants will extend him.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-6993-d208-addf-f9d3fb9d0000</guid>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 19:27:47 +0000</lastBuildDate>
     <item>
       <title>Free agent DT Jay Tufele visited the Lions on Tuesday.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-69be-d317-a1dd-efff37cb0000</link>
@@ -65,8 +59,14 @@
     <item>
       <title>Giants signed OT Daniel Faalele, formerly of the Ravens.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-6e3f-d208-addf-ffffc7010000</link>
-      <description>Harbaugh won’t be satisfied until every player he coached over his 18 years in Baltimore is on the Giants’ roster. A former fourth-round pick of the Ravens, Faalele was drafted as a tackle but eventually switched to right guard, where he served as the team’s starter for the past two seasons. Faalele didn’t receive much interest in free agency and will be penciled in for a depth role in New York.</description>
+      <description>Harbaugh won’t be satisfied until every player he coached over his 18 years in Baltimore is on the Giants’ roster. A former fourth-round pick of the Ravens, Faalele was drafted as a tackle but eventually switched to right guard, where he served as the team’s starter for the past two seasons. Faalele didn’t receive much interest in free agency and will likely be competing for a starting spot during the summer.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-6e3f-d208-addf-ffffc7010000</guid>
+    </item>
+    <item>
+      <title>Falcons RT Kaleb McGary announced his retirement from the NFL after six seasons.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-6e84-dfeb-afdd-efee95600000</link>
+      <description>The former No. 31 overall pick played in Atlanta for six seasons. He missed the 2025 season after suffering an undisclosed leg injury during training camp. Head coach Kevin Stefanski said last month that McGary should be “good to go” for training camp, so it’s unclear if his abrupt retirement is related to the knee issue. McGary made 92 starts for the Falcons over his six seasons and was consistently one of the league’s best run-blocking right tackles.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-6e84-dfeb-afdd-efee95600000</guid>
     </item>
   </channel>
 </rss>
