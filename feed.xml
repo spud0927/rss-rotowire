@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 20:21:35 +0000</lastBuildDate>
-    <item>
-      <title>Falcons released P Trenton Gill.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d63e-de0c-a1ff-ff7f7ce40000</link>
-      <description>Gill was signed by the Falcons to a reserve/future deal in January. He is a former seventh-round pick of the Bears and spent two years in Chicago, followed by a half-season punting for the Buccaneers. Gill did not punt at all in 2025 and now hits free agency again as the Falcons move forward with Jake Bailey as the punter on their roster.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d63e-de0c-a1ff-ff7f7ce40000</guid>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 21:20:56 +0000</lastBuildDate>
     <item>
       <title>Titans President of Football Operations Chad Brinker announced he is stepping down.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d6b7-d317-a1dd-f6ffa3fb0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-daa2-de0c-a1ff-fbfbd1850000</link>
       <description>The Jets acquired Smith when they traded Quinnen Williams to Dallas. Smith only appeared in three games for Gang Green last year. He did not record any counting stats. Smith now enters a contract year with a lot to prove.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-daa2-de0c-a1ff-fbfbd1850000</guid>
+    </item>
+    <item>
+      <title>Lions signed LB Joe Bachie, formerly of the Titans.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-dae8-d208-addf-dbf918150000</link>
+      <description>Deroitr also announced the signing of DT Jay Tufele, formerly of the Jets. Bachie was released by the Colts a month into the 2025 season but landed in Tennessee for 10 games. He is primarily a special teamer. Tufele appeared in a dozen games with two starts last year. He logged 12 combined tackles.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-dae8-d208-addf-dbf918150000</guid>
     </item>
   </channel>
 </rss>
