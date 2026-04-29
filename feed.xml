@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 23:15:46 +0000</lastBuildDate>
-    <item>
-      <title>Giants GM Joe Schoen said New York is “comfortable” with Francis Mauigoa’s herniated disc.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d560-de0c-a1ff-ff7938620000</link>
-      <description>The Athletic’s Dan Duggan reports that the Giants are aware surgery “could eventually be necessary, but they don’t believe it’s a certainty.” He cites Tyler Linderbaum’s 2024 training camp — he missed most of camp but was able to play all 17 games in the regular season. Reading between the lines, we’re expecting Mauigoa’s offseason to be truncated in some way, and Duggan adds it’s possible Mauigoa gets surgery after the season if his back bothers him during his rookie year.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d560-de0c-a1ff-ff7938620000</guid>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 00:19:08 +0000</lastBuildDate>
     <item>
       <title>The Athletic’s Dan Duggan reports the Giants were seeking a second-round pick for EDGE Kayvon Thibodeaux during the draft.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d563-d208-addf-ddf3813d0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d611-de0c-a1ff-ff594f0f0000</link>
       <description>The fifth-year option and franchise tag grouping of positions strikes again. Campbell would have received $21.9 million if Detroit picked up the option due to the amount of pure EDGE players that are factored into the equation — it’s essentially the same reason why the Packers declined Quay Walker’s fifth-year option last year and lost him in free agency. The Lions reportedly were trying to strike a long-term extension with Campbell — this doesn’t seem like a true signal on that so much as the natural outcome of not wanting to head into negotiations with that figure over Brad Holmes’ head.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d611-de0c-a1ff-ff594f0f0000</guid>
+    </item>
+    <item>
+      <title>Falcons released P Trenton Gill.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d63e-de0c-a1ff-ff7f7ce40000</link>
+      <description>Gill was signed by the Falcons to a reserve/future deal in January. He is a former seventh-round pick of the Bears and spent two years in Chicago, followed by a half-season punting for the Buccaneers. Gill did not punt at all in 2025 and now hits free agency again as the Falcons move forward with Jake Bailey as the punter on their roster.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-d63e-de0c-a1ff-ff7f7ce40000</guid>
     </item>
   </channel>
 </rss>
