@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 17:18:45 +0000</lastBuildDate>
-    <item>
-      <title>Colts waived DE Viliami Fehoko Jr.</title>
-      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-e058-d208-addf-f9d9e7f70000</link>
-      <description>Fehoko has played zero snaps since entering the league as a fourth-round pick in 2023. The Colts also waived LB Joseph Vaughn and released OG Bill Murray. OT Jack Wilson was waived as well, though he will revert to the Colts’ injured reserve list if he clears waivers.</description>
-      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-e058-d208-addf-f9d9e7f70000</guid>
-    </item>
+    <lastBuildDate>Fri, 01 May 2026 18:17:59 +0000</lastBuildDate>
     <item>
       <title>Titans signed fifth-round pick RB Nicholas Singleton to a four-year contract.</title>
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-e064-d2fa-abff-e4fe458d0000</link>
@@ -67,6 +61,12 @@
       <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-e45f-d208-addf-fddf3e700000</link>
       <description>Downs is expected to be an immediate starter for a Cowboys defense that ranked 32nd in points allowed last season, while also allowing the highest yards per attempt. Downs is a versatile defender who excelled in both pass coverage and against the run while at Ohio State. He is one of six Cowboys to ink their rookie deals, with pass rusher Malachi Lawrence the only one yet to put pen to paper.</description>
       <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-e45f-d208-addf-fddf3e700000</guid>
+    </item>
+    <item>
+      <title>Saints signed Ole Miss DT Zxavian Harris to deal.</title>
+      <link>https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-e475-d317-a1dd-e67d55050000</link>
+      <description>Harris (6’7"/330) is a long, space-eating interior defender whose game is built on size, leverage flashes, and steady year-over-year production growth, culminating in a 73.3 overall grade and 77.5 run defense grade in 2025. Harris logged 693 snaps with 24 total pressures (18 hurries, three sacks), showing incremental pass-rush development while primarily functioning as a gap-controlling interior presence. He uses his length effectively to clog passing lanes (two PBUs in 2025) and can generate knockback when he keeps his pads down, flashing the ability to displace centers and anchor against double teams. However, Harris’ high-hipped build and inconsistent pad level limit his ability to consistently win leverage, with stiffness in his lower half showing up when trying to redirect or counter reach blocks. His production profile remains modest for the snap volume, and his pass-rush plan can stall out once initial momentum is stopped, leading to more pressures than finishes. Harris projects as a developmental nose/1-tech whose size, length and improving consistency give him a path to early-down rotational value.</description>
+      <guid isPermaLink="true">https://www.nbcsports.com/fantasy/football/player-news?playerNewsId=0000019d-e475-d317-a1dd-e67d55050000</guid>
     </item>
   </channel>
 </rss>
