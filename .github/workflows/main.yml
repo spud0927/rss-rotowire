@@ -3,7 +3,7 @@ name: Build RSS Feed
 on:
   schedule:
     # UPDATED: Runs every 30 mins between 5 AM and 10 PM Pacific Time
-    - cron: '0 0,3,6,12,15,18,21 * * *'
+    - cron: '32 0,3,6,12,15,18,21 * * *'
   workflow_dispatch:
 
 jobs:
