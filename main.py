@@ -66,7 +66,9 @@ def scrape_and_generate_feed():
                 post_body = body_element.get_text(strip=True)
                 post_url = link_element['data-share-url']
 
-                fe = fg.add_entry()
+                # The page lists posts newest-first; append (rather than the
+                # default prepend) so the feed stays newest-first too.
+                fe = fg.add_entry(order='append')
                 fe.title(post_title)
                 fe.link(href=post_url)
                 fe.guid(post_url, permalink=True)
