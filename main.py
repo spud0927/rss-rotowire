@@ -8,12 +8,15 @@ from datetime import datetime, timezone
 URL = "https://www.nbcsports.com/fantasy/football/player-news"
 MAX_ITEMS = 15
 
-# Selectors for the different parts of each post on the page
-POST_SELECTOR = "div.PlayerNewsPost-content"
-TITLE_SELECTOR = "div.PlayerNewsPost-headline"
-BODY_SELECTOR = "div.PlayerNewsPost-analysis"
-LINK_SELECTOR = "button[data-share-url]"
-DATE_SELECTOR = "div.PlayerNewsPost-date"
+# Selectors for the different parts of each post on the page.
+# NOTE: iterate over the full PlayerNewsPost container, not PlayerNewsPost-content,
+# because the share button lives outside the -content div. Title/body selectors are
+# tag-agnostic since the headline is now an <h3> (previously a <div>).
+POST_SELECTOR = "div.PlayerNewsPost"          # The main container for each news item
+TITLE_SELECTOR = ".PlayerNewsPost-headline"   # The element with the headline text
+BODY_SELECTOR = ".PlayerNewsPost-analysis"    # The element with the analysis text
+LINK_SELECTOR = "button[data-share-url]"      # The button with the permanent link
+DATE_SELECTOR = ".PlayerNewsPost-date"        # The element carrying data-timestamp
 # --- END CONFIGURATION ---
 
 
@@ -46,8 +49,10 @@ def scrape_and_generate_feed():
             post_datetime = None
 
             # --- NEW TIMESTAMP PARSING LOGIC ---
-            if date_element and date_element.get('data-timestamp'):
-                timestamp_str = date_element.get('data-timestamp')
+            # The page carries the ISO datetime in data-date (data-timestamp is empty),
+            # e.g. "2026-06-25T02:43:52.378Z".
+            if date_element and date_element.get('data-date'):
+                timestamp_str = date_element.get('data-date')
                 try:
                     # The 'Z' at the end stands for Zulu time (UTC).
                     # We replace it with a standard UTC offset that Python can read.
