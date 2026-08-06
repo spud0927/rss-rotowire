@@ -2,17 +2,28 @@ name: Build RSS Feed
 
 on:
   schedule:
-    # UPDATED: Runs every 30 mins between 5 AM and 10 PM Pacific Time
+    # Runs 7x daily, roughly every 3 hours.
+    # Pacific (PDT): 05:32, 08:32, 11:32, 14:32, 17:32, 20:32, 23:32
     - cron: '32 0,3,6,12,15,18,21 * * *'
   workflow_dispatch:
+
+# If a run is stuck waiting on a hosted runner, let the next scheduled run
+# supersede it rather than piling up behind it.
+concurrency:
+  group: build-rss-feed
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
+    # Successful runs finish in ~15-20s. Anything near this limit is a
+    # stuck runner, not slow code.
+    timeout-minutes: 10
+
     permissions:
       contents: write
-      
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -33,4 +44,25 @@ jobs:
           git config --global user.name "RSS Bot"
           git config --global user.email "actions@github.com"
           git add feed.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
+
+          if git diff --staged --quiet; then
+            echo "feed.xml unchanged, nothing to commit"
+            exit 0
+          fi
+
+          git commit -m "Update RSS feed"
+
+          # github.com occasionally returns a 5xx on push; retry before failing.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying in $((attempt * 10))s"
+            sleep $((attempt * 10))
+            # Steps run under `bash -e`, so don't let a failed pull abort the
+            # retry loop; the next push attempt will surface the real error.
+            git pull --rebase || true
+          done
+
+          echo "Push failed after 3 attempts"
+          exit 1
