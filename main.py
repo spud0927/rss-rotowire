@@ -1,4 +1,5 @@
 # main.py
+import time
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
@@ -7,6 +8,8 @@ from datetime import datetime, timezone
 # --- CONFIGURATION ---
 URL = "https://www.nbcsports.com/fantasy/football/player-news"
 MAX_ITEMS = 15
+REQUEST_TIMEOUT = 30   # Seconds. Without this a stalled connection hangs forever.
+FETCH_ATTEMPTS = 3     # Transient 5xx / connection resets are common on this host.
 
 # Selectors for the different parts of each post on the page.
 # NOTE: iterate over the full PlayerNewsPost container, not PlayerNewsPost-content,
@@ -20,6 +23,31 @@ DATE_SELECTOR = ".PlayerNewsPost-date"        # The element carrying data-timest
 # --- END CONFIGURATION ---
 
 
+def fetch_page():
+    """
+    Fetches the news page, retrying on transient network errors.
+
+    The timeout matters more than it looks: requests.get with no timeout blocks
+    indefinitely if the server accepts the connection and then stalls, which
+    would leave the scheduled job running until CI kills it.
+    """
+    for attempt in range(1, FETCH_ATTEMPTS + 1):
+        try:
+            response = requests.get(
+                URL,
+                headers={'User-Agent': 'Mozilla/5.0'},
+                timeout=REQUEST_TIMEOUT,
+            )
+            response.raise_for_status()
+            return response
+        except requests.RequestException as e:
+            if attempt == FETCH_ATTEMPTS:
+                raise
+            delay = attempt * 5
+            print(f"  -> Fetch attempt {attempt} failed ({e}); retrying in {delay}s")
+            time.sleep(delay)
+
+
 def scrape_and_generate_feed():
     """
     Scrapes a single page to get the title, body, link, and timestamp for
@@ -27,8 +55,7 @@ def scrape_and_generate_feed():
     """
     try:
         print("--- Starting Scrape ---")
-        response = requests.get(URL, headers={'User-Agent': 'Mozilla/5.0'})
-        response.raise_for_status()
+        response = fetch_page()
 
         soup = BeautifulSoup(response.content, "lxml")
         posts = soup.select(POST_SELECTOR)
